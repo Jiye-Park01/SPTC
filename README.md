@@ -1,5 +1,5 @@
 # SPTC (Single Pass Tree Chain-of-Thought) : Efficient prompting scheme for Small Language Models
-<img src="figure/architecture.png" alt="SPTC architecture" width="400"/>
+<img src="figure/architecture.png" alt="SPTC architecture" width="800"/>
 
 SPTC는 반복적인 외부 호출 없이 단일 프롬프트 내에서 여러 추론 후보를 생성·평가해 최적 답변을 선택하는 새로운 구조적 추론 기법
 경량화된 소형 언어 모델(SLM) 환경에서도 높은 정확도와 빠른 추론 속도 달성
@@ -27,7 +27,7 @@ SPTC는 첫 단계에서 여러 답변 후보를 단일 프롬프트 내에서 �
 여러 SLM 모델(Mistral-7B, Phi-2, LLaMA 2, Qwen 등등)에서 검증 완료
 
 ## 결과
-<img src="figure/Result.png" alt="Result" width="250"/>
+<img src="figure/Result.png" alt="Result" width="500"/>
 
 ## Research Paper
 For more details, please refer to the full paper:
