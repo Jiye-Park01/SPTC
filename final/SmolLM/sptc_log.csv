@@ -1,0 +1,882 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"Table: In a table, you can't send mail.
+B: Post office: In a post office, you can't send mail.
+C: Neighbor's House: In a neighbor's house, you can't send mail.
+D: Railway Station: In a railway station, you can't send mail.
+E: Fridge: In a fridge, you can't send mail.
+
+
+Q: What is the name of the girl who has won the Grand Prix",0.37833753
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,The brain is the most important organ in the body.,0.10248782
+2,Where is the best place to get furniture from?,store,"Room
+B: Store
+C: Warehouse
+D: Loft
+Evaluation:
+- Room is the best place for getting furniture from.
+- Store has limited options.
+- Warehouse is not suitable for getting furniture.
+- Loft is not a good option.
+- Rug is not the best place to get furniture.
+Final Answer: Room is the best place to get furniture from.
+
+Q: What do you need to buy in a restaurant?",0.37484753
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,"accidental
+B: detestable
+C: effusive
+D: enabled
+E: shocking
+Evaluation:
+- Accidental: The original incident had nothing to do with Johnny's behavior afterward.
+- Detestable: The incident itself was very bad.
+- Effusive: Johnny's behavior afterward was very loud, but not necessarily bad.
+- Enabled: Johnny's behavior afterward was allowed to happen.
+- Shocking: Johnny's behavior afterward was very unexpected and surprising",0.41688305
+4,Where might a person play an acoustic guitar at a birthday party?,house,"studio
+B: At funeral place
+C: house
+D: music shop
+E: closet
+Evaluation:
+- Playing an acoustic guitar at a funeral place is inappropriate.
+- Playing an acoustic guitar at a music shop is not possible.
+- Playing an acoustic guitar at a house is not possible.
+- Playing an acoustic guitar at a music shop is not possible.
+- Playing an acoustic guitar at a funeral place is possible.
+Final Answer: Playing an acoustic guitar at a",0.30631912
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,"factory.
+B: airbase.
+C: recording studio.
+D: garage.
+E: nuclear plant.
+Evaluation:
+- Mixing is not a job for a NASA engineer.
+- A record station is not a factory.
+- A garage with a mixer is not an airbase.
+- A recording studio is not a garage.
+- A nuclear plant is not a garage.
+Final Answer: A record station is a recording studio.
+
+Q: When",0.527284
+6,What usually happens to work when taking a break?,delay,"viruses
+B: hackers
+C: crashes
+D: slow performance",0.1739175
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,To protect eyes from sunlight,0.09226361
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"Orlando.
+B: Fabric.
+C: North Carolina.
+D: Georgia.
+E: Medicine Cabinet.
+Evaluation:
+- Florida has a warm climate ideal for growing cotton.
+- Florida is a major cotton exporter.
+- North Carolina has a humid climate ideal for growing cotton.
+- North Carolina is a major cotton exporter.
+- Georgia is a major cotton exporter.
+Final Answer: Florida.
+
+Q: The woman's husband is __________.",0.38714486
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"bed.
+B: restaurant.
+C: synagogue.
+D: wedding.
+E: all buildings.
+(1) Bed.
+(2) Restaurant.
+(3) Synagogue.
+(4) Wedding.
+(5) All buildings.
+Evaluation:
+- Bed is critical.
+- A wet floor is a safety hazard.
+- Keeping a clean floor is very important.
+Final Answer: Keeping a clean floor is very important.",0.36887994
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,shoe,0.30926764
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"4
+B: 5
+C:",0.09064652
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,"sea world.
+B: tropical waters.
+C: tomales bay.
+D: aquarium.
+Evaluation:
+- It's not at tropical waters.
+- It's not in the aquarium.
+- It's not at tomales bay.
+- It's not at sea world.
+- It's not in the great oceans.
+Final Answer: It must be at tomales bay.
+
+Q: What is the best title for this passage?
+Choices:",0.47992307
+13,What does the best horse in the world win?,triple crown,"race track.
+B: kentucky derby.
+C: trophy.
+D: american southwest.
+E: triple crown.
+Evaluation:
+- race track is the best.
+- kentucky derby is the second best.
+- trophy is the third best.
+- american southwest is the fourth best.
+- triple crown is the best.
+Final Answer: To win the triple crown.
+
+
+Q: Which of these is a kind of car?",0.520189
+14,How do you indicate that you agree wtih someone?,nodding,"like more.
+B: nodding.
+C: by wearing rings.
+D: concordance.
+Evaluation:
+- Like more is not an option.
+- Nodding is not the right answer.
+- Wearing rings is an option.
+- Concordance is the correct answer.
+Final Answer: Nodding.
+
+Q: The word 'exotic' is the opposite of the word 'home-grown'. What does it mean?
+Choices:",0.4531077
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,"Orchestra
+B: Jazz Band
+C: Rock Band
+D: Music Store
+E: Music Studio
+Evaluation:
+- Orchestra is the most logical choice.
+- Jazz Band is secondary.
+- Rock Band is not needed for playing clarinet.
+- Music Studio is not needed.
+- Music Store is not needed.
+Final Answer: Artie Shaw became famous playing a clarinet in an orchestra.
+
+Q: Who was the first person to win a gold medal for",0.432935
+16,If you're drinking what body part does most of the work?,mouth,"glass is the most important body part.
+B: drinking is the most important body part.
+C: swallowing is the most important body part.
+D: mouth is the most important body part.
+E: use glass is the most important body part.
+Evaluation:
+- Drinking and swallowing are both very important.
+- Use glass is less important than drinking and swallowing.
+Final Answer: Use glass.
+
+Q: What body part provides the best way to get oxygen?",0.23899874
+17,What does someone do before they travel to work?,get ready,"read a book
+B: watch TV
+C: look at your phone
+D: have dinner
+E: go to bed
+Let's think through different possibilities",0.2410754
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,"The candles were too close to the curtains.
+B: The candles were too near to the curtains.
+C: The candles",0.103219144
+19,Where would you find only one churchyard?,village,"a city
+B: a countryside",0.46854836
+20,What does an actor in a musical do?,sing songs,"branch out. A musical may have different parts like
+- A narrator who directs the song
+- A narrator who sings
+- A narrator who speaks
+- A narrator who dances
+- A narrator who dances
+- A narrator who dances
+- A narrator who sings
+- A narrator who sings
+- A narrator who sings
+- A narrator who dances
+- A narrator who dances
+- A narrator who dances
+- A narrator who dances
+- A narrator who sings
+- A narrator",0.3790447
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"learning.
+B: painful memories.
+C: thinking.
+D: awe inspiring.
+E: pleasure.
+Evaluation:
+- Painful memories are the most important.
+- Learning is secondary.
+- Thinking is not important.
+- Awe inspiring is not important.
+- Pleasure is not important.
+Final Answer: Learning is most important.
+
+Q: What will you need to do to decide whether to be seeing artifacts?
+Choices:
+A",0.34569556
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,"tardiness:
+B: neatness:
+C: bathe:
+D: late:
+E: looking good:
+Evaluation:
+He wanted to make himself look attractive.
+- Tardiness is not desired.
+- Neatness is not desired.
+- Bathing is very important.
+- Late is not desired.
+- Looking good is very important.
+Final Answer: He wanted to make himself look attractive.
+
+
+Q: Choose the best answer for",0.3433306
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,"bought at store.
+B: barrel.
+C: refrigerator.
+D: oven.
+E: fridge.
+Evaluation:
+- Buying a turkey is not necessary.
+- A barrel is not used for storing turkeys.
+- A refrigerator is not required for keeping a turkey.
+- An oven is not an appropriate place to store a turkey.
+Final Answer: To keep a turkey unspoiled, a refrigerator is needed.
+
+
+Q: What does a bar of",0.3736527
+24,Where could a bee get stuck easily?,soft drink,"1,2,3,4,5
+B: 5",0.09214547
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"To explain a new technology
+B: To convince the readers to buy a product",0.25656295
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,"explosion
+B: unpredictable
+C: disaster
+D: warmth
+E: everywhere
+Evaluation:
+- Flames move in unpredictable patterns.
+- Flames move in explosions.
+- Flames move in disaster.
+- Flames move in warmth.
+- Flames move everywhere.
+Final Answer: Flames move in unpredictable patterns.
+
+
+Q: If you can do something, it is a good idea to do it, but if you can't do it, it's",0.4495316
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,"School is a place for learning.
+B: Sears is a place for selling clothes.
+C: Fair is a place for selling food.
+D: Arena is a place for sports.
+E: Mall is a place for shopping.
+Evaluation:
+- The equipment manager was in charge of the sports equipment",0.34967613
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"kitchen
+B: doctor's office
+C: hospital
+D: bathroom
+E: jar
+Evaluation:
+- Medicine is often needed.
+- Taking medicine is not very fun.
+- Not where they can easily see it.
+- They have to take it with them.
+- Jars are not convenient.
+- Jars are not often kept clean.
+Final Answer: medicine is kept in the bathroom.
+
+Q: How do you feel while you are driving?",0.49688268
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"office
+B: table
+C: library
+D: falling down
+E: building
+Evaluation:
+- Office is not directly mentioned.
+- Table is not specifically mentioned.
+- Library is not a specific location.
+- Building is not specifically mentioned.
+- Falling down is not a specific location.
+Final Answer: Office
+
+
+Q: What does the word ""so"" mean in the sentence below?
+""The answer is so simple.""
+Choices:",0.3896275
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"entertainment
+(1) entertainment is not a good choice.
+(2) A train is not a good choice.
+(3) A motel is not a good choice.
+(4) A hotel is not a good choice.
+(5) A wedding is not a good choice.
+Evaluation:
+- Entertainment is important.
+- Train is not a good choice.
+- Motel is not a good choice.
+- Hotel is not a good choice.
+-",0.33952698
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"indictment: A formal accusation made by a grand jury against a person suspected of committing a crime.
+B: embarrassment: To make (someone) feel ashamed.
+C: penalty: A punishment imposed for an offense.
+D: go to jail: To be sentenced to prison.
+E: jail time: A period of incarceration.
+Evaluation:
+- Indictment is not a common term in legal context.
+- Embarrassment is a common term but not the correct one",0.50986814
+32,where do people go to view famous pictures?,art show,"window
+B: art show
+C: trunk
+D: newspaper
+E: books
+Evaluation:
+- Trunk is not a place where people can view famous pictures.
+- Books are not a place where people can view famous pictures.
+- Newspaper is not a place where people can view famous pictures.
+- Art show is the only place where people can view famous pictures.
+Final Answer: Art show.
+
+Q: Who does the speaker like to talk to?",0.426182
+33,Why might someone think killing is justified?,punishment,"pleasure.
+B: punishment.
+C: pleasure.
+D: punishment.
+E: investigation.
+Evaluation:
+- Killing is a violent act.
+- Many people may find that act pleasurable.
+- Others may think it is punishing.
+- Some may think it is a form of investigation.
+- Some may consider it a form of punishment.
+Final Answer: Killing is a violent act.
+
+Q: Why do people like the color orange?",0.5278491
+34,What is the purpose of a basketball court?,use,To protect,0.2991674
+35,Where would you look up what an anemone is?,dictionary,"oceanography.
+B: tide pool.
+C: south pacific.
+D: dictionary.
+E: sea water.
+Evaluation:
+- Oceanography is the study of oceans.
+- Tide pools are small areas of shallow water at the edge of the ocean.
+- South Pacific is a region of the Pacific Ocean.
+- Tide pools are not a place, but a state of the sea.
+- Sea water is not a place.
+Final Answer:",0.11073157
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"throw away
+B: disregard
+C: being rude
+D: humiliate
+E: abhor
+Evaluation:
+- Respecting someone's wishes is important.
+- Disregarding someone's wishes is rude.
+- Being rude is not acceptable.
+- Humiliating someone is not acceptable.
+- Abhorring someone is not acceptable.
+Final Answer: Ben would always do what about her wishes.
+
+Q: Do you think she will accept his help?",0.32713288
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"He was feeling sick
+B: He had a",0.049879856
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,"pleasure. This is the most likely answer.
+Evaluation:
+- He was seeing artifacts that he knew were fake.
+- He thought it was important to know about the fake artifacts.
+- He might have felt a sense of pride, but that is not the most likely answer.
+- It is important to remember that he was seeing fake artifacts, not real ones.
+- He might have thought it was exciting to learn about the fake artifacts.
+- He might have been angry at",0.24642578
+39,Where is a good place to store a saw?,toolbox,"hardware store.
+B: tool shed.
+C: storage.
+D: tool kit.
+E: toolbox.
+Evaluation:
+- Hardware store is not appropriate.
+- Tool shed is not appropriate.
+- Storage is not appropriate.
+- Tool kit is not appropriate.
+- Toolbox is not appropriate.
+Final Answer: A good place to store a saw is in a tool shed.
+
+Q: How do you make a sandwich?
+Choices:",0.3614282
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"Your phone
+B: Your license
+C: Your passengers
+D: Your car
+E",0.13877088
+41,What is not always found in a large volume?,collection of books,"the creation story
+B: instructions on how to build a boat
+C: instructions on how to build a",0.16635627
+42,Where does someone obtain a frying pan?,department store,"department store.
+B: homes.
+C: stove.
+D: kitchen cupboard.
+E: kitchen cabinet.
+Evaluation:
+- Stove is the most logical choice.
+- Cooking is more important than frying.
+- Kitchen is where people get food and cook.
+- Stove is commonly found in kitchens.
+- Cabinets are not suitable for cooking.
+Final Answer: Stove.
+
+Q: Which is the best use of a toaster",0.22796452
+43,What is the result of getting drunk?,hangover,0.12 + 0,0.12736815
+44,What could happen to garbage after it is put into a landfill?,composted,"Container is a good idea.
+- It keeps the garbage separate from the environment.
+B: Composted is a good idea.
+- The garbage will decompose more quickly.
+C: The garbage will decompose slowly.
+- It will take longer to decompose.
+D: The garbage will decompose faster.
+- It will be less of an eyesore.
+E: The garbage will produce fertilizer and increase soil fertility.
+Evaluation:
+- Composted is the best solution.",0.40570116
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,"people can be found in any place.
+B: Most peculiar places are those which are unique and can be found only there.
+C: stores are places where people sell things.
+D: mall is a place where people can buy things.
+E: Suburbs are places where people live.
+Evaluation:
+- People can be found in any place.
+- Most peculiar places are those which are unique and can be found only there.
+- Stores are places where people sell",0.36184394
+46,Where would you be unable to read a newspaper?,jail,"porch = not at home, not a place to read, not in the living room = not a place to read,
+not a place that you can read in.
+B: school = not at home, not a place to read, not in the living room = not a place to read,
+not a place that you can read in.
+C: jail = not at home, not a place to read, not in the living room = not a place to read,
+not",0.28225622
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"He became a memory expert.
+B: He",0.09006236
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,"dictionary
+B: books
+C: australia
+D: seaside
+E: countryside
+Evaluation:
+- Dictionary is not a place that could have Lance spotted.
+- Books are not suitable as location.
+- Australia is not suitable as location.
+- Seaside is not a suitable location.
+- Countryside is not a suitable location.
+Final Answer: Australia.
+
+Q: What is the first thing that comes to your mind when you think of a book",0.5217309
+49,Where would you likely find a spa alongside similar services?,health centre,"sweden
+B: health centre
+C: backyard
+D: house
+Evaluation:
+- A spa is a place for relaxation and rejuvenation.
+- A health center provides medical services.
+- A backyard is for recreational activities.
+- A house is a residential building.
+- A country club is for leisure activities.
+Final Answer: A spa is a place for relaxation and rejuvenation.
+
+Q: Why do people use a hair dryer?
+Choices:",0.37905324
+50,What is a common sign that someone is lying?,avoid eye contact,"Ordering dog food online is a common sign that someone is lying.
+B: Avoiding eye contact is not a common sign of lying.
+C: Feeling guilty can indicate a lie, but it is not a common sign.
+D: Falling asleep is not a common sign of lying.
+E: Blushing can indicate a lie, but it is not a common sign.
+Evaluation:
+- Ordering dog food online is a common sign of lying.
+- Avoiding eye contact",0.27370083
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"Rattling
+B",0.24917156
+52,What might having a check up lead to for some people?,anxiety,"Pain is a common side effect of medical procedures.
+B: Good behavior is a desirable outcome.
+C: Uncertainty is a potential risk of undergoing medical testing.
+D: Anxiety is a common emotional response to medical procedures.
+E: Stress is a natural reaction to challenging situations.
+Evaluation:
+Pain is a common side effect of medical procedures.
+Good behavior is a desirable outcome.
+Uncertainty is a potential risk of undergoing medical testing.
+Anxiety is a common emotional response",0.4842308
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,"To relax
+B: To take a break
+C: To catch up on rest
+D: To get back",0.5234411
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,"Injury may be a result but not a cause.
+B: Mistakes may be a result but not a cause.
+C: Late is not a cause.
+D: Satisfaction is not a cause.
+E: Love is not a cause.
+Evaluation:
+- All are not necessary causes.
+- None are causes.
+Final Answer: No.
+
+Q: The main cause of this is the fact that men are not as sensitive as women?
+Choices",0.32068956
+55,What is something someone driving a car needs even to begin?,sight,"Practice - this is necessary.
+B: Feet - this is not necessary.
+C: Sight - this is necessary.
+D: Keys - this is not necessary.
+E: Open car door - this is not necessary.
+Evaluation:
+- Practice is important.
+- Feet are not necessary.
+- Sight is necessary.
+- Keys are not necessary.
+- Open car door is not necessary.
+Final Answer: To begin, a person needs to practice, have feet",0.24613482
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"Library - Library is not the place she wants to be.
+B: Home - At home she is always surrounded by family.
+C: Top of Mountain - Top of Mountain is not the place she wants to be.
+D: Sea - Sea is not the place she wants to be.
+E: Grocery - Grocery is not the place she wants to be.
+Evaluation:
+- Lilly wanted to be in a place where she could be at peace.
+- Being",0.32369068
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"city?
+B: car dealership?
+C: bathroom?
+D: appliance store?
+E: vegas?
+Evalution:
+- The showroom was in a city.
+- It could be a car dealership.
+- It could be a bathroom.
+- It could be a appliance store.
+- It could be vegas.
+Final Answer: The showroom was in a city.
+
+Q: Who is the person responsible for teaching the children",0.39125076
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,"godless.
+B: horrible.
+C: undivine.
+D: humdrum.
+E: mortal.
+Evaluation:
+- Danny thought that the show was divine.
+- Lila disagreed. She didn't think it was bad, but she thought it was what?
+- Danny thought the show was divine.
+- Lila thought the show was not divine.
+- Lila thought the show was not what.
+Final Answer: Danny",0.21332648
+59,What can a concert hall also be used for?,theater,"Commercial building is not what a concert hall is used for.
+B: University building can also be used for concerts.
+C: Screaming is not a thing that a concert hall does.
+D: City is not the correct answer.
+E: Theater is what a concert hall is used for.
+Evaluation:
+- Commercial building is not what a concert hall is used for.
+- University building can also be used for concerts.
+- Screaming is not a thing that a",0.34075266
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,"Jungle is definitely not a place to look for koalas.
+B: Great outdoors is not a suitable environment for koalas.
+C: Siberian is a part of Russia.
+D: Queensland is not a part of Australia.
+E: Wilderness is not a suitable environment for koalas.
+Evaluation:
+- Jungle and great outdoors are not a place to look for koalas.
+- Siberian is not a part of Russia.
+- Queensland",0.34486166
+61,What is a portable light source called?,flashlight,"To keep their eyes cool
+B: To protect their ears
+C: To protect their heads
+D: To keep their nose cool
+E: To protect their brains
+Let",0.1643607
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"even - this is not normal.
+B: common - this is not normal.
+C: regular - this is not normal.
+D: normal - this is not normal.
+E: thing to do - this is not normal.
+Evaluation:
+- Odd is not normal.
+- This is not common.
+- This is not regular.
+- This is not normal.
+- This is not a thing to do.
+Final Answer: This is not a thing to",0.4008528
+63,What does a robot need to be able to be working?,energy,,0.218284
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,"fast food restaurant.
+B: seaside.
+C: germany.
+D: county.
+E: united states.
+Evaluation:
+- Fast food restaurant is not really necessary.
+- Seaside has nothing to do with the question.
+- Germany is not related to the question.
+- County is not related to the question.
+- United States is not related to the question.
+Final Answer: Fast food restaurant.
+
+Q: I'm taking a class",0.3398923
+65,Where can a woman get birth control pills?,pharmacy,"Wait and see if baby comes out
+B",0.07101682
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"Dissipate means to get lost, wasted or destroyed.
+B: Fly means to move in the air.
+C: Disintegrate means to fall apart into smaller parts.
+D: Fall apart means to become broken or ruined.
+E: Penultimate means the one before the final.
+Evaluation:
+- Dissipate is not logical.
+- Fly is not logical.
+- Disintegrate is not logical.
+- Fall apart is not logical.
+-",0.6290983
+67,What is the base of a vase called?,vessel,walking,0.16398975
+68,Putting on a professional stage play requires what kind of effort?,serious,"serious.
+B: having fun.
+C: laugh.
+D: musical.
+E: doing nothing.
+Evaluation:
+- Serious. The play is serious.
+- Having fun. The play is more fun.
+- Laugh. The play is funny.
+- Musical. The play is a musical.
+- Doing nothing. The play is a non-musical.
+Final Answer: Having fun.
+
+Q: How is the weather forecast usually made?",0.309287
+69,What holds a lit cigarette when no one is around?,ashtray,"hand.
+B: cool lip.
+C: light fire.
+D: ashtray.
+E: carton.
+Evaluation:
+- hand is not relevant.
+- cool lip is not useful.
+- light fire is very important.
+- ashtray is not important.
+- carton is not important.
+Final Answer: Carton.
+
+Q: What do you call the person who makes the bed in a hotel?
+Choices:",0.43648434
+70,What's the nickname of the monster the beauty loved?,beast,"Beast.
+B: Ugly.
+C: Ugly.
+D: Satellite.
+E: Top of mountain.
+Evaluation:
+- Beast is not a good nickname for a beautiful monster.
+- Ugly is not a good nickname for a beautiful monster.
+- Top of mountain is not a good nickname for a beautiful monster.
+- Satellite is not a good nickname for a beautiful monster.
+Final Answer: Monster the beauty loved.
+
+Q: Why",0.41256392
+71,What does a person do at the end of the day?,come home,"get all the presents you want
+B",0.20375481
+72,What is water to someone?,important,"dangerous.
+B: blue.
+C: toxic.
+D: important.
+E: surface of earth.
+Evaluation:
+- Water is a very important substance.
+- It is very important for survival.
+- It is blue.
+- It is toxic.
+- It is surface of earth.
+Final Answer: Water is an important substance, very important for survival and blue.
+
+
+Q: What is the most important thing in life?
+Choices:",0.33069742
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"clean room.
+B: set table.
+C: play with toys.
+D: form opinions.
+E: gather flowers.
+Evaluation:
+- Cleaning the room is important.
+- Setting up a table is also important.
+- Play with toys is also important.
+- Gathering flowers is not necessary.
+Final Answer: To clean the room.
+
+Q: A child is in a meadow in spring, what might the child do?
+Choices:
+A",0.39903748
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"Tennessee
+B: Atlanta
+C: Wyoming
+D: Michigan
+E: Mississippi
+Evaluation:
+- He had heard that he was about an hour east of Jackson, so he needed to know where he was.
+- He heard that he had driven east on the de Soto bridge.
+- De Soto bridge is in Tennessee, so he was in Tennessee.
+- He knew that he had heard that he was five hours from Jackson, so he was at five hours,",0.5187895
+75,What is often true about secular holidays?,short term,"frequent. There are many secular holidays.
+B: unpredictable. They are often celebrated in strange ways.
+C: short term. They are usually celebrated for a short period of time.
+D: time off work. Many secular holidays are celebrated during the work week.
+E: eternal. Secular holidays have no end.
+Evaluation:
+- Occasional secular holidays.
+- Time off work.
+- No time off work.
+- Most occur on Friday.
+-",0.0315664
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,"introduced
+B: foreigner
+C: alien
+D: immigrant
+Evaluation:
+- Being a native English speaker is a strength.
+- Being a foreigner is a negative trait.
+- Being an alien is less crucial.
+- Being an immigrant is not relevant.
+Final Answer: Being a native English speaker is a strength.
+
+Q: After a long day, it can be nice to unwind with a cup of tea. In India, this can be done with",0.50996387
+77,"When not playing your mandolin, where would you store it?",instrument case,Melody,0.34564418
+78,Where would you put tin after you buy it?,shopping bag,"Hardware store.
+B: Antique store.
+C: Shopping bag.
+D: Shed.
+E: Landfill.
+Evaluation:
+- Hardware store is best.
+- Antique store is second best.
+- Shopping bag is not so good.
+- Shed is not a good fit.
+- Landfill is not a good fit.
+Final Answer: Hardware store.
+
+
+Q: What is the most important element of a car?
+Choices",0.3929893
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"bruise
+B: sunburn
+C: rash
+D:",0.16047144
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,"It allows you to go to work if you want.
+B",0.12199703
+81,Why do people start to play sports at the gym?,get in shape,"You can't do without math
+B",0.13166022
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"Run quickly.
+B: Drink water.
+C: Go away.
+D: Pull cart.
+E: Gallup.
+Evaluation:
+- If you slap horse's butt, it will gallop.
+- If you do so when you're on the horse, it will gallop.
+- If you do so when you're off of the horse, it will go away.
+- If you drink water, it will be fine.
+- If you pull cart",0.2646026
+83,what is the end result of hiring a maid?,clean house,because they are ill,0.107476324
+84,What are women expecting to begin procreating?,pregnancy,go down the mountain,0.09303181
+85,Where is a master control likely to be in a technology company?,main office,"main office is the most likely location.
+B: center is not very likely.
+C: beach is not very likely.
+D: manufacturing plant is not very likely.
+E: basement is not very likely.
+Evaluation:
+- Main office is the most likely location.
+- Center is not very likely.
+- Beach is not very likely.
+- Manufacturing plant is not very likely.
+- Basement is not very likely.
+Final Answer: Main office.",0.4061405
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"story
+B: now
+C: knowledge
+D: at least few page
+E: past
+Evaluation:
+- Travel site implies that I am using the travel website.
+- Story implies use of travel site when?
+- Knowledge implies use of travel site when?
+- At least few page implies use of travel site when?
+- Past implies use of travel site when?
+Final Answer: Travel site implies that I am using the travel website.
+
+Q: A man",0.22535655
+87,Where does a jellyfish always live?,underwater,cat,0.31033832
+88,WHat could prevent someone from the ability to buy a house?,lose money,"This is a trick question!
+B: Pay for.
+C: This is a trick question!
+D: Too far away.
+E: This is a trick question!
+Evaluation:
+- Ability to buy a house is not important.
+- Paying is a way to pay for.
+- Settling down is a way to settle down.
+- Losing money is a way to lose money.
+Final Answer: This is a trick question!
+
+Q: What",0.45624274
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,stop car,0.16129512
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,"egg
+B: shellless egg",-0.018612113
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,"Commit sin
+B: Failure
+C: Disobey
+D: Stumble
+E: Boo boo
+Evaluation:
+- Commit sin is not important.
+- Failure is not very important.
+- Disobey is not very important.
+- Stumble is not very important.
+- Boo boo is the only one with significance.
+Final Answer: Stumble.
+
+Q: What is the number of sides of a regular polygon with 100 sides",0.3801945
+92,What happens soon after christmas?,easter,"buy presents for others.
+B: summer.
+C: easter.
+D: see work.
+E: halloween.
+Evaluation:
+- Christmas is a celebration.
+- Christmas is a good time to buy presents.
+- Holidays are more important after christmas.
+- Summer is the time to relax.
+- Work is part of life.
+Final Answer: Christmas is the celebration after which people buy presents.
+
+Q: Who was the first president",0.33859554
+93,What does a person miss when a tree hits power lines?,electricity,"Bacteria
+B: Water
+C:",0.08042746
+94,What is the result of having a lunch that is sizable?,feel full,"Do nothing
+B: Take medicine
+C: Go to the doctor
+D: Call a friend
+E:",0.26785773
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"Dining room, since they are drying.
+B: Home, since they are drying.
+C: Hardware store, since they are drying.
+D: Closet, since they are drying.
+E: Computer, since they are drying.
+Evaluation:
+- Drying clothes is the primary purpose.
+- Drying clothes is the secondary purpose.
+- Home is not a logical choice.
+- Hardware store is not a logical choice.
+- Computer is not a logical",0.2911819
+96,When people drive they usually do what to ward off boredom?,listen to radio,"listen to radio.
+B: check mirrors.
+C: pay attention.
+D: sleep.
+E: hole in one.
+Evaluation:
+- Listening to radio is a distraction.
+- Checking mirrors is a distraction.
+- Paying attention is a distraction.
+- Sleep is a distraction.
+- Hole in one is a distraction.
+Final Answer: To ward off boredom, people usually do listening to radio and checking mirrors.
+
+Q: Why do many people",0.5318179
+97,What could cause you to not be sleeping well?,nightmares,washing your hands,0.16882612
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,To watch roller coasters.,0.23924032
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"articulate --> hands are used to express language.
+B: soft --> hands are smooth and gentle.
+C: sign language --> hands are used to communicate using gestures.
+D: graceful --> hands are well-coordinated and move with ease.
+E: cup water --> hands are used to hold and drink water.
+Evaluation:
+- Sign language is secondary to hand expression.
+- Gracious hands are elegant and well-made.
+- Cup water is related to eating and drinking",0.15125749

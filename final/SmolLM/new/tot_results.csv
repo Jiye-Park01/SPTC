@@ -1,0 +1,101 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,You went to the post office.,0.74531794
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,Civilizations,0.87822115
+2,Where is the best place to get furniture from?,store,"The best place to get furniture can vary based on individual preferences and needs. This can include online retail stores, physical furniture stores, and furniture rental companies. Regardless of where you decide to purchase, ensure to read the product description carefully and look for quality construction.",0.23743574
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,No promising thoughts found.,0.1750722
+4,Where might a person play an acoustic guitar at a birthday party?,house,"A person might play an acoustic guitar at a birthday party either during a performance for the guests or casually in a social setting, depending on the atmosphere of the event.",0.13540357
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,No promising thoughts found.,0.06439593
+6,What usually happens to work when taking a break?,delay,"When taking a break from work, your brain continues to process the information and events of the day subconsciously.",0.113203704
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,No promising thoughts found.,0.1472894
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"The farmer should plant his cotton in the South near Florida, taking into consideration that planting near the coast might lead to higher water costs.",0.17718323
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"It is especially important to keep a dry, clean floor in the kitchen for the health of your family.",0.16614775
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,No promising thoughts found.,0.058863584
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"If convicted of hurting someone else, you could face jail time or long prison sentences.",0.50262356
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,The shark was likely in the Pacific Ocean off the coast of Northern California.,0.30801103
+13,What does the best horse in the world win?,triple crown,No promising thoughts found.,0.022891236
+14,How do you indicate that you agree wtih someone?,nodding,"You can indicate that you agree with someone by verbally expressing it with phrases such as ""I agree"", ""That's true"", ""You're right"", or ""I think so too"". Non-verbal cues like nodding your head or giving a thumbs up can also show agreement.",0.40209085
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,"Artie Shaw became famous playing a clarinet in a tuxedo, earning him nicknames like ""The Tuxedo King"" or ""The Black Tuxedo King"".",0.20729584
+16,If you're drinking what body part does most of the work?,mouth,The mouth and throat do most of the work when you're drinking.,0.3923744
+17,What does someone do before they travel to work?,get ready,No promising thoughts found.,0.10994741
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,"Inside, he was ecstatic because he knew he had won.",0.2532552
+19,Where would you find only one churchyard?,village,You would find only one churchyard in a small town or community where the church serves as the main focal point.,0.26395422
+20,What does an actor in a musical do?,sing songs,"An actor in a musical portrays a character within the narrative, and performs through singing, dancing and acting, integrating musical elements into their performance.",0.39315975
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"To decide if the artifacts are important, you need to evaluate your current level of understanding, determine what knowledge can be gained from the artifacts, and identify the level of understanding you aspire to reach. Additionally, seek feedback from relevant individuals who can provide valuable insight. Maintain a simplistic approach in your analysis and decision making.",0.11430475
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,No promising thoughts found.,0.21001992
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,No promising thoughts found.,0.03382797
+24,Where could a bee get stuck easily?,soft drink,A bee could easily get stuck on a window or a glass surface.,0.17152792
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,John felt that listening to music while reading helped him concentrate better.,0.13028973
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,Flames move in an unpredictable pattern.,0.4239377
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,No promising thoughts found.,0.0392879
+28,"People often have to take medicine, they tend to keep it where?",bathroom,No promising thoughts found.,0.06786593
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,The text does not provide specific information on where the side chair was located compared to the lawn chair.,0.044417504
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"A good place to go for great bar service and possibly a room afterwards would be a hotel with a well-reviewed bar, such as Kogi.",0.5404321
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,No promising thoughts found.,0.045478478
+32,where do people go to view famous pictures?,art show,"People can view famous pictures at various locations including museums and galleries such as The National Gallery in London and The Louvre in Paris. Art festivals also often display famous works. Additionally, students may have access to famous pictures in their classrooms.",0.38310552
+33,Why might someone think killing is justified?,punishment,"Someone might think killing is justified in extreme circumstances such as self-defense, protecting others, or as a form of capital punishment for serious crimes.",0.3345064
+34,What is the purpose of a basketball court?,use,No promising thoughts found.,0.050172243
+35,Where would you look up what an anemone is?,dictionary,"You would look up what an anemone is in a dictionary, a book, on the internet, or ask someone knowledgeable on the subject.",0.3395169
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,Ben would always disregard or ignore Sue's wishes.,0.2852202
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,No promising thoughts found.,-0.006450761
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,The archaeologist felt frustrated and concerned.,0.30982608
+39,Where is a good place to store a saw?,toolbox,A good place to store a saw is in a shed or garage to protect it from becoming wet and damaged.,0.108149745
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,No promising thoughts found.,0.15283222
+41,What is not always found in a large volume?,collection of books,No promising thoughts found.,-0.0009840392
+42,Where does someone obtain a frying pan?,department store,No promising thoughts found.,0.01992039
+43,What is the result of getting drunk?,hangover,The result of getting drunk often includes a variety of negative effects such as impaired judgment and potential bad behavior.,0.3092854
+44,What could happen to garbage after it is put into a landfill?,composted,"After being placed in a landfill, garbage, which includes organic, inorganic, and hazardous materials, remains there until it's transferred to a processing facility. This garbage can pollute the air, water, and soil, potentially leading to health problems. When a landfill is filled, it's covered with clay and plastic, and grass is planted on top to minimize environmental impact.",0.3758281
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,No promising thoughts found.,0.086389676
+46,Where would you be unable to read a newspaper?,jail,In a place with insufficient light or in conditions where the text is not clear or stable such as during a bumpy ride or in a moving vehicle like a train.,0.252846
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,No promising thoughts found.,0.08693338
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,No promising thoughts found.,0.06448667
+49,Where would you likely find a spa alongside similar services?,health centre,"You would likely find a spa in a wellness center or health resort, as these places often offer similar services focused on relaxation and overall wellbeing.",0.3721987
+50,What is a common sign that someone is lying?,avoid eye contact,No promising thoughts found.,0.15395203
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"Somebody who likes cool temperatures might have more than one electric fan in their living space or bedroom, with one specifically positioned to blow air directly on them.",0.13123918
+52,What might having a check up lead to for some people?,anxiety,No promising thoughts found.,0.19469886
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,Jane needs a break.,0.17297038
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,"Grooming oneself is known to increase self-esteem, not only for those who are self-conscious but also for individuals who step out of their comfort zone through grooming.",0.32168466
+55,What is something someone driving a car needs even to begin?,sight,No promising thoughts found.,0.16152975
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,Lilly went to the top of a high mountain for solitude.,0.10763055
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,No promising thoughts found.,0.10699905
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,No promising thoughts found.,0.14297077
+59,What can a concert hall also be used for?,theater,"A concert hall can also be used for hosting events like theatrical performances, lectures, ceremonies, conferences, and other large gatherings.",0.4509735
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,It is impossible to find koalas in environments where eucalyptus trees do not grow.,0.16886714
+61,What is a portable light source called?,flashlight,A portable light source is referred to as a flashlight.,0.67747235
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,The new norm.,0.35415357
+63,What does a robot need to be able to be working?,energy,No promising thoughts found.,0.1424125
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,No promising thoughts found.,-0.005306556
+65,Where can a woman get birth control pills?,pharmacy,"A woman can get birth control pills from her doctor's office, a local pharmacy, or any Planned Parenthood clinic.",0.29673687
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,No promising thoughts found.,0.11740503
+67,What is the base of a vase called?,vessel,No promising thoughts found.,0.11334706
+68,Putting on a professional stage play requires what kind of effort?,serious,No promising thoughts found.,0.3073239
+69,What holds a lit cigarette when no one is around?,ashtray,An ashtray holds a lit cigarette when no one is around.,0.7063464
+70,What's the nickname of the monster the beauty loved?,beast,The Beast,0.8688582
+71,What does a person do at the end of the day?,come home,"At the end of the day, a person might go to sleep, finish up work, or engage in personal activities such as reading the Bible and praying. However, what a person does can vary greatly depending on their personal routine and lifestyle.",0.2527417
+72,What is water to someone?,important,No promising thoughts found.,0.1129958
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"The child might sit and watch the clouds, feed the birds, pick wildflowers, or observe the surrounding trees.",0.2783389
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,No promising thoughts found.,0.033314385
+75,What is often true about secular holidays?,short term,"Secular holidays are often celebrations of historic events or societal traditions, observed by various people or groups. They may involve certain customs or rites, such as Christmas, New Year's Day, Thanksgiving, and Independence Day.",-0.0023838766
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,No promising thoughts found.,-0.00043667294
+77,"When not playing your mandolin, where would you store it?",instrument case,You should store your mandolin in a case when not playing it. The case should be closed securely to protect the instrument.,0.52583885
+78,Where would you put tin after you buy it?,shopping bag,"After buying tin, you can store it in a cool, dry place until needed. If it's in the form of cans, you can recycle them once they're empty.",0.15637407
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,No promising thoughts found.,0.113764666
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,No promising thoughts found.,0.14967574
+81,Why do people start to play sports at the gym?,get in shape,"People start to play sports at the gym because it is a social and entertaining way to improve their physical fitness, cardiovascular health, strength, endurance, and mental health.",0.4170562
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,No promising thoughts found.,0.19816846
+83,what is the end result of hiring a maid?,clean house,No promising thoughts found.,0.15842307
+84,What are women expecting to begin procreating?,pregnancy,"Women generally expect to begin procreating once they reach the age of fertility, typically around 18, and they anticipate being happy and healthy during their pregnancy.",0.40708905
+85,Where is a master control likely to be in a technology company?,main office,No promising thoughts found.,0.019717885
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,No promising thoughts found.,0.031198232
+87,Where does a jellyfish always live?,underwater,Jellyfish always live in oceans.,0.40617028
+88,WHat could prevent someone from the ability to buy a house?,lose money,"Lack of sufficient income or savings, poor credit history, and legal restrictions can prevent someone from buying a house.",0.13712214
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,No promising thoughts found.,0.12979472
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,"A good place to keep a saucer you don't use but want to look at is on a shelf or in a display cabinet in the house, preferably in the kitchen.",0.25268793
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,No promising thoughts found.,0.16260132
+92,What happens soon after christmas?,easter,No promising thoughts found.,0.0696329
+93,What does a person miss when a tree hits power lines?,electricity,No promising thoughts found.,0.07812567
+94,What is the result of having a lunch that is sizable?,feel full,"Having a sizable lunch means that you have consumed a substantial amount of food, ideally from a variety of healthy sources. This could lead to feeling full and satisfied.",0.38403672
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,No promising thoughts found.,0.0983991
+96,When people drive they usually do what to ward off boredom?,listen to radio,"When people drive, they usually ward off boredom by planning their route, preparing for the journey, driving with a friend, listening to the radio, talking to passengers, or simply enjoying the view.",0.30838382
+97,What could cause you to not be sleeping well?,nightmares,"The most common causes of poor sleep can be stress, anxiety, depression, pain, and lack of exercise.",0.16914749
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,No promising thoughts found.,0.042139277
+99,What would describe the hands of someone who doesn't do manual labor?,soft,No promising thoughts found.,0.103741914

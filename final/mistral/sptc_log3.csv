@@ -1,0 +1,859 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"To make phone calls
+B: To send text messages
+C: To take photos
+D: To check the weather
+E: To download apps
+Let's think through different possibilities carefully:
+(1) To make phone calls is essential.
+(2) To send text messages is useful.
+(3) To take photos is convenient.
+(4) To check the weather is helpful.
+(5) To download apps is optional.
+Evaluation:
+- Making phone calls is the primary function of a smartphone.
+- Sending text messages is also important.
+- Taking photos and checking the weather are secondary functions.",0.1493104
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,"Disconnect from internet.
+B: Turn off the lights.
+C: Turn down the temperature.
+D: Turn off the computer.
+E: Turn off the monitor.
+Evaluation:
+- Disconnecting from the internet is the best way to save power.
+- Turning off the lights is a good idea.
+- Turning down the temperature is a good idea.
+- Turning off the computer is a good idea.
+- Turning off the monitor is a good idea.
+Final Answer",0.11934664
+2,Where is the best place to get furniture from?,store,"To protect from the sun
+B: To keep hair clean
+C: To look fashionable
+D: To hide bad hair day
+E: To cover a bald head
+Let's think through different possibilities carefully:
+(1) To protect from the sun.
+(2) To keep hair clean.
+(3) To look fashionable.
+(4) To hide bad hair day.
+(5) To cover a bald head.
+Evaluation:
+- Protecting from the sun is critical.
+- Keeping hair clean is not the main reason.
+- Looking fashionable is secondary.
+- Hiding a bad hair day is not a major reason.
+- Covering a bald head is not the main reason.
+Final Answer: To protect from the sun.
+
+Q: Why do people use a",0.109960794
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,"credit card
+B: car
+C: phone
+D: computer
+E: refrigerator
+Evaluation:
+- The best way to help someone find the right credit card is to ask them about their lifestyle",0.104835495
+4,Where might a person play an acoustic guitar at a birthday party?,house,"To allow rear-view
+B: To see outside
+C: To see driver
+D: To see passenger
+E: To see inside
+Let's think through different possibilities carefully:
+(1) To allow rear-view.
+(2) To see outside of the car.
+(3) To see the driver.
+(4) To see the passenger.
+(5) To see inside the car.
+Evaluation:
+- Rear view is critical.
+- Outside view is optional.
+- Seeing driver is less important.
+- Seeing passenger is less important.
+- Inside view is not helpful.
+Final Answer: To allow rear-view.",0.08016306
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,"Singer-songwriter
+B: Music executive
+C: Record producer
+D: Sound engineer
+E: Music journalist
+Let's think through different possibilities carefully:
+(1) Singer-songwriter performs both singing and songwriting.
+(2) Music executive is responsible for managing the artist's career.
+(3) Record producer is responsible for producing records.
+(4) Sound engineer is responsible for recording and mixing sounds.
+(5) Music journalist writes about music.
+Evaluation:
+- Singer-songwriter performs both singing and songwriting.
+- Music executive is responsible for managing the artist's",0.43461734
+6,What usually happens to work when taking a break?,delay,"Relaxation is helpful.
+B: Renewal is good for the mind.
+C: Distractions are bad for productivity.
+D: Delay can be problematic.
+E: Snoring can be annoying.
+Evaluation:
+- Relaxation is useful.
+- Renewal is beneficial.
+- Distractions can be a problem.
+- Delay can be an issue.
+- Snoring can be annoying.
+Final Answer: Renewal.",0.16009659
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,"Use social media.
+B: Read newspapers.
+C: Watch TV.
+D: Listen to the radio.
+E: Read magazines.
+Evaluation:
+- Using social media is most important.
+- Reading newspapers is second.
+- Watching TV is third.
+- Listening to the radio is fourth.
+- Reading magazines is least important.
+Final Answer: Using social media.",0.1407992
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"orlando is a city in central florida.
+B: fabric is not a place.
+C: north carolina is a state in the southeast.
+D: georgia is a state in the southeast.
+E: medicine cabinet is not a place.
+Evaluation:
+- Planting in the southeast is best because of the climate.
+- Planting in orlando is also good because of the climate.
+- Planting in north carolina is less",0.41968095
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"To look fashionable
+B: To protect from the sun
+C: To reduce glare
+D: To protect from the wind
+E: To protect from accidents
+Let's think through different possibilities carefully:
+(1) To protect from accidents.
+(2) To reduce glare.
+(3) To look fashionable.
+(4) To",0.054193966
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,"independent thinker
+B: leader
+C: follower
+D: adventur",0.11636039
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"watch TV in the target language
+B: listen to music in the target language
+C: read books in the target language
+D",0.08748472
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,Des,0.21915236
+13,What does the best horse in the world win?,triple crown,"New York
+B: Washington DC
+C: Philadelphia
+D: Boston
+E: Chicago
+Let's think through different possibilities carefully:
+New York is a large city in the northeastern United States, but it is not the capital of the US.
+Washington DC is the capital of the US, and is located on the east coast of the country.
+Philadelphia is a large city in Pennsylvania, but it is not the capital of the US.
+Boston is a large city in Massachusetts, but it is not the capital of the US.
+Chicago is a large city in Illinois, but it is not the capital of the US.
+Final Answer: Washington DC is the capital of the US, and is located on the east coast of the country.",0.15119256
+14,How do you indicate that you agree wtih someone?,nodding,"Like more is an option.
+B: Nodding is an option.
+C: Wearing rings is not an option.
+D: Concordance is not an option.
+E: Shaking hands is not an option.
+Evaluation:
+If you agree with someone, you tend to like more, nodding, or even raise hands.
+Final Answer: Like more or nodding.",0.5418273
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,"heart attacks
+B: car accidents
+C: cancer
+D: diabetes
+E: suicide
+Evaluation:
+- Heart attacks are very common.
+- Car accidents are also common.
+- Cancer, diabetes, and suicide are less common causes of death.
+Final Answer: Heart attacks",-0.021052117
+16,If you're drinking what body part does most of the work?,mouth,To see in 3D,0.20391469
+17,What does someone do before they travel to work?,get ready,,0.25175938
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,"""Hey, you!"" is an example of a vocative, as it is used to address someone directly.
+B: ""Call me!"" is not a vocative, as it is not used to address someone directly.
+C: ""I love you, Mom!"" is not a vocative, as it is not used to address someone directly.
+D: ""What's your name?"" is not a vocative, as it is not used to address someone directly.
+E: ""Hello, world!"" is not a vocative, as it is not used to address someone directly.
+Evaluation:
+- ""I love you, Mom!"" and ""What's your name?"" are not vocatives, as they are not used to address someone directly.
+- ""Hey, you!"" and ""Call me!"" are vocatives, as they are used to address someone directly.
+- ""Hello, world!"" is not a vocative, as it is not used to address someone directly.
+Final Answer: ""Hello, world!"" is not a vocative.",0.12715593
+19,Where would you find only one churchyard?,village,"To tell time
+B: To",0.11972556
+20,What does an actor in a musical do?,sing songs,"Protect against falls.
+B: Keep from getting knocked down.
+C: Make it easier to catch the ball.
+D: Make it easier to avoid tackling.
+E: Keep the ball from being out of bounds.
+Evaluation:
+- Protecting against falls is critical.
+- Keeping from getting knocked down is important.
+- Catching the ball is less important.
+- Avoiding tackling is less important.
+- Keeping the ball in bounds is secondary.
+Final Answer: To protect from falls and keep from getting knocked down.",0.06849778
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"To keep hands warm
+B: To keep hands dry
+C: To keep hands clean
+D: To protect from rain
+E: To look fashionable
+Let's think through different possibilities carefully:
+(1) To keep hands warm.
+(2) To keep hands dry.
+(3) To keep",0.0071895495
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,"He started shaving because he was sick of shaving.
+B: He started shaving because he wanted to look bad.
+C: He started shaving because he was too tired.
+D: He started shaving because he wanted to look good.
+E: He started shaving because he wanted to get a woman.
+Evaluation:
+He started shaving because he wanted to look good.
+He was sick of shaving.
+He didn't want to",0.13000049
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,"A serious mental health condition. This is a reasonable definition.
+B: A prolonged feeling of sadness or loss of interest. This is a reasonable definition.
+C: A state of being deeply sad. This is a reasonable definition.
+D: A common, mild form of anxiety. This is not a reasonable definition.
+E: A sudden drop in mood. This is not a reasonable definition.
+Evaluation:
+- A serious mental health condition is a reasonable definition.
+- A prolonged feeling of sadness or loss of interest is a reasonable definition.
+- A state",0.010930768
+24,Where could a bee get stuck easily?,soft drink,"lots of culture
+B: busy atmosphere
+C: lots of work
+D: lots of shops
+E: lots of noise
+Let's think through different possibilities carefully:
+(1) Lots of culture.
+(2) Busy atmosphere.",0.076132506
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"To help the reader find what they want quickly.
+B:  To help the designer know where to place things.
+C:  To make it easier for the programmer to design.
+D:  To make the website look better.
+E:  To make it easier for the website to read.
+Evaluation:
+- Helping",0.19456325
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,"They're afraid of what they can't see.
+B: They're afraid of what they can see.
+C: They're afraid of spiders.
+D: They're afraid of ghosts.
+E: They're afraid of being alone.
+Evaluation:
+- They're afraid of what they can't see.
+- Being alone is not the main reason.
+- Being in a low place is not the main reason.
+- Being in",0.111065775
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,"The driver will not leave the keys in the car.
+B: The driver will turn off the radio.
+C: The driver will not take down the address of the owner.
+D: The driver will set the brake.
+E: The driver will turn off the engine.
+Evaluation:
+(1)  The driver will not leave the keys in the car.
+(2)  The driver will turn off the radio.
+(3)  The driver will not take down the address of the owner.
+(4)  The driver will set the brake.
+(5)  The driver will turn off the engine.
+Evaluation:
+- The driver will not leave the keys in the car.
+- The driver will turn off the radio.
+- The driver will not take down the address of the owner.
+- The driver will set the brake.
+- The driver will turn off the engine.
+Final Answer:  The driver will turn off the engine.",0.007167625
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"food
+B: water
+C: juice
+D: tea
+E: coffee
+Let",0.2444154
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"Not enough time
+B: Too many distractions
+C: Didn't know what to do
+D: Tired
+E: Had a toothache
+Let's think through different possibilities carefully:
+(1) Not enough time
+(2) Too many distractions
+(3)",0.14334543
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"To relax
+B: To explore
+C: To experience new cultures
+D: To have fun
+E: To spend time with family and friends
+Let's",0.3226249
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"He was working all night.
+B: He was having a headache.
+C: He was taking a shower.
+D: He was going to bed.
+E: He was getting a haircut.
+Let's think through different possibilities carefully:
+(1) He is working all night.
+(2) He has a headache.
+(3) He is taking a shower.
+(4) He is going to bed.
+(5) He is getting a haircut.
+Evaluation:
+- Working all night is a good reason.
+- Headache is secondary.
+- Taking a shower is less likely.
+- Going to bed is not the reason.
+- Getting a haircut is not the reason.
+Final Answer: He is working all night.
+
+Q: Why did the girl run into the classroom?
+Ch",0.1111853
+32,where do people go to view famous pictures?,art show,"to measure time
+B: to record history
+C: to record news
+D: to predict the future
+E: to help people schedule
+Evaluation:
+- Measuring time is critical.
+- Recording history is less important.
+- Recording news is less important.
+- Predicting the future is less important.
+- Helping people schedule is very useful.
+Final Answer: To measure time and help people schedule.",-0.022315852
+33,Why might someone think killing is justified?,punishment,"because it is so large
+B: because it is great
+C: because it has great weather
+D: because it is so great
+E: because it is so outdoors
+Evaluation:
+- It is so large.
+- It is great.
+- It has great weather.
+- It is so great.
+- It is so outdoors.
+Final Answer: because it is so great.",0.07497312
+34,What is the purpose of a basketball court?,use,"stop - stop signs tell drivers to stop, but not the only purpose of a stop sign.
+B: traffic - stop signs are used to control traffic, but not the only purpose of a stop sign.
+C: go - stop signs tell drivers to stop, so they can't go.
+D: pedestrian - stop signs are used to control pedestrian traffic, but not the only purpose of a stop sign.
+E: crosswalk - stop signs are used to control traffic at crosswalks, but not the only purpose of a stop sign.
+Final Answer: To tell drivers to stop.",0.092830814
+35,Where would you look up what an anemone is?,dictionary,To,0.3155058
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"throw away
+2. Sue asked him to throw her away, and Ben did it.
+
+B: disregard
+2. Sue asked him to disregard her, and Ben did it.
+
+C: being rude
+2. Sue asked him to be rude to her, and Ben did it.
+
+D: humiliate
+2. Sue asked him to humiliate her, and Ben did it.
+
+E: abhor
+2. Sue asked him to abhor her, and Ben did it.
+
+Evaluation:
+- Being rude to her was most damaging to Sue.
+- Thinking of something being bad was not as bad as thinking of someone being bad.
+- Throwing something away was not as bad as throwing someone away.
+- Humiliating someone was the worst.
+
+Final Answer: Ben would always do what to humiliate her.
+
+
+Q: The main reason the city is building a new playground is
+(A) to improve the health of local children
+(B) to provide a safe place for children to play",0.18790768
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"auditorium.  An auditorium is a big room for performing arts.  It's not a venue for sports.
+B: stadium.  A stadium is a big open space for sports.  It's not an enclosed auditorium.
+C: arena.  An arena is an indoor venue for sports, concerts, etc.  It's not an enclosed auditorium.
+D: city.  A city is a large urban area.  It's not a venue for sports.
+E: area.  An area is a region of land.  It's not a venue for sports.
+Evaluation:
+- An arena is an indoor venue for sports, concerts, etc.
+- A stadium is a big open space for sports.
+- An auditorium is a big room for performing arts.
+- A city is a large urban area.
+- An area is a region of land.
+Final Answer: An arena.",0.44354418
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,He,0.35161155
+39,Where is a good place to store a saw?,toolbox,"To protect eyes from sunlight
+B: To reduce glare
+C: To look fashionable
+D: To hide tired eyes
+E: To protect from wind and dust
+Let's think through different possibilities carefully:
+(1) To protect eyes from sunlight.
+(2) To reduce glare.
+(3) To look fashionable.
+(4) To hide tired eyes.
+(5) To protect from wind and dust.
+Evaluation:
+- Protecting from sunlight is critical.
+- Reducing glare is very useful.
+- Fashion is secondary.
+- Hiding tired eyes is less important.
+- Protecting from wind and dust is not important.
+Final Answer: To protect eyes from sunlight and reduce glare.",-0.032139424
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"Driving while drunk is extremely dangerous.
+B: Swimming while drunk can be dangerous.
+C: Drinking alcohol while pregnant can have negative effects on the baby.
+D: Dr",0.061452202
+41,What is not always found in a large volume?,collection of books,"focused
+B: organized
+C: stressed
+D: calm
+E: unmotivated
+Let's",0.12617373
+42,Where does someone obtain a frying pan?,department store,"school
+B: kitchen
+C: bedroom
+D: laundry
+E: bathroom
+Evaluation:
+1. Schools don't provide food.
+2. Kitchens do.
+3. Bedrooms don't.
+4. Laundries don't.
+5. Bathrooms",0.2181257
+43,What is the result of getting drunk?,hangover,"Pain: common symptom of a broken leg.
+B: Swelling: common symptom of a broken leg.
+C: Bruising: common symptom of a broken leg.
+D: Bone breakage: common symptom of",0.13689154
+44,What could happen to garbage after it is put into a landfill?,composted,"Die.
+B: Have memory loss.
+C: Become irritable.
+D: Forget a lot of things.
+E: Have difficulty speaking.
+Evaluation:
+- Dying is the ultimate outcome of many diseases.
+- Having memory loss is the most important symptom of Alzheimer's disease.
+- Becoming irritable is less important.
+- Forgetting a lot of things is less important.
+-",0.11028467
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,"because it wanted to get to the other side
+B: because it wanted to get to the other side
+C: because it wanted to get to the other side
+D: because it wanted to get to the other side
+E: because it wanted to get to the other side
+Evaluation:
+- A is the most reasonable.
+- Other choices are less reasonable.
+Final Answer:",-0.034676578
+46,Where would you be unable to read a newspaper?,jail,"To see the scenery
+B: To travel quickly
+C: To avoid walking
+D: To get exercise
+E: To save fuel
+Evaluation:
+- Seeing the scenery is less important than other reasons.
+- Traveling",0.06956886
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"He came in late
+B: He was drunk
+C: He played too much
+D: He smoked too much
+E: He was sick
+Let's think through different possibilities carefully:
+(1) He came in late.
+(2) He was drunk.
+(3) He played too much.
+(4) He smoked too much.
+(5) He was sick.
+Evaluation:
+- Being late isn't a good reason for being fired.
+- Drinking on the job is a bad reason for being fired.
+- Playing too much isn't a good reason for being fired.
+- Smoking too much isn'",0.03700534
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,"He saw a tiger.
+B: He saw",0.0953256
+49,Where would you likely find a spa alongside similar services?,health centre,A toy,0.064003125
+50,What is a common sign that someone is lying?,avoid eye contact,"To have someone to talk to
+B: To",0.20083675
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,To protect eyes from sunlight,0.07075384
+52,What might having a check up lead to for some people?,anxiety,"Tastes better
+B: More convenient
+C: Healthier
+D: Less expensive
+E: Easier to carry
+Let's think through different possibilities carefully:
+(1) Tastes better.
+(2) More convenient.
+(3) Healthier.
+(4) Less expensive.
+(5) Easier to carry.
+Evaluation:
+- Tastes better is not important.
+- More convenient is very important.
+- Healthier is less important.
+- Less expensive is not true.
+- Easier to carry is very important.
+Final Answer: More convenient and easier to carry.",0.025774777
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,"Jane needs to relax.
+B: Jane might look for some adventure.
+C: Jane may have a headache.
+D: Jane is deciding what to do next.
+E: Jane might get some revelations.
+Evaluation:
+- Relaxation is critical.
+- Adventure is useful.
+- Headache is a symptom.
+- Deciding is important.
+- Revelations are interesting.
+Final Answer: Jane needs to relax and might look for some adventure.",0.48884842
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,To reduce,0.2653425
+55,What is something someone driving a car needs even to begin?,sight,"sleep
+B: drink coffee
+C: exercise
+D: work more
+E: watch TV
+Let's think through different possibilities carefully:
+(1) Sleeping is something people do when they are tired.
+(2) Drinking coffee is something people do when they are tired.
+(3) Exercising is something people do when they are tired.
+(4) Working more is something people do when they are tired.
+(5) Watching TV is something people do when they are tired.
+Evaluation:
+- Sleeping is something people do when they are tired.
+-",0.054690424
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"the hotdogs were too small
+B: people drank too much
+C: they gave too much soda to kids
+D: there were too many people
+E: the hamburgers were too small
+Evaluation:
+- (1) The food was too small. Too small hamburger and too small hotdog.
+- (2) People drank too much. People drank soda instead of eating food.
+- (3) They gave too much soda to kids. This one is a bit tricky. Kids don't count as part of the total, so organizers did not count this food.
+- (4) There were too many people. Too many people was not expected.
+- (5) The hamburgers were too small. Too small",0.047676656
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"city
+B: car dealership
+C: bathroom
+D: appliance store
+E: vegas
+Evaluation:
+- Car dealership is a showroom for automobiles.
+- Bathroom is not a showroom.
+- Appliance store does not sell automobiles.
+- Vegas is not a showroom.
+Final Answer: Car dealership",0.4669742
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,"To walk on uneven terrain.
+- B: To use as a weapon.
+- C: To look fashionable.
+- D: To hide tired eyes.
+- E: To protect from wind and dust.
+Evaluation:
+- To walk on uneven terrain is very useful.
+- As a weapon is not important.
+- Fashion is secondary.
+- Hiding tired eyes is less important.
+- Protecting from wind and dust is not important.
+Final Answer: To walk on uneven terrain.",-0.044581838
+59,What can a concert hall also be used for?,theater,"commercial building
+B: university building
+C: screaming
+D: city
+E: theater
+Evaluation:
+- Commercial building is not a good choice.
+- University building is not a good choice.
+- Screaming is not a good choice.
+- City is not a good choice.
+- Theater is a good choice.
+Final Answer: It can be a theater.",0.475371
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,"to be sure the driver would be able to drive
+B: to put him in",0.007523492
+61,What is a portable light source called?,flashlight,"A book is not a light source, but it might be used as a light source.
+B: A flashlight is a portable light source.
+C: A house is not a light source, but it might be used as a light source.
+D: Falling down is not a light source.
+E: A hallway is not a light source, but it might be used as a light source.
+Evaluation:
+- A flashlight is a portable light source.
+- A book/house might be used as a light source, but they are not light sources.
+- A falling down is not a light source.
+- A hallway is not a light source, but it might be used as a light source.
+Final Answer: Flashlight.",0.47959697
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"hard work
+  - Working hard is important.
+B: good salary
+  - Salary is important.
+C: good benefits
+  - Benefits are important.
+D: happy co-workers
+  - It's useful to have happy co-workers, but it's not a key.
+E: good boss
+  - Having a good boss is important.
+Final Answer: Hard work and a good boss.",0.0136082545
+63,What does a robot need to be able to be working?,energy,"To keep warm in winter.
+B: To keep cool",0.33098632
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,"fast food restaurant
+B: seaside
+C: germany
+D: county
+E: united states
+Evaluation:
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not a seaside or a county.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not germany.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not a seaside or a county.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not germany.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not a county.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not germany.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not a seaside.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not germany.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not a county.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not a seaside.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not germany.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not germany.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not a county.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not a seaside.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not germany.
+- If you want to eat lots of fast food, you should go to a city with lots of fast food chains, not germany",0.13907617
+65,Where can a woman get birth control pills?,pharmacy,"heart disease, cancer, stroke, pneumonia, influenza
+B: heart disease, stroke, cancer, pneumonia, influenza
+C: heart disease, stroke, cancer, influenza, pneumonia
+D: heart disease, stroke, cancer, influenza, AIDS
+E: heart disease, stroke, cancer, tuberculosis, influenza
+Evaluation:
+Heart disease and cancer are the two main causes of death.
+Stroke, pneumonia and influenza
+Final Answer:",0.05217176
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"very big
+B: very small
+C: difficult to understand
+D: too exaggerated
+E: not making sense
+Evaluation:
+- A preposterous statement is usually too exaggerated.
+- It's usually difficult to understand.
+- It's usually not making sense.
+- Big and small can't be defined by the word.
+Final Answer: Too exaggerated: It's too exaggerated.",0.11660456
+67,What is the base of a vase called?,vessel,"Venus? No.
+B: Mars? No.
+C: Jupiter? Yes!
+D: Saturn? No.
+E: Uranus? No.
+Evaluation:
+- Jupiter is the only answer that makes sense.
+Final Answer: Jupiter",0.1407705
+68,Putting on a professional stage play requires what kind of effort?,serious,"good slides
+B: good content
+C: good delivery
+D: good interaction with audience
+E: good food and drinks
+Evaluation:
+- Good slides and content are essential.
+- Good delivery is very important.
+- Good interaction with audience is nice-to-have.
+- Good food and drinks are not important.
+Final Answer: Good slides, content, and delivery.",0.07923841
+69,What holds a lit cigarette when no one is around?,ashtray,"To remember special moments.
+B: To show their talent.
+C: To show their personality.
+D: To show their intelligence.
+E: To show their feelings.
+Evaluation:",0.03742926
+70,What's the nickname of the monster the beauty loved?,beast,"To see the monster.
+B: To see the beautiful flowers",0.25056532
+71,What does a person do at the end of the day?,come home,"to make money because that's the primary purpose of having a job.
+B: to be happy because happy people are productive.
+C: to be respected because people want to feel valued.
+D: to feel useful because people want to contribute.
+E: to get free",0.10430254
+72,What is water to someone?,important,"A cat is smaller than a dog.
+B: A cat is more expensive than a dog.
+C: A dog is faster than a cat.
+D: A cat is more independent than a dog.
+E: Neither cat nor dog is a mammal.
+Evaluation:
+- A cat is smaller than a dog.
+- A cat is more expensive than a dog.
+- A dog",0.060477458
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"the pot handle will be broken.
+B: the table will be burned.
+C: the table will be scratched.
+D: the",0.14721155
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"The NORAD stands for North American Aerospace Defense Command.
+B: The JFK",0.0399737
+75,What is often true about secular holidays?,short term,"Holidays are typically longer, but not more frequent.
+B: Vacations are typically more frequent, but not more predictable.
+C: Holidays are typically more predictable, but not more enjoyable.
+D: Vacations are typically more unpredictable, but not longer.
+E: Holidays are typically more enjoyable, but not more frequent.
+Evaluation:
+- Holidays are typically longer.
+- Vacations are typically more frequent.
+- Holidays are typically more predictable.
+- Vacations are typically more unpredictable.
+- Holidays are typically more enjoyable.
+Final Answer: Vacations are typically more frequent and more unpredictable.",0.110017106
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,"More is not very close.
+B: Very much is not very close.
+C: Extremely is the best answer.
+D: More than is not",0.06326226
+77,"When not playing your mandolin, where would you store it?",instrument case,"Use a desk with a built-in mouse pad.
+B: Use a laptop stand with a built-in keyboard.
+C: Use a monitor stand with a built-in power supply.
+D: Use a monitor stand with a built-in CPU.
+E: Use a monitor stand with a built-in",0.13465416
+78,Where would you put tin after you buy it?,shopping bag,"You need a permit to fish because of regulations.
+B: You need a permit to fish because of safety concerns.
+C: You need a permit to fish because of environmental concerns.
+D: You need a permit to fish because of population concerns.
+E: You need a permit to fish because of cultural concerns.
+Let's think through different possibilities carefully:
+(1) You need a permit to fish because of regulations.
+(2) You need a permit to fish because of safety concerns.
+(3) You need a permit to fish because of environmental concerns.
+(4) You need a permit to fish because of population concerns.
+(5) You need a permit to fish because of cultural concerns.",-0.025611732
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"Because they are strong against earthquakes
+B: Because they are strong against the wind
+C: Because they are a good insulator
+D: Because they are good for soundproofing
+E: Because they are lightweight
+Let's think through different possibilities carefully:
+(1) Strong against earthquakes
+(2) Strong against the wind
+(3) Good insulator
+(4) Good for soundproofing
+(5) Lightweight
+Evaluation:
+(1) Strong against earthquakes is good, but not the best reason.
+(2) Strong against the wind is good, but not the best reason.
+(3) Good insulator is good, but not the best reason.
+(4) Good for soundproofing is good, but not the best reason.
+(5) Lightweight is not good.
+Final Answer: Strong against earthqu",-0.04251431
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,"Talking to someone
+B: Going for a walk
+C: Listening to music
+D: Reading a book
+E: Taking a hot bath
+Let's think through",0.1023155
+81,Why do people start to play sports at the gym?,get in shape,"Practice skills to improve performance.
+B: Compete against other players to win.
+C: Have fun by playing with friends.",0.20092075
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"To be entertained
+B: To learn new things
+C: To",0.07423511
+83,what is the end result of hiring a maid?,clean house,"to protect eyes from sunlight
+B: to reduce",0.033720415
+84,What are women expecting to begin procreating?,pregnancy,"To surf the Internet.
+B: To play games.
+C: To type.
+D: To shop.
+E: To watch movies.
+Evaluation:
+- To surf the Internet is the main reason.
+- To play games is a secondary reason.
+- To type is not a good reason.
+- To shop is not a good reason.
+- To watch movies is not a good reason.
+Final Answer: To surf the Internet.",0.081248164
+85,Where is a master control likely to be in a technology company?,main office,"To show respect. It's a possible reason.
+B: To be unique. It's a possible reason.
+C: To hide dirt. It's a possible reason.
+D: To look fashionable. It's a possible",0.01265385
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"I'm currently using a travel website to book my flights.
+B: I've used a travel website to book my flights in the past.
+C: I",0.1949926
+87,Where does a jellyfish always live?,underwater,"take classes: taking classes can provide structure and guidance.
+B: practice conversation: practicing conversation can help build fluency and confidence.
+C: read books: reading books can help expand vocabulary and understanding of grammar.
+D: watch movies: watching movies can help with pronunciation and cultural context.
+E: use flashcards: using flashcards can help with memorization and recall.
+Evaluation:
+- Taking classes can provide structure and guidance.
+- Practicing conversation can help build fluency and confidence.
+- Reading books can help expand vocabulary and understanding of gram",-0.023104228
+88,WHat could prevent someone from the ability to buy a house?,lose money,"(1) Providing financial assistance
+B: (2) Building affordable housing
+C: (3) Creating job opportunities
+D: (4) Distributing food supplies
+E: (5) Offering medical services
+Evaluation:
+- Financial assistance could help people with urgent needs.
+- Affordable housing could provide stability and shelter.
+- Job opportunities could increase self-sufficiency and independence.
+- Distributing food supplies could address basic needs.
+- Offering medical services could improve overall health and well-being.
+Final Answer: Offering medical services.",0.15469345
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,"to save time
+B: to save money
+C: to save effort
+D: to save fuel
+E: to save stress
+Evaluation:
+- Saving time is important.
+- Saving money is very important.
+- Saving",0.11796622
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,"Wearing it to a party is a good way to show off an outfit, but it might not be the best way.
+B: Wearing it to the beach is not a good way to show off an outfit, because it might get sandy and dirty.
+C: Wearing it to a wedding is not a good way to show off an outfit, because it might be too formal.
+D: Wearing it to a party is a good way to show off an outfit, but it might not be the best way.
+E: Wearing it to a wedding is a good way to show off an outfit, but it might not be the best way.
+Evaluation:
+- Wearing it to a party is a good way to show off an outfit, but it might not be the best way.
+- Wearing it to a wedding is a good way to show off an outfit, but it might not be the best way.
+- Wearing it to the beach is not a good way to show off an outfit, because it might get sandy and dirty.
+Final Answer: W",-0.0013694987
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,"To make a promise
+B: To set a goal
+C: To celebrate",0.09454611
+92,What happens soon after christmas?,easter,"buy presents for others
+(1) Christmas is a holiday season of giving, so it's natural to want to continue to give gifts after Christmas.
+(2) Buying gift for others may be the way to show your love and care for them.
+(3) In some countries, people exchange gifts not only on Christmas but also on Easter, New Year, and other special occasions.
+(4) Gift-giving is a way to show your gratitude and appreciation for the person you are giving the gift to.
+(5) Buying presents for others may be a way to spread holiday cheer and make someone's day a little brighter.
+B: summer
+(1) Summer is the season that follows winter in the Northern Hemisphere, so it is the next season after Christmas.
+(2) Summer is a time of warmth and sunshine, a welcome change after the cold and dark days of winter.
+(3) Summer is a time for outdoor activities, such as swimming, sunbathing, and hiking, which are not possible during winter.
+(4) Summer is a time for festivals and celebrations, such as Independence Day in the United States and Canada Day in Canada.
+(5) Summer is a time when school is out and people have more free time to spend with family and friends.
+C: easter
+(1) Easter is a Christian holiday that celebrates the resurrection of Jesus Christ.
+(2) Easter is typically celebrated on the Sunday after the first full moon after the spring equinox, which is usually in March or April.
+(3) Easter is often followed by the season of Lent, a time of fasting and penance leading up to Easter.
+(4) Easter is a time of renewal and rebirth, a fitting way to follow the darkness and cold of winter.
+(5) Easter is a time for family gatherings, egg hunts, and special Easter meals.
+D: see work
+(1) After Christmas, there is often a lull in work, with many employees taking time off or working on reduced schedules.
+(2) This can be a good time for employees to take a break and recharge before the busy season begins again.
+(3) Some employees may also use this time to catch up on projects or tasks that were put off during the busy holiday season",0.2601998
+93,What does a person miss when a tree hits power lines?,electricity,"a car with a flat tire has a bad performance
+B: a car with a flat tire has a good performance
+C: a car with a flat tire has a flat tire
+D: a car with a flat tire has no flat tire
+E: a car with a flat tire has a high performance
+Let's think through different possibilities carefully:
+- A car with a flat tire has a bad performance.
+- A car with a flat tire has a flat tire.
+- A car with a flat tire has a good performance.
+- A car with a flat tire has no flat tire.
+- A car with a flat tire has a high performance.
+Evaluation:
+- A car with a flat tire has a bad performance.
+- A car with",0.045951057
+94,What is the result of having a lunch that is sizable?,feel full,It is possible.,0.14474264
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"Vatican City
+B: Monaco
+C: Singapore
+D: Malta
+E: San Marino
+Let's think through different possibilities",0.050620385
+96,When people drive they usually do what to ward off boredom?,listen to radio,"To get an education
+B: To",0.15772909
+97,What could cause you to not be sleeping well?,nightmares,"by exercising. This is because exercise helps your immune system.
+B: by doing a lot of physical work. This is because physical work helps your immune system.
+C: by drinking water. This is because water helps your immune system.
+D: by brushing your teeth. This is because brushing your teeth helps your",-0.04664053
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,You have to teach students,0.05235767
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"manager
+B: leader
+C: boss
+D: captain
+E: foreman
+Evaluation",0.1045683

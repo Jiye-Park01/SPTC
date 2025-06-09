@@ -1,0 +1,506 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"a bed
+B: a door
+C: a book
+D: a window
+E: a lamp
+Let's think step-by-step.
+First, a bed is a thing found in the",0.11099555
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,"country - a country is a nation with its own government
+B: civilization - civilization is a human society that has developed advanced technology, organized social structures, and governments
+C: citizen - a citizen is a person who lives in a country and owes allegiance to that country
+D: canada - Canada is a country in North America
+E: city - a city is a large or important human settlement
+Final Answer: civilization
+
+Q: The following are examples of what among",0.518524
+2,Where is the best place to get furniture from?,store,"The best place is a furniture store.
+B: A store is the best place.
+C: We are likely to find furniture in a store.
+D: We are likely",0.32837555
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,"accidental = not intentional
+B: detestable = very bad
+C: effusive = very expressive
+D: enabled = made possible
+E: shocking = unexpected and unpleasant
+
+Q: Which of the following is not a characteristic of a successful",0.4138968
+4,Where might a person play an acoustic guitar at a birthday party?,house,"To protect eyes from sunlight
+B:",0.028050674
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,"The Rascals
+B: The Supremes
+C: The Temptations
+D: The Stylistics
+E: The O",0.2214351
+6,What usually happens to work when taking a break?,delay,"To protect eyes from sunlight
+B: To reduce glare
+C: To look fashionable
+D: To hide tired eyes
+E: To protect from wind and dust
+Let's think step-by-step.
+First, sunglasses",0.07554437
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,"It was a useful technology
+B: It was a difficult technology to use
+C",0.17716391
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"He found the coin in a park.
+B: He found the coin in a playground.
+C: He found the coin in a school yard.",0.06621847
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"We must have a dry, clean floor in a synagogue.
+B: We must have a dry, clean floor in a wedding.
+C: We must have a dry, clean floor in a restaurant.
+D: We must have a dry, clean floor in a bed.
+E: We must have a dry, clean floor in all buildings.
+Final Answer: In a bed.
+
+Q: What is the most common cause of fires in homes?
+Cho",0.23607036
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,"The best value for your money
+B: A suit that makes your butt look big
+C: A suit that fits your body type
+D: A suit that is the same color as your skin
+E: A suit that fits your budget
+Let's think step-",0.23317634
+11,"Hurting else is a crime, if convicted you could face what?",jail time,go to the beach,0.19682442
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,"sea world is a place where people keep animals in captivity for entertainment.
+B: tropical waters are warm and have coral reefs.
+C: tomales bay is a bay in california that is cold and has few fish.
+D: aquarium is a place where people keep animals in captivity for entertainment.
+E: great oceans are huge bodies of salt water.
+Final Answer: In tomales bay.
+
+Q: What is a common way",0.5151231
+13,What does the best horse in the world win?,triple crown,"to get help
+B: to get food
+C: to get a drink of water
+D: to refuel
+E: to get rid of the excess weight
+Let's think step-",-0.048786156
+14,How do you indicate that you agree wtih someone?,nodding,Wash,0.2177253
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,"Jocelyn Bell Burnell
+B: Marie Curie
+C: Rosalind Franklin
+D: Amelia Earhart
+E: Sally Ride
+Let's think step-by-step.",0.17495933
+16,If you're drinking what body part does most of the work?,mouth,"apple
+B: cup
+C: fork
+D: knife
+E",0.26284608
+17,What does someone do before they travel to work?,get ready,"To exercise
+B: To socialize
+C: To play sports
+D: To take part in classes
+E:",0.16896692
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,She let him finish the test.,0.08057842
+19,Where would you find only one churchyard?,village,"a lefty
+B: a handless
+C: an amputee
+D: a no-armed",0.0023738109
+20,What does an actor in a musical do?,sing songs,"Actors act in musicals.
+B: They do vocals.
+C: They pretend to be characters.
+D: They wear costume.
+Final Answer: To sing songs.",0.4972005
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"learning
+B: painful memories
+C: thinking
+D:",0.56000566
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,"He decided to go to the gym.
+B: He began to practice grooming.
+C: He started to brush his teeth.
+D: He washed his hair.
+E: He started",0.19797376
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,"donkey
+B: pony",0.09173765
+24,Where could a bee get stuck easily?,soft drink,"soft drink
+B: in traffic
+C: countryside
+D: swarm
+E: field of flowers
+A bee could get stuck in soft drink.
+B: in traffic
+C: countryside
+D: swarm
+E: field of flowers
+A bee could get stuck in a swarm.
+Final Answer: A bee could get stuck in a swarm.
+
+Q: In what kind of place could you find a lot of cats?
+Cho",0.28038508
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"Exercise
+B: Eat less
+C: Drink plenty of water
+D: Lose",0.054583754
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,"To avoid the police
+B: To avoid injury
+C: To avoid a speeding ticket
+D: To avoid the ambulance
+E: To avoid a lawsuit
+Let's think step-by",0.09603333
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,"The equipment manager was in charge of the sports equipment.
+B: When the team arrived for an away, he took it off the bus.
+C: He brought it where?
+Final Answer: The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it to the arena.
+
+Q: The student was at the school. When another student came home from school, the student said what to him?
+Ch",0.27384838
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"is not correct.
+B: is not correct.
+C: is not correct.
+D: is not correct.
+E: is correct.
+Final Answer: jar.",0.14231019
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"He was a substitute
+B: He wore a lab coat
+C: He was strict
+D: He was new to the school
+E: He",0.10556588
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"Because there is a lot of water in the air
+B: Because there is lots of dust in the air
+C: Because the sun is so bright
+D: Because the sky",0.08884935
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"We have to think of a word that means being a joke.
+B: We have to think of a word that means being untrue.
+C: We have to think of a word that means being in danger of going to jail.
+D: We have to think of a word that means being punished.
+E: We have to think of a word that means being put in jail.
+Final Answer: Embarrassment. James was embarrassed by his inept lies",0.34072608
+32,where do people go to view famous pictures?,art show,"magazine
+B: novel
+C: comic
+D: dictionary
+E: journal
+Let's",0.29653072
+33,Why might someone think killing is justified?,punishment,"Because they have sensitive eyes.
+B: Because they are more likely to get sunburn.
+C: Because they are more likely to develop skin cancer.
+D: Because they are more likely to get sunstroke.
+E: Because they are more likely to die.
+Let'",0.114369005
+34,What is the purpose of a basketball court?,use,"to talk to someone
+B: to text someone
+C: to send email
+D: for fun
+E: to call someone
+Let's think step-by-step",0.31406683
+35,Where would you look up what an anemone is?,dictionary,"Kenya
+B: Ug",0.07515557
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"throw away
+B: disregard
+C: being rude
+D: humiliate
+E: abhor
+First, the answer must be negative, because Ben didn't have much respect for Sue.
+Second, we can eliminate A and C because they are positive.
+Third, we can eliminate E because it means to hate.
+Next, we can eliminate D because Sue is a person, not a wish.
+Finally, we can eliminate B because it is",0.29979473
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"A cat has a tail and a cow has horns
+B: A cat meows whereas a cow moos
+C: A cow is black and a cat is grey
+D: A cat has whisk",-0.03552539
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,"pleasure
+B: awe inspiring
+C: angry
+D: thinking
+E: painful memories
+First, he was not pleased with the artifacts.
+Second, he was not awe inspired.
+Third, he was not thinking.
+Finally, he was angry.
+Final Answer: Angry
+
+Q: The woman was in the hospital because she had been bitten by a poisonous snake, how did she feel?
+Choices:
+A",0.47704217
+39,Where is a good place to store a saw?,toolbox,"To keep track of time
+B: To look fashionable
+C",0.07828261
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"4
+B:",0.031871714
+41,What is not always found in a large volume?,collection of books,"fertilize
+B",0.0032611936
+42,Where does someone obtain a frying pan?,department store,"fall on the floor
+B: fall in the bathtub
+C: fall on the steps
+D: fall off the bed
+E: fall on the toys
+Let's think step-by-step.
+First, a baby can",0.11185201
+43,What is the result of getting drunk?,hangover,"To get to the other side
+B: To get to the",0.119518906
+44,What could happen to garbage after it is put into a landfill?,composted,"Some people think that if we don't do anything about garbage, there",0.28238124
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,"This choice is wrong because an empty shopping center needs tenants, not people.
+B: This choice is wrong because an empty shopping center needs tenants, not most peculiar places.
+C: This choice is wrong because an empty shopping center needs tenants, not stores.
+D: The shopping center is already a mall.
+E: This choice is wrong because an empty shopping center needs tenants, not suburbs.
+Final Answer: tenants.
+
+Q: How",0.16852391
+46,Where would you be unable to read a newspaper?,jail,"You would be able to read a newspaper on a porch.
+B: You would be unable to read a newspaper in a school.
+C: You would be able to read a newspaper in jail.
+D: You would be able to read a newspaper on a rug.
+E: You would be able to read a newspaper in a library.
+Final Answer: In a school.
+
+Q: What do people do when they are swimming in the sea or in a pool?",0.22253588
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"The car had no brakes
+B: The",0.118732035
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,"very happy
+B: excited
+C: enthusiastic
+D:",0.08974278
+49,Where would you likely find a spa alongside similar services?,health centre,"Spa is a place where you can relax.
+B: It is a place where you can get a massage.
+C: It is a place where you can get a facial.
+D: It is a place where you can get a manicure.
+E: It is a place where you can get a pedicure.
+Final Answer: In a health center.
+
+Q: Which of the following is a feature of the American workplace?
+Choices:",0.35208738
+50,What is a common sign that someone is lying?,avoid eye contact,"sleepy and tired
+B: hungry and thirsty
+C: energetic and enthusiastic
+D: sad and bored
+E: confused and tired
+Let's think step-",0.0012581218
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"If you like cool temperatures, you would probably have an electric fan at home, because you want to feel cool there.
+B: You probably wouldn’t have one in the hardware store, because they are not designed for cooling people.
+C: You would have an electric fan in your home because you want to feel cool.
+D: You don’t have an electric fan in a hot room, because you want to feel cool.
+E: You don’t have an electric",0.22701253
+52,What might having a check up lead to for some people?,anxiety,"read a book
+B:",0.14407966
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,"this week
+B: last week
+C: this month",0.119499296
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,"To look good
+B: To take in more oxygen
+C: To make breathing easier",0.22880799
+55,What is something someone driving a car needs even to begin?,sight,"pupil
+B: iris
+C: lens
+D: eyel",0.36707628
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"library is not a place for peace and quiet.
+B: home is not a place for peace and quiet.
+C: top of mountain is a place for peace and quiet.
+D: sea is not a place for peace and quiet.
+E: grocery is not a place for peace and quiet.
+Final Answer: top of mountain.
+
+Q: The only person in a room has the following properties:
+- He has no hair on his head.
+- He has",0.25530094
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"actor
+B: teacher
+C: doctor
+D: lawyer",0.13482788
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,"godless means without God.   Danny didn't say that.
+B: horrible means terrible.  Danny did say that Lila didn't think it was bad.
+C: undivine means not divine.   Danny did say that Lila disagreed.
+D: humdrum means uninteresting.   Danny said that Lila didn't think it was bad.
+Final Answer: undivine.
+
+Q: When you're looking at numbers",0.2047267
+59,What can a concert hall also be used for?,theater,"To keep skin healthy
+B: To protect eyes from sunlight
+C: To reduce glare
+D: To look fashionable",0.10427372
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,"James looked for koalas.
+B: He went to the wrong environment.
+C: It's impossible to find koalas in the jungle.
+D: It's impossible to find koalas in the great outdoors.
+E: It's impossible to find koalas in siberia.
+Final Answer: It's impossible to find koalas in the jungle.
+
+Q: What are the characteristics of good teamwork?",0.31266832
+61,What is a portable light source called?,flashlight,"to make you happy
+B: to make",0.11911455
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"boxing
+B: running
+C: swimming
+D: jumping rope
+E: cycling
+Let's",0.0753152
+63,What does a robot need to be able to be working?,energy,"Because of the weather
+B: Because of the holidays
+C: Because of the exams
+D: Because of the teachers' strike
+E: Because of the sport events
+Let's think step-by-step.",0.20485261
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,"Children
+B: People who have the license
+C: People who have the driving experience
+D: People who have the driving test
+E: People who can walk
+Let's think step-by-step.
+First, children cannot drive a car",0.17496634
+65,Where can a woman get birth control pills?,pharmacy,"If you think of the word ""pills,"" you probably think of a pharmacy or drug store.
+B: ""Birth control pills"" are not a medicine cabinet.
+C: You should not get birth control pills from ""hormones.""
+D: ""Vagina"" is a dead-end.
+E: A ""pharmacy"" is the correct answer.
+
+Q: I am going to spend 500 dollars on a new computer. Where",0.4626338
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"sharp sound
+B: soft sound
+C: a crackling sound
+D: noise
+E: low noise
+Let's think step-by-step.
+First, a sharp sound",0.049920022
+67,What is the base of a vase called?,vessel,"blanket
+B: cover
+C: veil
+D: shawl
+Final Answer",0.09605193
+68,Putting on a professional stage play requires what kind of effort?,serious,low-cal,0.12421713
+69,What holds a lit cigarette when no one is around?,ashtray,"A
+B: B
+C: AB
+D: O
+E: All of the above
+Let's think step-",0.1221496
+70,What's the nickname of the monster the beauty loved?,beast,"What was the nickname of the monster the beauty loved?
+B: He called her his 'beast' in private.
+C: Even though she was 'ugly', he loved her.
+D: The moon looked like a small 'satellite' in the sky.
+E: The beast was on the 'top of mountain'.
+Final Answer: He called her his 'beast' in private.
+
+Q: What is the weather like at the end of",0.40808544
+71,What does a person do at the end of the day?,come home,"make money
+B",0.16358668
+72,What is water to someone?,important,"family
+B: education
+C: money
+D: health
+E: love
+Yes.
+
+Q",0.18294947
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"To see new places
+B: To make money
+C: To be with family
+D:",0.22622524
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"Salt
+B: Water
+C: Milk
+D: Bacon fat
+E: Butter
+Let's think step-",0.088078275
+75,What is often true about secular holidays?,short term,,0.3281644
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,"Took him to work
+B: Bought him clothes
+C: Bought him food
+D: Taught him English
+E: Got him a job
+Let",0.23817778
+77,"When not playing your mandolin, where would you store it?",instrument case,"a musical instrument that has 12 strings and a round sound board
+B: a musical instrument that looks like a guitar
+C: a musical instrument that looks like a violin
+D: a musical instrument that looks like",0.51031864
+78,Where would you put tin after you buy it?,shopping bag,"To hide tired eyes
+B",0.15219319
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"stomach is the wrong answer because you don't smell food in your stomach.
+B: restaurant is the wrong answer because you don't smell food in restaurants.
+C: table is the wrong answer because you don't smell food on tables.
+D: shelf is the wrong answer because you don't smell food on shelves.
+Final Answer: heart is correct because you smell food and it makes your heart flutter.
+
+Q: Which of these things is NOT a",0.39512295
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,"perfect world
+B: be a snob
+C: headache
+D: eat well
+E: live comfortably
+Headache is not a luxury.
+A",0.41087478
+81,Why do people start to play sports at the gym?,get in shape,"to go to work
+B: to see the scenery
+C: to save money
+D: to go to the doctor
+E: to go to the supermarket
+Let's think step-by-step.",0.1912567
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"Justin Bieber
+B: Michael Jackson
+C: Frank Sinatra
+D: Elton John
+E: Ste",0.07399108
+83,what is the end result of hiring a maid?,clean house,"To protect from the rain
+B: To protect from the sun",0.11693656
+84,What are women expecting to begin procreating?,pregnancy,a hat - no,0.09308341
+85,Where is a master control likely to be in a technology company?,main office,"A master control is a place where decisions are made.
+B: A master control is a place where decisions are made.
+C: A master control is a place where decisions are made.
+D: A master control is a place where decisions are made.
+E: A master control is a place where decisions are made.
+Final Answer: The correct answer is C.
+
+Q: A man is walking through the desert when he suddenly encounters a vicious lion.
+Ch",0.04357115
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"it is more effective
+B: it is more efficient
+C: it is more effective and efficient
+D: it is more effective than other forms of media
+E: it is more effective than other forms of media and more efficient",0.023530077
+87,Where does a jellyfish always live?,underwater,"Shoes
+B: Clothes
+C: a hat
+D: a mask
+E: a scarf
+Let's think",0.23508066
+88,WHat could prevent someone from the ability to buy a house?,lose money,dimension:,0.16176257
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,direct,0.3082575
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,"a car
+B: a boat",0.016382152
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,"She was stung
+B: He was stung
+C: It was stung
+D: She was stung by a bee
+E: He was stung by a bee
+Let's think step-by-",0.16339509
+92,What happens soon after christmas?,easter,"Great
+B: Small
+C: Strong
+D: Light
+E: Weak
+Final Answer:",0.07330324
+93,What does a person miss when a tree hits power lines?,electricity,"It has short legs
+B: It has a long tail",0.12888741
+94,What is the result of having a lunch that is sizable?,feel full,"give up
+B: obesity
+C: feeling satisfied
+D: get sleepy
+E: feel full
+Final Answer: feel full",0.5959972
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"The given sentence means that the dryer was not working properly, so the person pointed an electric fan at his clothes in the what?
+B: Ding room - He was washing clothes in the dining room.
+C: Home - He was washing clothes at home.
+D: Hardware store - He was buying a new dryer at the hardware store.
+E: Computer - He was playing games in the computer.
+Final Answer: Home.
+
+Q: How did he",0.3234954
+96,When people drive they usually do what to ward off boredom?,listen to radio,"take a shower
+B: put on sunglasses
+C: take a nap
+D: turn on the air conditioner
+E: sit by the pool
+Let's think step-by-step.",0.2056584
+97,What could cause you to not be sleeping well?,nightmares,"because you were lazy
+B: because you were absent for a long time
+C:",0.01206133
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,"she walked
+B: she climbed
+C: she jumped
+D:",0.3226825
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"barbecue
+B: potato salad
+C: watermelon
+D: hot dogs
+E",0.25443467

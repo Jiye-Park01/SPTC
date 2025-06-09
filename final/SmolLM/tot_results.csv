@@ -1,0 +1,101 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,No promising thoughts found.,0.055745892
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,No promising thoughts found.,0.116191894
+2,Where is the best place to get furniture from?,store,No promising thoughts found.,0.070782915
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,No promising thoughts found.,0.1750722
+4,Where might a person play an acoustic guitar at a birthday party?,house,No promising thoughts found.,0.09277464
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,recording studio.,0.95789707
+6,What usually happens to work when taking a break?,delay,No promising thoughts found.,0.09668178
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,No promising thoughts found.,0.1472894
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,No promising thoughts found.,0.0010273848
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"It is especially important to keep a dry, clean floor in areas like the kitchen, bathroom, and entryways where there is high traffic or risk of spills and accidents.",0.13687219
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,No promising thoughts found.,0.058863584
+11,"Hurting else is a crime, if convicted you could face what?",jail time,No promising thoughts found.,0.06867485
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,No promising thoughts found.,0.037773572
+13,What does the best horse in the world win?,triple crown,No promising thoughts found.,0.022891236
+14,How do you indicate that you agree wtih someone?,nodding,"You can indicate that you agree with someone by simply stating, ""I agree with you.""",0.35802102
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,No promising thoughts found.,0.03669775
+16,If you're drinking what body part does most of the work?,mouth,No promising thoughts found.,0.14054318
+17,What does someone do before they travel to work?,get ready,No promising thoughts found.,0.10994741
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,No promising thoughts found.,0.15598974
+19,Where would you find only one churchyard?,village,No promising thoughts found.,0.07457894
+20,What does an actor in a musical do?,sing songs,No promising thoughts found.,0.13921821
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"To decide whether to be seeing artifacts, you will need to assess the impact or effects that the artifact has on the individual or organization involved. This includes understanding its historical, cultural, or financial significance, and its relevance to your personal or organizational goals.",0.07413947
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,No promising thoughts found.,0.21001992
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,No promising thoughts found.,0.03382797
+24,Where could a bee get stuck easily?,soft drink,No promising thoughts found.,0.13687798
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,No promising thoughts found.,0.16311647
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,No promising thoughts found.,0.19079955
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,No promising thoughts found.,0.0392879
+28,"People often have to take medicine, they tend to keep it where?",bathroom,People often keep their medicine in their pocket.,0.22095865
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,The text does not provide information on where the side chair was located compared to the lawn chair.,0.034322605
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,No promising thoughts found.,0.107906155
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,No promising thoughts found.,0.045478478
+32,where do people go to view famous pictures?,art show,"People often go to art galleries, museums, or art exhibitions to view famous pictures.",0.48414055
+33,Why might someone think killing is justified?,punishment,No promising thoughts found.,0.15852353
+34,What is the purpose of a basketball court?,use,No promising thoughts found.,0.050172243
+35,Where would you look up what an anemone is?,dictionary,No promising thoughts found.,0.038836226
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,No promising thoughts found.,0.25341251
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,No promising thoughts found.,-0.006450761
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,The archaeologist felt skeptical and disappointed.,0.16840622
+39,Where is a good place to store a saw?,toolbox,No promising thoughts found.,0.05819121
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,No promising thoughts found.,0.15283222
+41,What is not always found in a large volume?,collection of books,No promising thoughts found.,-0.0009840392
+42,Where does someone obtain a frying pan?,department store,Someone can obtain a frying pan from a kitchenware store or online marketplaces.,0.24718857
+43,What is the result of getting drunk?,hangover,No promising thoughts found.,0.0962646
+44,What could happen to garbage after it is put into a landfill?,composted,No promising thoughts found.,0.1335349
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,They solicited potential businesses and retailers to become tenants.,0.30639905
+46,Where would you be unable to read a newspaper?,jail,No promising thoughts found.,0.082682446
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,He preferred girls who were healthy but not overly thick.,0.33736575
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,No promising thoughts found.,0.06448667
+49,Where would you likely find a spa alongside similar services?,health centre,No promising thoughts found.,0.10528579
+50,What is a common sign that someone is lying?,avoid eye contact,No promising thoughts found.,0.15395203
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"If somebody likes temperatures cool, they might have more than one electric fan in their home or office.",0.17318848
+52,What might having a check up lead to for some people?,anxiety,No promising thoughts found.,0.19469886
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,No promising thoughts found.,0.16078241
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,Grooming oneself is known to increase self-confidence by generally increasing self-esteem.,0.34094155
+55,What is something someone driving a car needs even to begin?,sight,No promising thoughts found.,0.16152975
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,No promising thoughts found.,0.14199886
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,No promising thoughts found.,0.10699905
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,No promising thoughts found.,0.14297077
+59,What can a concert hall also be used for?,theater,No promising thoughts found.,0.041352794
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,No promising thoughts found.,0.042518407
+61,What is a portable light source called?,flashlight,No promising thoughts found.,0.107979
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,No promising thoughts found.,0.14088804
+63,What does a robot need to be able to be working?,energy,A robot needs to have the ability to sense its environment to be able to work.,0.23112121
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,No promising thoughts found.,-0.005306556
+65,Where can a woman get birth control pills?,pharmacy,"A woman can get birth control pills from a healthcare provider or a local pharmacy. They can also be ordered online through telemedicine services. However, a prescription from a doctor is often required.",0.280022
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,No promising thoughts found.,0.11740503
+67,What is the base of a vase called?,vessel,No promising thoughts found.,0.11334706
+68,Putting on a professional stage play requires what kind of effort?,serious,No promising thoughts found.,0.3073239
+69,What holds a lit cigarette when no one is around?,ashtray,No promising thoughts found.,0.043840215
+70,What's the nickname of the monster the beauty loved?,beast,No promising thoughts found.,0.079669245
+71,What does a person do at the end of the day?,come home,A person might go to the gym at the end of the day.,0.12667362
+72,What is water to someone?,important,Water is a daily necessity to someone.,0.20065573
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"The child might play with a butterfly, find a rock, or find a flower in the meadow during spring.",0.37272233
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,No promising thoughts found.,0.033314385
+75,What is often true about secular holidays?,short term,No promising thoughts found.,0.2188267
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,No promising thoughts found.,-0.00043667294
+77,"When not playing your mandolin, where would you store it?",instrument case,No promising thoughts found.,-0.017144985
+78,Where would you put tin after you buy it?,shopping bag,No promising thoughts found.,0.027765505
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,No promising thoughts found.,0.113764666
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,No promising thoughts found.,0.14967574
+81,Why do people start to play sports at the gym?,get in shape,No promising thoughts found.,0.09165175
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"If you slap a horse's butt while you're off of it, it may still gallop, move forward quickly, or may react defensively.",0.11525421
+83,what is the end result of hiring a maid?,clean house,No promising thoughts found.,0.15842307
+84,What are women expecting to begin procreating?,pregnancy,No promising thoughts found.,0.114006214
+85,Where is a master control likely to be in a technology company?,main office,No promising thoughts found.,0.019717885
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,No promising thoughts found.,0.031198232
+87,Where does a jellyfish always live?,underwater,Jellyfish always live in the oceans and seas.,0.39352113
+88,WHat could prevent someone from the ability to buy a house?,lose money,Lack of sufficient funds or financial stability can prevent someone from the ability to buy a house.,0.20107377
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,No promising thoughts found.,0.12979472
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,No promising thoughts found.,0.06883645
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,The singer had a small accident.,0.14159364
+92,What happens soon after christmas?,easter,No promising thoughts found.,0.0696329
+93,What does a person miss when a tree hits power lines?,electricity,No promising thoughts found.,0.07812567
+94,What is the result of having a lunch that is sizable?,feel full,No promising thoughts found.,0.12636867
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,No promising thoughts found.,0.0983991
+96,When people drive they usually do what to ward off boredom?,listen to radio,No promising thoughts found.,0.059911303
+97,What could cause you to not be sleeping well?,nightmares,No promising thoughts found.,0.20216507
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,No promising thoughts found.,0.042139277
+99,What would describe the hands of someone who doesn't do manual labor?,soft,No promising thoughts found.,0.103741914

@@ -82,6 +82,7 @@ def generate_answer(prompt):
             max_new_tokens=100,
             temperature=0.7,
             do_sample=True,
+            pad_token_id=tokenizer.pad_token_id,
             synced_gpus=False
         )
     decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)

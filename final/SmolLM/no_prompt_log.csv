@@ -1,0 +1,574 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"200 seconds
+B: 100 seconds",0.1080246
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,"country
+B: civilization
+C: citizen
+D: canada
+E: city
+Q: Government, planned cities, workers, institutions,",0.51562923
+2,Where is the best place to get furniture from?,store,"room
+B: store
+C: warehouse
+D: loft
+E: rug
+
+```username_1: I don't have a solution for your problem but I can give you some advice for your future projects.
+
+1. Use `regex` (`\w+`) to match a word
+2. Use `\s` to match whitespaces
+3. Use `^` to start match and `$` to end match
+4. Use `\w+",0.3323034
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,"accidental
+
+The answer key explained that although the initial action might not have been malicious, its aftermath still qualifies as a ""bigger problem"" due to the subsequent damage caused.
+
+Reflecting on this experience taught me two valuable lessons. First, never underestimate the power of niche interests; sometimes, they lead you down surprising paths filled with unique challenges and rewards. Second, taking the time to understand nuanced concepts such as nuance in language truly matters – after all, words hold immense weight in shaping our",0.2080481
+4,Where might a person play an acoustic guitar at a birthday party?,house,"4 x 4 x 4 x 4 x 4
+
+B: 4!
+
+C: 4C4
+
+D: 4!
+
+E: 4!
+
+Q: How many are there in the choices?
+Choices:",0.1288993
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,"factory
+Explanation:
+
+• Q: The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?
+Choices:",0.33867365
+6,What usually happens to work when taking a break?,delay,"the number of employees
+B: the number of employees
+C: the total number of employees
+D: the number of employees
+E: the total number of employees
+A",-0.0005208701
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,"painful memories
+B: new memories
+C: reverence
+D: remind
+E: curiosity
+
+Section 2: Answering Questions About the Passage
+
+Let's practice answering some questions about the passage now! We will look at three types of questions: comprehension, vocabulary, and inference.
+
+Comprehension Questions
+Comprehension questions ask us to understand the main idea of the passage. To answer these questions, read carefully and try to summarize the passage in your own words",0.3252465
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,it was a good crop,0.089447774
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"a bed is a place to sleep. A clean bed is a bed that has not been soiled by dirt.
+B: a restaurant is a place to eat. A clean restaurant is a restaurant that is not soiled by dirt.
+C: a synagogue is a place of worship. A clean synagogue is a synagogue that is not soiled by dirt.
+D: a wedding is a celebration. A clean wedding is a wedding that is not soiled by dirt.
+E: all",0.27849713
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,"dictionary
+B: guide
+C: encyclopedia",0.21711966
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"jail time
+
+This is just a little bit different.
+
+""A"" is the best choice, because you can't be forced to do something you don't want to do.
+
+""B"" is the worst choice, because you could be punished for doing something illegal.
+
+""C"" is the best choice, because you can't be forced to do something you don't want to do.
+
+""D"" is the worst choice, because you could be penalized",0.48220485
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,"sea world
+
+E: great oceans
+
+I really do not know how to approach this question. I know that the shark was likely in the Great oceans, but I don't know where in that particular region.
+
+• If you're asking about whether the shark is in a specific region, then the answer is no. If you're asking about the region that's likely to be where the shark is, then the answer is yes.
+3. In the first and second paragraphs of",0.22245173
+13,What does the best horse in the world win?,triple crown,"How many people have a cat?
+B: How many people have a dog?
+C: How many people have a hamster?
+
+---
+
+Question 3: This is an example of a false question. Look at the",0.032353505
+14,How do you indicate that you agree wtih someone?,nodding,,0.2825657
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,Q: If,0.12829836
+16,If you're drinking what body part does most of the work?,mouth,"A
+B: B
+C: C
+D: D
+E: E
+Q: If you're drinking what body part does most of the work?
+Choices:
+A",0.2817721
+17,What does someone do before they travel to work?,get ready,"go to work
+B: rest
+C: ride the bus
+D: read a book
+E: sleep
+Q: What do you do after you arrive",0.3222076
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,"wild
+B: frenzied
+C",0.23507482
+19,Where would you find only one churchyard?,village,"village
+B: city
+C: england
+D: canada
+E: michigan
+
+**Note that some answers may not necessarily represent the correct option.
+
+**
+
+## Using the Marking Scheme to Solve the Question
+
+#### Step 1: Identify the Question
+
+Look for the question mark inside the question.
+
+#### Step 2: Read the Options
+
+Read the options carefully and identify the one that matches the question mark.",0.47229236
+20,What does an actor in a musical do?,sing songs,"branch out
+B: vocals
+C: pretend
+D: wear costume
+E: sing songs
+
+Explanation:
+This question tests your ability to connect the appropriate parts of the sentence with the correct answer choices. It asks you to identify the choice that best completes the sentence.
+
+Section 4: Practice Sample Questions
+Let's try some sample questions together!
+
+Question 1:
+Which of the following best completes the sentence?
+The cat is sleeping under the bed",0.28401726
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"learning
+B: painful memories
+C: thinking
+D: awe inspiring
+E: pleasure
+Q",0.437065
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,"4
+B: 3
+C: 2
+D: 1",0.13216771
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,"buying
+B",0.18668106
+24,Where could a bee get stuck easily?,soft drink,"it is a small container containing a little water and sugar solution, which is a good source of energy for bees.
+B: They are generally found in a large population, in a place with a large amount of food and water around them.
+C: they are found in the countryside.
+D: They are found in large swarm.
+E: They are found in a field of flowers.
+(Q: How many bees are there in the hive)
+Choices:
+A",0.16391475
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"drive
+
+I spent hours poring over the passage, trying to decipher which choice would fit best based on the context. And then, something strange happened. As I scrolled through the comments, I saw that many other users were having similar experiences. Some had even reached out to the author saying they had been able to use the same passage to correctly answer multiple questions.
+
+But here's where things got really interesting. One user posted a link to a website that claimed to be able to",0.13967703
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,"Yes, if you are in the woods and the bear is not at full speed
+B: Yes, if you are at the beach and the bear is not at full speed",0.11025171
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,,0.34943038
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"kitchen
+
+The correct answer here is C: hospital. As the question states, people generally keep their medications in the bathroom, which is the closest to a hospital. However, since the question is phrased as a multiple choice question, the answer may vary based on where the questioner is located.
+
+In summary, answering ""where"" questions in French involves understanding the function of the preposition ""dans,"" recognizing patterns in the placement of prepositions in French sentences, and utilizing context clues",0.46826547
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"office
+B: table
+C: library
+D: falling down
+E: building
+
+I have never used this before, but I will try to do so.
+
+The correct answer is: 2, 3, 1, 2, 4, 5, 4, 2, 1, 1
+
+I don't understand why the correct answer is in the order 1, 2, 3, 4, 5,",0.40524894
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"2
+B: 3
+C: 5
+D: 6
+E: 7
+Q: The sum of the first 2010 natural numbers is 1153,219,92",-0.0036670566
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"penalty
+
+#### Explanation:
+
+James's punishment was to go to jail for a few months.
+He was given a letter of apology by the judge.
+
+#### Example Question #1 : Common Core: High School Functions
+
+Choose the expression that is equivalent to .
+
+Explanation:
+
+To solve this problem, we must first identify the given information.
+
+We are told that , and that
+
+Next, we must identify what we are trying to find.",0.19905639
+32,where do people go to view famous pictures?,art show,"is used to display and store items.
+B: is used to",0.13765903
+33,Why might someone think killing is justified?,punishment,"good
+B: bad
+C: ugly
+D: easy
+E: fun
+Q: What is the name for the idea that you are not responsible for your actions",0.43264848
+34,What is the purpose of a basketball court?,use,"basketball court
+B: use
+C: los angeles
+D: soccer
+E: sports arena
+Q: What is the purpose of a basketball court?
+
+D: All of the above
+
+Q: What is the purpose of a basketball court?
+
+1. A basketball court is a place where basketball is played.
+2. A basketball court is a place where basketball is played.
+3. A basketball court is a place where basketball is played.
+4. A",0.1276804
+35,Where would you look up what an anemone is?,dictionary,"oceanography
+Correct Answer: B
+
+Explanation:
+An anemone is a type of marine animal that lives in tide pools. It belongs to the phylum Cnidaria and its name comes from the Greek word ""anemos,"" which means wind. When it gets too windy, the anemone releases a sticky substance that attaches itself to rocks, shells, and other surfaces.
+
+---
+
+Chapter 2: Getting to Know Oceanography
+
+In this chapter, you will",0.1848082
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"A is not correct
+B: B is correct
+C",0.13944009
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"auditorium
+B: stadium
+C: arena
+D: city
+E: area
+
+In the question, we are given that the ticket office was sold out of tickets, so we can conclude that James couldn't get into the event.
+
+We are also given that James doesn't like football, so we are also given that James doesn't get to go to the event.
+
+Thus, we can conclude that James was sad, but not that sad.
+
+Let's",0.5724783
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,,0.4360224
+39,Where is a good place to store a saw?,toolbox,,0.17912039
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"Much like a jaunt on the treadmill, thinking",0.3283553
+41,What is not always found in a large volume?,collection of books,"collection of books
+B: set of books
+C: library
+D: set of encylopedia
+E: costco",0.71651256
+42,Where does someone obtain a frying pan?,department store,"Frying Pan
+
+B: F",0.033036184
+43,What is the result of getting drunk?,hangover,"intoxication
+
+Q: What is the result",0.31911826
+44,What could happen to garbage after it is put into a landfill?,composted,"put it in a landfill
+B: recycle it
+C: compost it
+D: burn it
+E",0.3875731
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,"people
+B: most peculiar places
+C: stores
+D: mall
+E: suburbs
+Q: The shopping center was empty and needed tenants, who",0.40187135
+46,Where would you be unable to read a newspaper?,jail,"porch
+B: school
+C: jail
+D: rug
+E: library
+Q: Where would you",0.45055223
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"laptop
+B: tablet
+C: desktop
+D: smartphone
+E: e-reader
+
+Q: Which of these statements about the author not true?
+Choices:",0.0875682
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,"All of the above
+B: The United States will take the lead in world affairs",0.117445335
+49,Where would you likely find a spa alongside similar services?,health centre,"sweden
+B: health centre
+C: backyard
+D: house
+E: country club
+
+In this scenario, if the correct response is B, you won’t be able to proceed until you’ve verified that you’ve selected the right option. If you’re wrong, you’ll be redirected to the next question, giving you a chance to reset and try again.
+
+Step 4: Continue until all questions have been answered
+
+As you",0.3553018
+50,What is a common sign that someone is lying?,avoid eye contact,fear,0.23058525
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"Home
+
+The question was “In which room would you find the most number of electric fans?”
+
+The correct answer for this question is “A)” – “home”.
+
+As the question was asked in the context of an electric fan, it appeared to be a typical question. However, it was not. The question was actually about a cooling room. The other options were not about cooling rooms, but about electric fans.
+
+The other options were “Home” and “Hot",0.4088094
+52,What might having a check up lead to for some people?,anxiety,"What people do when they get a check up.
+B: How a check up can lead to stress or anxiety.
+C: Why people get check ups.
+D: How check ups can help you stay healthy.
+E: When people get check ups.
+
+Which phrase best describes the author’s attitude toward check",0.130913
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,the most important thing,0.19184993
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,"The process of grooming is a process of increasing self esteem.
+B: Grooming and self esteem is an inverse process. The more you groom, the less you like yourself.
+C: Grooming oneself is an act of negligence.
+D: Grooming is a process of increasing satisfaction.
+E: Grooming is for the pleasure of the groomer.
+The relationship of the items above with the question is that the items are self-esteem, and grooming is",0.4239356
+55,What is something someone driving a car needs even to begin?,sight,"Practice
+
+Q: After you",0.10294497
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"she took a deep breath and started to swim
+B: she tried to climb the highest part of the cliff
+C: she waited for the wave to pass by",0.3258915
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"heart attack
+B: cancer
+C: stroke
+D: diabetes
+E: accident
+
+Question 5 :
+The",-0.037575763
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,"godless
+B: horrible
+C: undivine
+D: humdrum
+E: mortal
+
+The correct answer is C.
+
+## Explanation
+
+The answer is C.
+
+The show was not divine.
+
+## Solution
+
+Danny and Lila have different opinions",0.35997894
+59,What can a concert hall also be used for?,theater,"2
+B: 4
+C: 6
+D: 8
+E: 10
+
+Q: The author mentions a concert hall.",0.40310717
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,"Sir Joseph Banks
+B: Sir Joseph Beecham
+C: Sir Joseph Banks
+D: Sir Joseph Banks and Captain",0.09483766
+61,What is a portable light source called?,flashlight,"fluorescent and incandescent
+B: incandescent and LED
+C: LED and fluorescent
+D: fluorescent and LED
+E: incandescent and LED
+Q",0.26563144
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"The answer is that it is a thing to do.
+
+I know that the question is referring to the trend of something in the past, but if the trend is the new normal, what is the new normal?
+
+Thanks!
+_________________
+Senior Manager
+Joined: 14 Dec 2017
+Posts: 433
+Location: India
+Re: The trend for a certain category of products has been that sales  [#permal",0.45153302
+63,What does a robot need to be able to be working?,energy,"2017-09-29 12:41:22
+Q: What does a robot need to be able to be working?",0.22761181
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,"classical
+B: jazz
+C: rock
+D: pop
+E: country
+Q: I am a fan of all kinds of music",0.15124129
+65,Where can a woman get birth control pills?,pharmacy,"drug store
+
+Explanation:
+
+Step 1: We are given that a woman can get birth control pills from a drug store.
+
+Step 2: By reading the question, we can infer that the woman must get the birth control pills from the drug store.
+
+Step 3: We must eliminate choices A, B, and D.
+
+The correct answer is choice A.
+
+Q: If a woman takes birth control pills and uses condoms, how does this",0.28620362
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"The only thing worse than the thought of death is the thought of dying, and it is for a person to be a man.
+B: The only thing worse than the thought of death is the",0.13436672
+67,What is the base of a vase called?,vessel,"12
+B: 24
+C: 3",0.09705773
+68,Putting on a professional stage play requires what kind of effort?,serious,"by the way they dress
+B: by how they talk
+C: by the way they act",0.078041494
+69,What holds a lit cigarette when no one is around?,ashtray,,0.22213086
+70,What's the nickname of the monster the beauty loved?,beast,"beast
+B: ugly
+C: ugliness
+D: satellite
+E: top of mountain
+
+Question 4: The beauty was very angry. She said to the monster, ""You are the reason why I am so ugly. I hate you!"" What did the monster",0.4417214
+71,What does a person do at the end of the day?,come home,"A person will come home to sleep.
+
+Question 10.
+A car is driving along a road",0.30105612
+72,What is water to someone?,important,"water is not a toxic substance.
+B: water is the best solvent.
+C: water is the best solvent for anything.
+D: water is not a toxic substance.",0.061903626
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"he would never see anything like the meadow again
+B: he’d probably want to go back now
+C: he’ll have fun playing with the toys for a long time
+D: he’ll spend lots of time with his friends",0.15975243
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"he saw that he was about an hour from Jackson after heaking east on the de Soto bridge, where was he?
+B: He saw that he was in Atlanta after he had just left Jackson
+C: He",0.24587452
+75,What is often true about secular holidays?,short term,"frequent
+B: unpredictable
+C",0.15296638
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,it was,0.091402225
+77,"When not playing your mandolin, where would you store it?",instrument case,The answer is A. The mandolin can be played using the neck,0.4449073
+78,Where would you put tin after you buy it?,shopping bag,"hardware store
+B: antique store
+C: shopping bag
+D: shed
+E: landfill
+
+The correct answer to this question is C.
+
+The word “scamp” is a variant spelling of the word “scamp,” which is a juvenile delinquent or a mischievous person.
+
+The correct answer to this question is B.
+
+The word “in” is a preposition that is used to indicate a specific location or position within a space or object.",0.35998487
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"150
+B: 300
+C: 400",0.18975013
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,"perfect world
+B: be a snob
+C: headache
+D: eat well
+E: live",0.35368106
+81,Why do people start to play sports at the gym?,get in shape,"Use the machines at the gym.
+B: Eat healthy foods",0.48020852
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"stop
+B: stop",0.30206668
+83,what is the end result of hiring a maid?,clean house,"because she is too bad, the owner wants her",0.13682285
+84,What are women expecting to begin procreating?,pregnancy,"The Dangers of a Single Life
+B: The Dangers of a Life Without a Family
+C: The Dangers of a Life Without a Partner
+D: The Dangers of a Life Without a Child",0.26628643
+85,Where is a master control likely to be in a technology company?,main office,"main office
+
+In a technology company, the master control is likely to be located in the main office.
+
+In a technology company, the master control is likely to be located in the main office.
+
+In a technology company, the master control is likely to be located in the main office.
+
+In a technology company, the master control is likely to be located in the center.
+In a technology company, the master control is likely to be located in the center.",0.45142096
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"story
+B: now
+C: knowledge
+D: at least few page
+E: past
+
+Explanation:
+
+The answer is option A. We know that the speaker in the question uses the travel website to book the tickets. We can therefore assume that the sentence was originally written by a person who used to use the website to book the tickets for his journeys.
+
+Similarly, the sentence was written by a person who used to use the website to book tickets for his journeys.",0.23672822
+87,Where does a jellyfish always live?,underwater,"jellyfish
+B: red head
+C",0.29544434
+88,WHat could prevent someone from the ability to buy a house?,lose money,"B:
+C:
+D:
+E:
+
+0.0
+
+Q: Which of the following is a possible reason for someone",0.11510455
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,"When the police arrive at the scene of the accident they will help the people get out of the car.
+B: When the police arrive",0.14302474
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,"kitchen
+B: tea room
+C: China cabinet",0.659147
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,"I was going to ask this myself and then I saw this question in the other section and then I saw the answer choices and then the question.
+
+B: I'm not really sure that this is the right way to go about doing it.
+
+C: I still think that's the best answer, but it's kind of funny that it's in the same section as the other question.
+
+D: I'm not sure what you're talking about, but I have a feeling",0.07772032
+92,What happens soon after christmas?,easter,"see work
+B: summer
+C: easter
+D: buy presents for others
+E: halloween
+
+Q: What happens soon after christmas",0.535162
+93,What does a person miss when a tree hits power lines?,electricity,"2 feet
+B: 3 feet
+C: 1 inch
+D: 4 inches
+E: 3/4 inch
+A",0.07486085
+94,What is the result of having a lunch that is sizable?,feel full,Which of the following is,0.1227021
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"home
+Q: I wanted to buy a new computer but I didn't know what kind to get. I called the tech support person for that computer and asked",0.0514492
+96,When people drive they usually do what to ward off boredom?,listen to radio,"6
+B: 3
+C: 5
+D: 7",0.07566939
+97,What could cause you to not be sleeping well?,nightmares,"If you fall asleep quickly, you might not have time to get all of the stages of sleep.
+B: If you have dreams, you might not be able to get all of the stages of sleep.
+C: If you are in a good mood, you might not have time to get all of the stages of sleep.
+D: If you are having a hard time falling asleep, you might not have time to get all of the stages of sleep.
+E: If you are",0.18142761
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,"injury
+
+Once again, our friend answered correctly! Now, you might wonder why knowing about these historical events can help us solve puzzles. Well, think of each answer choice as a piece of information that could lead you closer to finding the solution. By connecting various pieces of information together, we create a pathway towards discovering the correct answer.
+
+Here's another example involving a question about the famous Tower of London:
+
+Question: Who was responsible for constructing the tower?
+
+Choices",0.050900392
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"articulate
+B: soft
+C: sign language
+D: graceful
+E: cup water
+
+I was stumped for a while, so I turned to Reddit to see if anyone else had tackled this problem. And boy, did I find some gems! One user suggested that the person could be a teacher since their hands would likely be involved in teaching. Another user pointed out that the word ""hand"" doesn't necessarily mean manual labor, so another option was plausible. Finally, someone else",0.24200591

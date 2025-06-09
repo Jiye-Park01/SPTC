@@ -1,0 +1,683 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"table. Well, it doesn't make sense to ask where you go after you're on the table.
+B: post office. But, the post office is a place to send letters and packages.
+C: neighbor's house. That's an option, but we don't want to send a piece of mail to someone else's house.
+D: railway station. It's a place to send a piece of mail, but it doesn't make sense to ask where you're going after",0.5687663
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,"The main idea in the passage is that the government played an important role in the development of the Indus Valley.
+
+So, it's not a good choice.
+B: This passage is about the development of the Indus Valley, so it's not a good choice.
+C: This passage is about the development of the Indus Valley. So it's a good choice.
+D: This passage is about the development of the Indus Valley. So it's a good choice.
+E:",0.30266282
+2,Where is the best place to get furniture from?,store,"We don't know where the furniture is stored.
+B: Yes, but where is the furniture usually stored?
+C: No, because there's no mention of a store here.
+D: We don't know where the furniture is.
+E: Yes, but where is the rug?
+Now we have to look at the possible answers and see which of them fit each of the clues.
+So, let's see which of the possible answers could fit the clue.",0.36308163
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,"The original incident was not intentional. This means it was an accident, and not the fault of anyone.
+B: The actions after the incident were completely deliberate. Johnny is not doing this on purpose.
+C: The actions were so extreme that they are completely beyond what any reasonable person would do.
+D: The actions were enabled. The people around Johnny helped him to do this.
+E: The actions were shocking. The people around Johnny did something that was shocking and should be considered",0.10070825
+4,Where might a person play an acoustic guitar at a birthday party?,house,"studio : If the birthday boy/girl is in a studio, then the party will also be in a studio. So, 'at studio' is not possible.
+B: at funeral place : If the birthday boy/girl is at the funeral place, then it will be impossible to play the acoustic guitar at the funeral place.
+C: house : The birthday boy/girl may have a house for playing the acoustic guitar. So, 'at house' is possible.
+D: music",0.36189646
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,"Factory: sounds good, but no; it doesn't sound too far fetched that he worked in a factory
+B: Airbase: also sounds good, but no; it does not sound too far fetched that he worked in an airbase
+C: Recording Studio: sounds good, but no; it does not sound too far fetched that he worked in a recording studio
+D: Garage: sounds good, but no; it does not sound too far fetched that he worked",0.35335696
+6,What usually happens to work when taking a break?,delay,"Relaxation. When we take a break, we should relax and unwind.
+B: Renewal. While we're relaxing, we should also try to renew ourselves by thinking about new ideas and learning new things.
+C: Distractions. Maybe we could watch TV or play video games.
+D: Delay. If we wait too long to take a break, we might get even more tired and struggle to focus.
+E: Snoring. When we're tired, we might",0.18249649
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,"ashamed
+B: joyful
+C: sad
+D: excited
+E: bitter
+Let's think step-by",0.18586686
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"Orland
+B: Fabric
+C: North carolina
+D: Geogia
+E: Medicine cabinet
+
+Step 1: Identify the question
+We are asked which state the farmer wants to grow cotton.
+
+Step 2: Look for the answer choices that contain information relevant to the question
+All the answer choices listed contain information relevant to our question, as they are states where the farmer wants to grow cotton.
+
+Step 3: Eliminate incorrect answer choices",0.20452037
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"To describe the events that took place at the wedding
+B: To describe the different types of buildings found in a city
+C: To describe the different types of floors found in a building
+D:",0.19536048
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,"It was about a young boy and his family's journey to Israel.
+B: It was about a young",0.1168513
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"jail time: This is a very common punishment, and I am sure that most people would agree. I would think that this punishment would have a very strong effect on the person who committed the crime.
+B: punishment: The word ""punishment"" does not have a very strong effect on the person who committed the crime. This is because punishment does not have a very strong effect on the person who committed the crime.
+C: bad karma: This is a very strong punishment, and I",0.4985532
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,,0.1485312
+13,What does the best horse in the world win?,triple crown,"The best horse in the world will win more races than any other horse.
+B: If an American racehorse wins a Kentucky Derby, they win more races than any other American racehorse.
+C: The best horse in the world wins the American Triple Crown.
+D: The first American racehorse to gain a Triple Crown wins more races than any other horse.
+E: The best horse in the world wins a trophy.
+
+Q: Which of the following is the best answer",0.46736875
+14,How do you indicate that you agree wtih someone?,nodding,"like more ------> agree
+B: nodding ------> agree
+C: by wearing rings ------> agree
+D: concordance ------> agree
+E: shake hands ------> agree
+
+### 4.10.6.3.3.2.8.1.7.1.9.2.2.10.1.11.1.12.1.13.1.14.1.1",0.61758435
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,"orchestra
+B: jazz band
+C: rock band
+D: music studio
+E: music store
+
+(Answer: B)
+
+In our example, we used simple yet powerful tools to analyze the relationship between words and their connections. Similarly, scientists use specialized software to study complex relationships in large datasets. For instance, they might examine how people interact with",0.31500548
+16,If you're drinking what body part does most of the work?,mouth,"glass is the wrong answer because it's not the part of your body that does the work.
+So let's try B and C.
+B: swallowing is the right answer.
+C: throat is the wrong answer because it doesn't do the work.
+So let's try D and E.
+D: mouth is the wrong answer because it doesn't do the work.
+E: use glass is the wrong answer because it doesn't do the work.
+So let's choose",0.36310273
+17,What does someone do before they travel to work?,get ready,"her mother
+B: her father
+C: her brother
+D: her cousin
+E: her",0.0746414
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,"The golfer was calm as he finished up his final shots, but inside he was what because he knew he had won.
+
+What does that mean? The golfer had a calm exterior as he finished up his final shots, but inside he was excited because he knew he had won.
+
+The golfer was calm as he finished up his final shots, but inside he was excited because he knew he had won.
+
+The golfer was calm on the outside",0.2708599
+19,Where would you find only one churchyard?,village,"village
+B: city
+C: england
+D: canada
+E: michigan
+Let's think step-by",0.52448654
+20,What does an actor in a musical do?,sing songs,"First, the actor is not wearing a costume. So, choice (A) is not correct.
+B: Next, the actor is singing. So, choice (B) is correct.
+C: The actor is pretending. Choice (C) is correct.
+D: The actor is wearing a costume. Choice (D) is not correct.
+E: Singing is not acting. So, choice (E) is not correct.
+Therefore, option (C) is the",0.23644426
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"A good way to think is to ask yourself ""If I could only learn one thing from my life, what would it be?""
+B: This is a good question to ask yourself on a regular basis. You can write about it in a journal or talk it out with a trusted friend. When you're ready, ask yourself what you might be doing now that you could be doing differently to make it easier to be happy.
+C: Thinking about the things that make you happy can help you",0.32052287
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,"He was sick of not attracting women.
+This is the first clue. If he was sick of not attracting women, he would be more likely to practice grooming.
+B: He was a busy man, so he needed to practice grooming.
+If he was busy, he would be more likely to practice grooming, which is why he was sick of not doing it.
+C: He was a man, so he would be more likely to practice grooming.
+If he was a man,",0.15998141
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,"bought at store
+This is incorrect because it implies that the turkey was bought from a store, which is not the case. The turkey was kept unspoiled by placing it in the fridge.
+B: barrel
+This is incorrect because a barrel is not used to keep the turkey unspoiled.
+C: refrigerator
+This is incorrect because a refrigerator is not used to keep the turkey unspoiled.
+D: oven
+This is incorrect because an oven is not used",0.32226455
+24,Where could a bee get stuck easily?,soft drink,"It's an insect.
+B: It's a big group of insects.
+C: It's a small group of insects.
+D: It's a large group of insects.
+E: It's a small group of insects.
+So, we have to check the meaning of the word 'swarm'.",-0.025852669
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"""Understand"" is the correct answer since listening to music can help John focus and comprehend the information he reads.
+B: ""Drive"" might be a possible answer because some people enjoy listening to music while driving, but it's not the only reason John listens to music while reading.
+C: ""Stimulation"" isn't the answer because ""stimulation"" can mean many different things, and in this context, it refers to something that might help John, such as a bright light or",0.28913385
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,"Explosion is not a good idea. Fire needs oxygen. The more oxygen you add, the faster the fire burns, and the hotter it gets.
+B: Unpredictable is not a good idea. In order to start a fire, you need three things: heat, fuel, and oxygen. If you change one of these, your fire will change.
+C: Disaster is not a good idea. Fire can be helpful and useful, but if it gets out of control, it can",0.30359843
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,"School is a place where you go to learn. You'd need a school that is away from the school to bring the equipment to.
+B: The Sears building is the place where the sports equipment were stored.
+C: A fair is a place where you can go to see a variety of events. I don't think you can take large items there.
+D: A mall is a place that is used for shopping. I don't think you can take large items there.",0.15663652
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"kitchen
+The patient's medicine is in the kitchen.
+B: doctor's office
+The patient's medicine is in the doctor's office.
+C: hospital
+The patient's medicine is in the hospital.
+D: bathroom
+The patient's medicine is in the bathroom.
+E: jar
+The patient's medicine is in the jar.
+
+If you get it right you'll be told ""Correct!"" and you'll be given the chance to try again. If not, you",0.45581162
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"The side chair, which is where the office is, is located in the center of the room.
+B: The table is in the center of the room as well.
+C: The library.
+D: If it's falling down, it will be in the office.
+E: Building.
+We need to find the opposite of Falling Down. The opposite of fall is rise.
+So,
+Q: The side chair was always kept dry, where was it located compared",0.20685303
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"entertainment:
+A is a place that does not provide room service, but might provide entertainment.
+
+B: train:
+B is a place that provides train service, but might not provide room service.
+
+C: motel:
+C is a place that provides room service, but might not provide train service or entertainment.
+
+D: hotel:
+D is a place that provides room service, train service, or entertainment.
+
+E: wedding:
+E is not",0.49713987
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"indictment, James was convicted of perjury. He was arrested and charged under the law.
+B: embarrassment, everyone laughed at his stories. It was an embarrassing situation.
+C: penalty, he was fined $100
+D: go to jail, James was convicted of perjury. He was arrested and charged under the law. He was found guilty, and was ordered to pay a fine.
+E: jail time, James was sentenced to jail time when he",0.26101983
+32,where do people go to view famous pictures?,art show,"window: we can see people's faces, so it's not the best choice.
+B: art show: we can see paintings, but it's not the best choice.
+C: trunk: we can see people's faces, but it's not the best choice.
+D: newspaper: we can see people's faces, so it's not the best choice.
+E: books: we can see people's faces, so it's not the best choice.
+So, B",0.25727212
+33,Why might someone think killing is justified?,punishment,"pleasure
+D: dies
+E: investigation
+
+Step 2: Now, let's check for a pattern. If we compare this answer choice to the other options, we notice that D and E are both opposites. Both can be removed from the list of possible answers.
+
+Step 3: Only two remaining choices are still in the list. Can we eliminate any of them now? Yes! Remember, all of the answers must be related somehow. If we compare A and B,",0.18642563
+34,What is the purpose of a basketball court?,use,"We need to find the city that has a basketball court or have the word basketball in the city.
+Let's look at our options.
+B: We need to find the word use.
+Use is not in any of the options.
+C: We need to find the word los angeles.
+Los angeles is not in our options.
+D: We need to find the word soccer.
+Soccer is not in our options.
+E: We need to find the",0.1623442
+35,Where would you look up what an anemone is?,dictionary,"oceanography - this is not an option, it is a field, not an an
+O: tide pool - this is not an option, a tide pool is not a place where you would find anemones
+N: south pacific - this is not an option, it is not a place, it is a topic.
+E: sea water - this is not an option, it is a topic, not a place.
+So, the best answer would be D.
+
+Hope",0.19325477
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"throw away - this is a negative word that means to discard
+The word 'throw' is a verb that means to send or throw something somewhere.
+B: disregard - another negative word that means to ignore
+C: being rude - this cannot be used in positive situations
+D: humiliate - this is a negative word that means to belittle or cause someone to feel ashamed
+E: abhor - this is a negative word that means to hate
+Hence, the correct answer is",0.30959198
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"auditorium: James couldn't get into the auditorium because the tickets were sold out.
+B: stadium: James couldn't get into the stadium because the tickets were sold out.
+C: arena: James couldn't get into the arena because the tickets were sold out.
+D: city: James couldn't get into the city because the tickets were sold out.
+E: area: James couldn't get into the area because the tickets were sold out.
+We have to change the",0.40170473
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,"pleasure
+The archaeologist is happy to see what he knows to be fake items.
+B: awe inspiring
+The archaeologist is excited about the items that are fake and the possible connection he is making.
+C: angry
+The archaeologist is angry about the items that are fake and the possible connection he is making.
+D: thinking
+The archaeologist is thinking.
+E: painful memories
+The archaeologist has thought about the pain of those who made the fake items.
+
+### Question 9",0.3179099
+39,Where is a good place to store a saw?,toolbox,tool shed.,0.45810282
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"depression: depression is a consequence of many things.
+B: revelation: revelation, is a consequence of many things.
+C: new thought: new thought, is a consequence of many things.
+D: fatigue: fatigue, is a consequence of many things.
+E: knowledge: knowledge, is a consequence of many things.
+So, we see a pattern here in that we need to go through the question and see what the answer choices are.
+
+In this case, we",0.38273782
+41,What is not always found in a large volume?,collection of books,"collection of books.
+It is not always easy to find a collection of books.
+
+B: set of books.
+Set is a collection of elements. But set of books is not a collection.
+
+C: library.
+A library is a place which stores books. But it is not always found in a large volume.
+
+D: set of encylopedia.
+A set of encylopedia is not a collection.
+
+E: costco.
+A",0.57684433
+42,Where does someone obtain a frying pan?,department store,"To get or receive something
+
+Q",0.15334591
+43,What is the result of getting drunk?,hangover,"Intoxication is the result of getting drunk.
+B: Death is not the result of getting drunk.",0.3666372
+44,What could happen to garbage after it is put into a landfill?,composted,"container
+
+Let's think step-by-step.
+B: healthy
+
+Let's think step-by-step.
+C: smell terrible
+
+Let's think step-by-step.
+D: smells bad
+
+Let's think step-by-step.
+E: composted
+
+Did you get it? Let's check!
+
+Q: What could happen to garbage after it is put into a landfill?
+
+Choices:
+
+A",0.38853317
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,"How to find the best place to purchase groceries
+B",0.46676964
+46,Where would you be unable to read a newspaper?,jail,"Porch. You would only be able to see the newspaper if you were standing on the porch.
+B: School. You would only be able to see the newspaper if you were standing on the school.
+C: Jail? No.
+D: Rug? No.
+E: Library? No.
+The correct answer is C.
+
+Section 2: Practice Time!
+Now that you understand how to use the process of elimination let's try some practice problems.",0.31899273
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"slim
+B: brainy
+C: ocean
+D: slender
+E: runny
+
+Now let's examine the",0.5829685
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,"dictionary
+B: books
+C:",0.15195906
+49,Where would you likely find a spa alongside similar services?,health centre,"sweden - yes, a spa is a place!
+B: health centre - maybe, but probably not
+C: backyard - no, a spa is indoors
+D: house - still no, a spa is indoors
+E: country club - no, a spa is indoors
+So, based on the clues provided in the passage, the correct answer is E.",0.3320407
+50,What is a common sign that someone is lying?,avoid eye contact,"ordering dog food online...
+Wait, what? Dogs don't eat dog food!
+Sure, they might like to play with it or watch it being made. But no one orders dog food online for them to eat.
+So, this answer choice is out.
+B: avoid eye contact...
+This answer choice is also out.
+C: feel guilty...
+This answer choice is also out.
+D: fall asleep...
+This answer choice is also out.
+E:",0.21863583
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"Home - Yes.
+B: Hardware Store - No.
+C: Home - No.
+D: Hot Room - No.
+E: Office - No.
+The correct option is D.
+
+Question 2.
+The price of an apple is $$\frac{1}{4}$$ of the price of a banana. The price of a banana is $$\frac{1}{3}$$ of the price of a pear. If the price of a pear is $$",0.29388744
+52,What might having a check up lead to for some people?,anxiety,"The doctor will check your pain level. If you are in pain, he will write a prescription for pain medicine. If you are not in pain, he will write a prescription for antibiotics.
+B: If your doctor gives you a prescription for a pain medicine, it means you are going to have to take it.
+C: Your doctor might not check for anxiety. He might write a prescription for anxiety medicine or let you know that you could go to a psychiatrist.
+D: Your doctor",0.3583017
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,"Relaxation. The only thing on Jane's mind is to get away from it all and relax, so it's certainly a valid choice.
+B: Adventure. Jane wants to try something new and do something she has never done before.
+C: Headache. Jane is clearly not feeling well mentally or physically.
+D: Decision. Jane has decided to call it quits and quit her job. Her only choice is to try taking a break.
+E: Revelations. Jane",0.39748615
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,"injury
+You lose a sense of self, and are more likely to make mistakes.
+B: mistakes
+You make mistakes, which damages your sense of self.
+C: late
+You are late with something, which damages your sense of self.
+D: satisfaction
+You feel satisfied with something, which damages your sense of self.
+E: love
+You love things, which damages your sense of self.
+
+So, it seems the answer is E.
+
+This question",0.36694652
+55,What is something someone driving a car needs even to begin?,sight,"to be prepared
+B: to practice
+C: to go to the gym",0.12860312
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"library is not the place to find solitude.
+B: home is not the place to find solitude.
+C: top of mountain is not the place to find solitude.
+D: sea is not the place to find solitude.
+E: grocery is not the place to find solitude.
+The correct answer is E.
+
+Question 12.
+Which of the following is a strategy for solving an equation?
+A. Multiply each side by 1
+B. Use",0.20543514
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"city -> Car dealership -> bathroom
+
+B: car dealership -> car dealership -> bathroom
+
+C: car dealership -> bathroom -> car dealership
+
+D: appliance store -> bathroom -> car dealership
+
+E: vegas -> bathroom -> car dealership
+
+Now, the word ""vegas"" does not have an adjacent letter that is a vowel, therefore, it must be car dealership.
+
+Hope this helps!
+
+Is it C?",0.47805238
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,"Danny was talking about the show, and he said that the show was ""divine."" That's a negative word meaning ""godless."" So, for Danny, the show must have been ""godless""
+B: This is a tricky choice. When something is ""horrible,"" it means that it is really, really bad. But, when something is ""godless,"" it means that it is good, and that it is not the work of a god. So, we",0.073918074
+59,What can a concert hall also be used for?,theater,"What did you do today?
+B: Well, I didn’",0.10987708
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,"japan
+B: korea
+C: india
+D: china
+E: taiwan
+
+#### Answer (Det",0.22741866
+61,What is a portable light source called?,flashlight,"a part of a room
+B: the inside of a room",0.111806065
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"odd, not even.
+B: common, not common.
+C: regular, not regular.
+D: normal, not normal.
+E: thing to do, not thing to do.
+
+So, the answer is (E).
+
+-
+
+""What is the trend here?""
+
+I think the answer is (C) common. There are many things to do, not many things to do. So the answer is (C).
+
+-",0.37299743
+63,What does a robot need to be able to be working?,energy,"job is the closest to being a choice for a robot to work.
+D: energy is a close second.
+
+Next, look at the ones that are next to one another.
+So, let's look at C and D.
+C is next to D.
+D is next to B.
+So that makes it the most logical choice.
+
+So, you know that a robot needs to have a job and have to be able to work.
+
+Let's look",0.34557754
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,"fast food restaurant
+Yes! You can order a burger and fries here, and you can also buy a soda.
+B: seaside
+No! You won't find a seaside here.
+C: germany
+Yes! You can eat in a traditional German restaurant here.
+D: county
+No! You can't order a drink here.
+E: united states
+No! You can't order a burger here.
+
+---
+
+By following these steps",0.15834329
+65,Where can a woman get birth control pills?,pharmacy,"drug store A drug store sells all types of drugs and medications, not just birth control pills.
+B: medicine cabinet The medicine cabinet is a place in your home where you keep medications. It might be at the top of a closet or in a cupboard.
+C: hormones Hormones are chemicals that a female's body makes that travel through the bloodstream. They control many functions of the body, including growth, metabolism, and sexual function.
+D: vagina The vagina is a tube that",0.45437145
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"accumulated
+B: distributed",0.14493826
+67,What is the base of a vase called?,vessel,"transistor is a small electronic device, not a container. Besides, transistors are often used in electronic circuits.
+B: vessel is also not a container. It can be a container.
+C: box is a container. It can be a container.
+D: pie is a dessert. It is not a container.
+E: seabase is a storage. It is not a container.
+Therefore, the base of a vase is called a vase.
+
+Q: A man is",0.30839533
+68,Putting on a professional stage play requires what kind of effort?,serious,"serious
+Well, some plays might require more of a serious effort than others. But overall, you can imagine that putting on a professional stage play would likely involve some level of dedication and hard work.
+B: having fun
+This choice is correct because stage plays are often meant to entertain audiences. They might include jokes, funny moments, or other elements that make the performance enjoyable.
+C: laugh
+This choice is also correct because stage plays can often include humorous elements, such as jokes or",0.20134097
+69,What holds a lit cigarette when no one is around?,ashtray,"Hand - not an option.
+B: Cool lip - can't be that because we don't want something glowing on our lips.
+C: Light fire - no, only ashes.
+D: Ashtray - still not an option either.
+E: Carton - that's what makes a real fire!
+
+We see that E is the correct answer since it represents a real fire. So, we keep moving along with the steps.
+
+Now, let's consider another",0.5162045
+70,What's the nickname of the monster the beauty loved?,beast,"Monster = M, beast = B, ugly = U, ugliness = U, satellite = S, top of mountain = T (but no more than one letter.)
+B: Monster = M, beast = B, ugly = U, ugliness = U, satellite = S, top of mountain = T (but no more than one letter.)
+C: Monster = M, beast = B, ugly = U, ugliness = U, satellite = S, top of",0.2733572
+71,What does a person do at the end of the day?,come home,"Make money
+
+B: Cross street
+
+C: Sleep
+
+D: Draw attention to themselves
+
+E: Come home",0.263619
+72,What is water to someone?,important,"dangerous
+B: blue
+C: toxic
+D: important
+E: surface of earth
+
+Okay, so we have to think about each letter and choose one of the words that matches it. But we also need to remember that the letters ""A"" and ""D"" must be the same, since ""A"" and ""D"" are the only choices we got so far. This means that we can't use ""A"" or ""D"" as part of our answer.",0.1873401
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"Clean room
+B: Set table
+C: Play with toys
+D: Form opinions
+E: Gather flowers
+A child in a meadow in spring is likely to be outdoors, enjoying the fresh air and natural surroundings. They might be exploring flowers, picking wildflowers, or simply basking in the beauty of nature. This child's behavior aligns with the choice of ""E,"" ""gathering flowers."" In this context, ""gathering"" means collecting flowers to create a bouquet or arrangement.",0.64916563
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"tennessee
+You can see that this is the answer choice that says he saw that he was about an hour from Jackson after he ""engaged"" in the directions.
+
+B: atlanta
+This is the answer choice that says he said he was going to go to Atlanta.
+
+C: wyoming
+This is the answer choice that says he said he was going to go to Wyoming.
+
+D: michigan
+This is the answer choice that says",0.44554082
+75,What is often true about secular holidays?,short term,"70, 70
+B: 50, 100
+C: 30, 100
+D: 50, 30
+E: 10, 30",0.08051489
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,"introduced- The answer is A because he was a native speaker who was being introduced to the language and culture.
+
+B: foreigner- The answer is B because he was a foreigner who was not from the country where the language was spoken.
+
+C: alien- The answer is C because he was an alien who was not from the country where the language was spoken.
+
+D: immigrant- The answer is D because he was a foreigner who had recently moved to a",0.47960952
+77,"When not playing your mandolin, where would you store it?",instrument case,"closet: Yes, you can store your mandolin in a closet.
+B: musical instrument store: No, you can't store your mandolin in a musical instrument store.
+C: instrument case: Yes, you can store your mandolin in an instrument case.
+D: music shop: No, you can't store your mandolin in a music shop.
+E: music shop: Yes, you can store your mandolin in a music shop.
+So, the answer is",0.48001695
+78,Where would you put tin after you buy it?,shopping bag,"Hardware store, that's where I would put it if I were going to buy it.
+B: Antique store. It isn't tin, it's glassware. If I were buying something to decorate the house or something like that, I would put that in the antique store.
+C: Shed. My dad has a shed and we keep our tools in there.
+D: Landfill, this is when you're throwing away garbage, it's a place where we put all",0.24354486
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"yes
+B: no",0.14434564
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,"The ""simple"" of a ""perfect"" world is not easy. It means that you have to be perfect and have no problems. It means that you are just an ordinary person. You just live your life like it is.
+B: Yes, you could be a snob but if you are, you are not doing it on purpose. Snobbery means that you don't like others and it is a bad thing.
+C: Well, the headache may be a good thing.",0.2516803
+81,Why do people start to play sports at the gym?,get in shape,practice -,0.253474
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"This does not affect the horse.
+B: The horse takes the water after drinking it.
+C: If you are off the horse, there is no horse.
+D: The horse uses the cart.
+E: Gallop is not a command, it is an action.
+The answer is E.
+
+# What is the value of the following expression:
+(40^11)*((10^12000)/3^5000",0.10099919
+83,what is the end result of hiring a maid?,clean house,"clean bathroom
+--> A is a good option, but not a clean bathroom
+--> we are not sure if it is a good option
+--> so we don't choose it
+B: cleaning house
+--> a good option, but not a clean house
+--> so we don't choose it
+--> A is the only option that makes us sure it is clean
+--> A is the best option
+C: an affair
+--> we don't know if",0.51595706
+84,What are women expecting to begin procreating?,pregnancy,"We need something that is more specific than just ""pregnancy"" or just ""having children"".
+B: We need something that is more specific than just ""feeling good"".
+C: We need something that is more specific than just ""having children"".
+
+Only E: train satisfies all these requirements.
+
+So, without any calculations, we can say that the correct answer is (E): train.
+_________________
+
+Kudos [?]: 1324",0.4924094
+85,Where is a master control likely to be in a technology company?,main office,"main office. We know it's likely to be in the main office. The other two are definitely not.
+B: center. We know it's likely to be in the center. The other two are definitely not.
+C: beach. We know it's likely to be in the beach. The other two are definitely not.
+D: manufacturing plant. We know it's likely to be in the manufacturing plant. The other two are definitely not.
+E: basement. We know",0.48538685
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"story: this is definitely not the answer!
+B: now: if we were to pick this choice, it would imply that we traveled to the new location just before the question to get the answer. This would mean that we used the website to book our flights to a new location, which would be false.
+C: knowledge: this is clearly incorrect. We didn't have to use the website to get this answer.
+D: at least few page: this is incorrect. We didn",0.16302542
+87,Where does a jellyfish always live?,underwater,"they can live in the pacific ocean
+B: they are invertebrates
+C: they are alive only in the pacific ocean
+D: they can live in the red sea
+E: they are invertebrates
+Q: Which of the following is true about",0.30148977
+88,WHat could prevent someone from the ability to buy a house?,lose money,"Yes. Bargain is the most expensive option.
+B: Not true. I think it's not that easy.
+C: Yes.
+D: No.
+E: Yes.
+The answer is: B.
+
+_________________
+
+Krystsky
+
+Krystsky
+
+Intern
+Joined: 11 Oct 2015
+Posts: 14
+Re: Question of the week: What Could Prevent Someone From the",0.24079938
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,"hurry along: This is not a good choice.
+B: direct traffic: This is not a good choice.
+C: help: This is not a good choice.
+D: force open door: This is not a good choice.
+E: corner thief: This is not a good choice.
+1. This is not a good choice.
+2. This is not a good choice.
+3. This is not a good choice.
+4. This is not a good",0.16616058
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,"Kitchen
+The word kitchen implies that the saucer is being used for food storage or preparation. The cup is not being used for food storage or preparation, so it is not in the kitchen. The tea room is not being used for food storage or preparation, so it is not in the kitchen. The china cabinet is not being used for food storage or preparation, so it is not in the kitchen.
+B: Tea room
+The word tea room implies that the saucer is being used for",0.36849627
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,"This is a very serious statement.
+B: This is a very serious statement.
+C: This is a very serious statement.
+D: This is a very serious statement.
+E: This is a very serious statement.
+Now, this is a fairly rare statement. It's not something that many people would say, and it's certainly not something that people would say at a rock concert.
+So, if we think about this, we can see that this is not a very",0.022165405
+92,What happens soon after christmas?,easter,"is true
+B: is not true
+C:",0.08391048
+93,What does a person miss when a tree hits power lines?,electricity,"Indoor plumbing
+I'll give you a minute to think about that one.
+Now, I'll give you a minute to think about that one.
+I'll give you a minute to think about that one.
+I'll give you a minute to think about that one.
+I'll give you a minute to think about that one.
+I'll give you a minute to think about that one.
+I'll give you a minute to think about that one.
+I'll give you",0.26331067
+94,What is the result of having a lunch that is sizable?,feel full,"The opposite of ""give up"" is ""yield.""
+(The word ""yield"" has a positive connotation, so I chose C.)
+B: Obesity is a condition in which someone's body weight is much too high.
+(Obesity is a condition, so I chose E.)
+C: Feeling satisfied is a positive emotional feeling.
+(Satisfied is a positive emotional feeling, so I chose D.)
+D: Feeling full is a positive emotional feeling.
+(Feeling full",0.44186747
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"Dining room
+Because the dryer was in the kitchen and the fan was in the living room, the fan was pointed at the clothes.
+B: Home
+It's not a good choice because the fan is not pointed at anything.
+C: Hardware Store
+The dryer and fan are in the garage, so the fan is not pointed at anything.
+D: Closet
+The clothes are in the closet, so the fan is not pointed at anything.
+E: Computer
+The",0.47029322
+96,When people drive they usually do what to ward off boredom?,listen to radio,"A lot of students are studying for exams.
+B: A lot of students are studying for their exams.
+C: A",0.09776765
+97,What could cause you to not be sleeping well?,nightmares,"being at a party
+Here, the answer is C because having fun can help you relax and sleep better.
+B: relaxation
+This is the correct answer because when you relax, you feel more calm and ready to sleep.
+C: have fun
+The answer is C because you should not be having fun if you are not going to sleep well.
+D: death
+This is not the answer because death is not something that causes insomnia.
+E: nightmares
+The answer is E",0.23679893
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,"Injury, because he had to go through a great deal of physical strain during the jump.
+
+B: He died, because this isn't a joke.
+
+C: Playing uno, because he was so focused on the game that he forgot to remember to put in his parachute.
+
+D: He was in a coma, because the adrenaline level dropped enough to make him fall unconscious.
+
+E: He fell down, but this isn't a joke.
+
+B is",0.36962605
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"We know that the right answer is D (graceful).
+B: We can eliminate choices A and C (articulate and soft) since those aren't likely to be physical traits.
+C: We can eliminate choices B and D (sign language and cup water) since those don't describe a physical movement.
+D: Now we have two choices left: D and E (cup water).
+E: Let's eliminate choice E since we know that the right answer is D (grace",0.24238351

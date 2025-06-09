@@ -1,0 +1,437 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"A wall can be gone through by going through a hole or by climbing over it.
+
+Q: When",0.065501444
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,"the sun and all the planets
+B: the sun and all the stars
+C: the sun and all the galaxies
+D: the sun and all the",0.29550555
+2,Where is the best place to get furniture from?,store,"run
+B: walk
+C: play
+D: jump
+E: skip
+F: exercise
+Final Answer: exercise.
+
+Q",0.09746292
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,Bud,0.16393043
+4,Where might a person play an acoustic guitar at a birthday party?,house,"every three months
+B: every six months
+C: every year
+D:",0.14989758
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,To stop your snare drum,0.2693835
+6,What usually happens to work when taking a break?,delay,"Cheese and crackers
+B: Veggies and hummus
+C: Fruit and nuts
+D: Yogurt and granola
+E: All of the Above
+Final Answer: All of the Above
+
+Q: What is a",0.11696258
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,"Ernest Hemingway
+B: John Steinbeck
+C: Mark Twain
+D: William Faul",0.09646948
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"a cat
+B: a goat
+C: a bird
+D: a bird that can fly
+E: a rept",0.092095315
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"Warmer temperatures
+B: Less snow",-0.038160063
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,"herb
+B: spore
+C: fruit",0.15003172
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"New Delhi.
+
+Q: Who was the first president of the United States",-0.018759435
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,"because of its rivers
+B: because of",0.12565222
+13,What does the best horse in the world win?,triple crown,"Hillary Clinton
+B: Condoleezza Rice
+C:",0.13384439
+14,How do you indicate that you agree wtih someone?,nodding,"Tim Berners-Lee
+B: Stephen Hawking
+C: John Mc",0.19311099
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,"in front of
+B: together
+C: on behalf of
+D: for
+E: against
+Final Answer: for
+
+Q: What does",0.08653508
+16,If you're drinking what body part does most of the work?,mouth,"Because she was drunk
+
+Q: A man",0.19516093
+17,What does someone do before they travel to work?,get ready,cold,0.27226943
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,"grip
+B: club head",0.1616799
+19,Where would you find only one churchyard?,village,"michigan
+B: huron
+C: ontario
+D: superior
+E: er",0.11970505
+20,What does an actor in a musical do?,sing songs,"Birds lay eggs, reptiles give birth to live young
+B: Birds have wings, reptiles have legs
+C: Birds are warm-blooded, reptiles are cold-blooded
+D",0.037473094
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"the feelings of loss that accompany death
+B: the feelings of loss that accompany death or serious illness
+C: the feelings of loss that accompany death or serious illness or life changing event
+D: the feelings of loss that accompany death or serious illness or major life changing event
+E: the feelings of loss that accompany death or serious illness or major life changing event or divorce",0.10985873
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,,0.39223665
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,"a mammal
+B: a dinosaur
+C: a reptile",0.15862373
+24,Where could a bee get stuck easily?,soft drink,spring,0.18850636
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"a product that is bought and sold
+B: a product that is bought and sold cheaply
+C: a product that is bought and sold at a premium price
+D: a product that is produced and sold locally
+E: a product that is produced and sold at a premium price
+Final Answer: a product that is bought and sold
+
+Q: What is",0.17434385
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,"brain stem
+B: frontal lobe
+C: cerebellum
+D: occipital lobe
+E: parietal lobe
+Final Answer: The parietal lobe controls your ability to tell left from right.
+
+Q: What is the name of the organ system that allows you to breathe",0.008808915
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,"dad
+B: mom
+C: uncle
+D: auntie
+E: grandpa
+Final Answer: mom
+
+Q: What did you buy",0.10332659
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"Office
+B: Home
+C: Car
+D: School
+E: Shopping mall
+Final Answer: Home",0.38994378
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"sun
+B: TV
+C: street light
+D: fire
+E: moon
+Final Answer: TV.",0.22618005
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"clock
+B: window
+C: door
+D: table
+E: bed
+E:",0.32694227
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"honk her horn to warn the motorcycle driver
+B: pull over to the side to avoid the motorcycle driver
+C: shine her headlights",0.11681839
+32,where do people go to view famous pictures?,art show,"Baggage
+B: Vacation
+C: Traveling
+D: Travel luggage
+E: B",0.09774424
+33,Why might someone think killing is justified?,punishment,"Some people do not believe in the justice system
+B: The justice system is unjust
+C: Justice is a matter of faith
+D: People do not believe in the justice system because they are wrong
+E: Some people do not believe in the justice system because they are right
+Final Answer: Some people do not believe in the justice system because",0.24687234
+34,What is the purpose of a basketball court?,use,"to play basketball
+B: to protect the player's feet
+C: to look cool
+D: to protect the player's ankles
+E: to help the player jump higher
+F: All of the above
+Final Answer",0.16367538
+35,Where would you look up what an anemone is?,dictionary,"dictionary
+B: jungle
+C: zoo
+D: bi",0.493721
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"12 years
+B:",0.14820498
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"a boy doesn't have a long hair
+B: a boy doesn't have a long hair",-0.048167627
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,"true
+B: false
+C: not given
+D",0.12088847
+39,Where is a good place to store a saw?,toolbox,"slotted
+B: Phillips
+C: square
+D: Robertson
+E: He",0.10639103
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"Parkinson’s
+B: Cancer
+C: Alzheimer’s
+D",0.12536266
+41,What is not always found in a large volume?,collection of books,"1 pencil and 3 erasers
+B: 6 pencils and 2 erasers
+C: 6 pencils and",0.24211419
+42,Where does someone obtain a frying pan?,department store,"The sides of a canyon are more steep than the sides of a valley
+B: A canyon is deeper than a valley
+C: A canyon is wider than a valley
+D: A canyon is narrower than a valley
+E: A canyon is more narrow than a valley
+Final Answer: The sides of a",-0.0501373
+43,What is the result of getting drunk?,hangover,"having sex
+B: living together
+C: sleeping together
+D: talking to each other
+E: going out together
+D: talking to each other.",0.23187979
+44,What could happen to garbage after it is put into a landfill?,composted,"zoo
+B: park
+C: schoolyard
+D: beach
+E: yard
+Final",0.14976323
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,Realist painters show objects as they are. Naturalist,0.040908277
+46,Where would you be unable to read a newspaper?,jail,"True
+
+Q: A car is an",0.13710232
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"She played with her eyes closed.
+
+Q: I would have gone to the party but my legs were aching. What was",0.10506523
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,"Dam
+B: Whale
+C: Ouch
+D: I’m outta here
+E: Woo",0.04546732
+49,Where would you likely find a spa alongside similar services?,health centre,"Cataracts
+B: Glaucoma
+C: Eye injuries",0.063219205
+50,What is a common sign that someone is lying?,avoid eye contact,"To stay healthy
+B: To feel good
+C: To save money
+D: To look good
+E: To please friends",0.113965586
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"in a classroom
+B: in a library
+C: in a study room
+D: in a bedroom
+E: in",0.21886918
+52,What might having a check up lead to for some people?,anxiety,The dentist will clean any plaque or,0.0024009906
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,"To protect eyes from sunlight
+B: To reduce glare
+C: To look fashionable
+D: To hide",0.20430192
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,"I am so happy for her!
+B: I am worried for her.
+C: I am so jealous of her.
+D: I would feel so awkward if she brought her over.
+E: I would feel sad if she broke up with him.
+
+Q: Which of the following is",0.25325578
+55,What is something someone driving a car needs even to begin?,sight,"a compass
+B: a map
+C",0.28960657
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"535
+B: 513
+C: 553
+D: 318
+E: 265
+Final Answer: 535.
+
+Q: The United States has two very different political parties.  Which one has the most seats in Congress?
+Cho",0.1378355
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"Simone Biles
+B: Gabby Douglas
+C: Aly Raisman
+D: Laurie Hernandez
+E: Nastia Liukin
+Final Answer: Simone Biles
+
+Q: What is the name of the singer who won a Grammy in 2016 for Best",0.059639435
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,A tavern in Avalon,0.20027725
+59,What can a concert hall also be used for?,theater,"Wear sunglasses
+B: Wear safety glasses
+C: Wear glasses
+D: Wear goggles
+E: Wear contact lenses
+E: Wear contact lenses. Contact lenses protect your eyes from harmful UV rays which are known to cause eye diseases",0.068808526
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,"Robert Crippen
+B: Neil Armstrong
+C: John Glenn
+D: Yuri Gagarin
+Final Answer: Yuri Gagarin.  G",0.051198523
+61,What is a portable light source called?,flashlight,"mirror
+B: film
+C: paper
+D: cloth
+E: plastic
+Final Answer: mirror",0.18294309
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"A writer of a book’s text, an artist who provides illustrations for a book
+B: A writer of a book’s text, an artist who provides the book’s jacket
+C: An artist who provides the book’s jacket, an artist who provides illustrations for a book
+D: A writer of a book’s text,",0.02298355
+63,What does a robot need to be able to be working?,energy,"a condition caused by the sudden blockage of blood flow to the heart
+B: a condition caused by the sudden blockage of blood flow to the brain
+C: a condition caused by the",0.09124068
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,"it is not as bad as it is said to be
+B: it would cause the extinction of animals
+C: it would cause the extinction of human beings
+D: it would make the earth more habitable
+E: it would cause more droughts
+Final Answer: it would cause the extinction of animals
+
+Q: Which of",0.057570316
+65,Where can a woman get birth control pills?,pharmacy,"age
+B",0.121781275
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"unenthusiastic
+B: skeptical
+C: uninformed
+D: uncivilized
+E: unsophisticated
+Final Answer: skeptical (skeptical - unwilling to believe in the truth of something)
+
+Q: What is",0.27746165
+67,What is the base of a vase called?,vessel,"card
+B: leaf
+C: paper
+D: ticket
+E: coupon
+C: paper
+
+Q: What is a person who speaks more than",0.20880595
+68,Putting on a professional stage play requires what kind of effort?,serious,"Fun
+B: Money
+C: Success
+D: Friends
+E: Family
+Final Answer: Family
+
+Q: What is the most important thing in life?",0.13628802
+69,What holds a lit cigarette when no one is around?,ashtray,"1775
+B: 1812
+C: 1861
+D:",0.04404469
+70,What's the nickname of the monster the beauty loved?,beast,"Why is your castle on the top of a mountain?
+B: Why are you so ugly?
+C: Why are you so tall?
+D: Why do you have such a big head?
+E: Why are you so strong?
+Final Answer: Why is your castle on the top of a mountain? Why are you so ugly? Why are",0.0808759
+71,What does a person do at the end of the day?,come home,True,0.19728348
+72,What is water to someone?,important,"By reading English newspaper
+B: By",0.19238275
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"go by yourself
+B: go with a friend
+C: go with a relative
+D: go with",0.16333199
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"""it's a good thing I didn't wake up.""
+B: ""I must have been dreaming.""
+C: ""I wonder what that meant.""
+D: ""I hope my alarm clock doesn't go off.""
+E: ""I'm glad I'm not sleeping on my back.""
+Final Answer: """,0.15242754
+75,What is often true about secular holidays?,short term,"They are inquisitive
+B: They are bored
+C: They are unruly
+D: They",0.11190238
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,"she was a guest
+B: she was a burglar
+C: she was the maid
+D: she was a babysitter
+E: she was a spy
+Final Answer: she was a guest.
+
+Q: What happened when the wind blew across the lake",0.16661179
+77,"When not playing your mandolin, where would you store it?",instrument case,"Because I like to see the big fishes
+
+Q: Why do people play computer",0.21401015
+78,Where would you put tin after you buy it?,shopping bag,"matzo
+B: latkes
+C: kug",0.05434216
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"Sicily
+B: Crete
+C: S",0.15604326
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,perfect,0.15845603
+81,Why do people start to play sports at the gym?,get in shape,"use a string tied to the ground
+
+Q: What is the first thing you should do if you see a snake?
+Choices",0.06438174
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,A post,0.27281892
+83,what is the end result of hiring a maid?,clean house,"Go to bathroom to take shower
+
+Q: What do you do when you are stuck in",0.28581822
+84,What are women expecting to begin procreating?,pregnancy,"wife
+B: woman
+C: girlfriend
+D: sister
+E: girlfriend and wife
+Final Answer: wife
+
+Q: Where is the",0.19921099
+85,Where is a master control likely to be in a technology company?,main office,"Back up all the files on your computer.
+B: Name all of your files with the same name.
+C: Keep all your",0.15937614
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"a population survey
+B: a statistical analysis of health records
+C: a focus group
+D: a random sample
+E: a case study
+Final Answer: a random sample.
+
+Q: The type of sentence that contains",0.14899217
+87,Where does a jellyfish always live?,underwater,,0.2213376
+88,WHat could prevent someone from the ability to buy a house?,lose money,"because they work too hard
+B: because they work too much
+C: because they work too late
+D: because they have too many",0.15776649
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,"Athletics
+B: Tennis",0.128245
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,squid,0.2502506
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,"Victor Hugo
+B: Charles Dickens
+C:",0.077449515
+92,What happens soon after christmas?,easter,"potatoes
+B: onions
+C: tomatoes
+D: peppers
+E: carrots
+A",0.12381075
+93,What does a person miss when a tree hits power lines?,electricity,"Ear
+B: Jaw
+C: Eye
+D: N",0.12339702
+94,What is the result of having a lunch that is sizable?,feel full,"gourmet
+B: foodie",0.15771852
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"She walked
+B: She rode a bike
+C: She hitchhiked
+D: She took a bus
+E: She rode a horse
+Final Answer: She walked
+
+Q: It was a rainy day, so she took her umbrella",0.19313209
+96,When people drive they usually do what to ward off boredom?,listen to radio,"The first one to arrive gets the best job
+B: The early bird gets the worm
+C: The first to arrive gets the job
+D: The early bird gets the worm
+E: The early bird gets the job
+Final Answer: The early bird gets the worm.
+
+Q: What does the saying ""The early bird cat",0.030421946
+97,What could cause you to not be sleeping well?,nightmares,"Atom
+B: IBM
+C:",0.010907062
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,"he was hungry
+B: he was sleepy
+C: he was hot
+D: he was cold
+E: he was mad
+Final Answer: he was hungry
+
+Q",0.08577164
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"Nothing. They're both carpenter surgeon.
+B: Surgeon works on people and carpenter works on things.
+C: Carpenter uses tools to work on things and the surgeon uses tools to work on people.
+D: Carpenter works with things and the surgeon works with people.
+E:",0.10823582

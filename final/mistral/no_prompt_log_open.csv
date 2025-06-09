@@ -1,0 +1,398 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"post office
+Final Answer: To the post office.",0.7718369
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,"keyboard
+B: mouse",0.097899765
+2,Where is the best place to get furniture from?,store,"Exercise regularly
+B: Eat a balanced di",0.059208162
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,"Avoid them at all costs
+B: Try to reason with them
+C: Document their behavior and report it to management
+D: Take a break and step away from the situation
+E: Try to find common ground and build a better working relationship.
+Final Answer: B: Try to reason with them.
+
+Q: Which of the following is",0.15426715
+4,Where might a person play an acoustic guitar at a birthday party?,house,"A cake is larger and a cupcake is smaller.
+B: A cake is sweeter and a cupcake is less sweet.
+C: A cake is made with butter and a cupcake is made with oil.
+D: A cake is",0.033174746
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,"To relax
+B: To experience new cultures
+C: To try new foods",0.11271418
+6,What usually happens to work when taking a break?,delay,"exercise
+B: music
+C: meditation
+D: spending time with loved ones
+E",0.15961862
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,Aricept,0.16171789
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"A pencil is made of wood, while a pen is made of",0.0335244
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"To keep an eye on your baby while they sleep
+B: To listen to your baby's breathing
+C: To check on your baby's temperature
+D: To see your baby's dreams
+E: To keep your baby entertained
+Final Answer: To keep an eye on your baby while they sleep.",-0.008610279
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,"Bilingual
+B: Multilingual
+C: Polyglot
+D: Omnilingual
+E: None of the above
+Final Answer: Bilingual.
+
+Q: What is the name of the famous painting by Leonardo da Vinci that depicts a woman with a mysterious smile",0.07543092
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"To detect smoke and alert occupants
+B: To detect carbon monoxide and alert occupants
+C: To detect fire and alert occupants
+D: To detect water damage and alert occupants
+E: To detect mold and alert occupants
+Final Answer: To detect smoke and alert occupants.
+
+Q: What is the purpose of a fire",0.026247116
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,"Decisive
+B: Good communication skills
+C: Flexible
+D: Proactive
+E: Able to delegate tasks
+F: Able to multitask
+Final Answer: F: Able to multitask
+
+Q: What is the average lifespan of a blue whale",-0.0076766573
+13,What does the best horse in the world win?,triple crown,"Denali (formerly known as Mount McKinley).
+
+Q: Which of the following is NOT a type of dog?
+Choices:",0.17106071
+14,How do you indicate that you agree wtih someone?,nodding,"to give your name
+B: to give",0.25543934
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,"Ag
+B: Au
+C:",0.10534723
+16,If you're drinking what body part does most of the work?,mouth,200,0.24884413
+17,What does someone do before they travel to work?,get ready,"by reading a book
+B: by watching a video",0.10199053
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,"Sesquipedalophobia
+B: Gigilophobia",0.18856552
+19,Where would you find only one churchyard?,village,"spaghetti
+B: macaroni
+C: ravioli
+D",0.14787011
+20,What does an actor in a musical do?,sing songs,"Mix ingredients and bake
+B: Add water and mix
+C: Beat eggs and",0.08447138
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"by reading a book
+B: by talking to locals
+C: by looking at pictures
+D: by watching a documentary
+E: by experiencing it
+Final Answer: By talking to locals.
+
+Q: What is the best way to learn about a culture?
+Choices:",0.14750311
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,"It keeps your hands warm
+B: It prevents the drink from spilling
+C: It allows you to drink more quickly
+D: It cools down the drink faster
+E: It tastes better
+Final Answer: It allows you to drink more quickly.
+
+Q:",0.07150398
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,To hold hair in place,0.14377879
+24,Where could a bee get stuck easily?,soft drink,"To protect from rain
+B: To protect",0.0680194
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"Eat a balanced diet
+B: Exercise",0.08064513
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,"illusion
+B: perspective
+C: distortion
+D: confusion
+E: hallucination
+Final Answer: B: perspective.
+
+Q: What is the name of the largest living thing on Earth?",0.08799693
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,"Running
+B: Swimming
+C: Yoga
+D:",0.14753748
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"brush them twice a day
+B: floss once a day
+C: visit the dentist regularly
+D: eat sugary snacks
+E: drink plenty of water
+Final Answer: brush them twice a day and visit the dentist regularly.
+
+Q: Why do we need to exercise regularly?",0.09542009
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"Starry Night
+B: Mona Lisa
+C: Sunflowers
+D: The Last Supper
+E: Girl with a Pearl Earring
+Final Answer: E: Girl with a Pearl Earring
+
+Q: Which of the following is NOT a type of computer",0.15812068
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"walking
+B: biking
+C: driving
+D",0.12404154
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"Being knowledgeable about the subject matter
+B: Having a friendly personality
+C: Being able to communicate complex ideas clearly
+D: Having a lot of experience teaching
+E: Being well-liked by students
+Final Answer: Being able to communicate complex ideas clearly.",0.116425015
+32,where do people go to view famous pictures?,art show,"the starry night
+B: the last supper
+C: the girl with a pearl earring
+D: the mona lisa
+E: the sunflowers
+Final Answer: C: the girl with a pearl earring.
+
+Q: what do you call a",0.19449356
+33,Why might someone think killing is justified?,punishment,,0.29498774
+34,What is the purpose of a basketball court?,use,"to protect the player's head
+B: to provide a comfortable place to sit
+C: to hold a football
+D: to show team spirit
+E: to protect the player's neck
+Final Answer: to protect the player's head.
+
+Q: What is the purpose of a baseball bat?
+Choices:",0.1346704
+35,Where would you look up what an anemone is?,dictionary,a type of,0.33867466
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"to filter the air we breathe
+B: to produce red blood cells
+C: to regulate body temperature
+D: to pump blood throughout the body
+E: to digest food
+Final Answer: to filter the air we breathe.
+
+Q: Which of the following is NOT a benefit of exercise?
+Choices",0.008717952
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"To celebrate the person's accomplishments
+B: To give the person a chance to relax
+C: To say goodbye to the person
+D: To welcome the person to retirement
+E: To give the person a chance to recharge
+Final Answer: To celebrate the person's accomplishments.
+
+Q: What is the main advantage of",0.1430181
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,,0.4360224
+39,Where is a good place to store a saw?,toolbox,"by cleaning them regularly
+B: by storing them in a dry place
+C: by applying a rust-proofing spray
+D: by using them frequently
+E: by using a humidifier
+Final Answer: C: by applying a rust-proofing spray.
+
+Q: What is the best way to organ",0.035573334
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"One is a bird and the other is a mammal
+B: One has feathers and the other has scales
+C: One is fast and the other is slow
+D: One is from Africa and the other is from Australia
+E: One is a flightless bird and the other can fly",0.08046182
+41,What is not always found in a large volume?,collection of books,"Saturn
+B: Jupiter
+C: Mars
+D: Earth
+E: Venus
+Final Answer: C",0.07984387
+42,Where does someone obtain a frying pan?,department store,"to sharpen pencils
+B: to erase mistakes
+C: to",0.040279094
+43,What is the result of getting drunk?,hangover,"London
+B: Paris
+C: Berlin
+D: Rome
+E: Madrid
+Final Answer: B: Paris",0.100792676
+44,What could happen to garbage after it is put into a landfill?,composted,Drive,0.2765454
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,"Girl with a Pearl Earring.
+
+Q: What",0.087848656
+46,Where would you be unable to read a newspaper?,jail,"A house is a building, a home is a feeling
+B: A house is a family, a home is a place
+C: A house is a structure, a home is a concept
+D: A house is a location, a home is a state of mind
+E: A house is a possession, a home is a relationship",0.16543064
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"The Mona Lisa
+B: The Last Supper
+C: The Vitruvian Man
+D: The Lady with an Ermine
+E: The Lady with a Parrot
+Final Answer: The Mona Lisa.
+
+Q: What is the capital",0.045227736
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,To,0.24099489
+49,Where would you likely find a spa alongside similar services?,health centre,"Because it is more relaxing
+B: Because it is",0.045459826
+50,What is a common sign that someone is lying?,avoid eye contact,exercise,0.08020785
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"To protect from rain
+B: To keep cool
+C: To",0.11728939
+52,What might having a check up lead to for some people?,anxiety,"By repeating things
+B: By visualizing things
+C: By using mnemonics",0.075881995
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,It is raining very heavily.,0.14406133
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,Running,0.20311616
+55,What is something someone driving a car needs even to begin?,sight,"to control the car's speed
+B: to steer the car
+C: to operate the car's lights
+D: to honk the car's horn
+E: to open the car door
+Final Answer: To steer the car.
+
+Q: What is the main purpose of a car's air filter?",0.10014344
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"park
+Final Answer: C: top of mountain.",0.2963087
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"to change the speed of the car
+B: to change the direction of the car
+C: to transfer power from the engine to the wheels
+D: to control the air conditioning
+E: to control the music system
+C: to transfer power from the engine to the wheels
+Final",0.25551564
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,"To keep feet dry
+B: To keep",-0.023958396
+59,What can a concert hall also be used for?,theater,"Berlin
+B: Paris",0.27185822
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,"blue whale
+B: giant sequoia tree
+C: coral re",0.2525494
+61,What is a portable light source called?,flashlight,"flashlight
+Final Answer: A portable light source is called a flashlight.",0.6601144
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"To look cool
+B: To reduce glare
+C: To hide their eyes
+D: To follow a new trend
+E: To protect their eyes from sunlight
+Final Answer: To follow a new trend.
+
+Q: What is the most popular type of sung",0.11310528
+63,What does a robot need to be able to be working?,energy,"to make phone calls
+B: to send text",0.03659513
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,Exerc,0.1542194
+65,Where can a woman get birth control pills?,pharmacy,"Using insect repellent
+B",0.012755169
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"to store data
+B: to process data
+C: to display data
+D: to connect to the internet
+E: to power the computer
+Final Answer: to process data.
+
+Q: What is the main advantage of using a laptop over a desktop computer?
+Choices:",0.058778502
+67,What is the base of a vase called?,vessel,"horizon
+B: skyline
+C: sunset",0.13006794
+68,Putting on a professional stage play requires what kind of effort?,serious,"Football
+B: Basketball
+C: Baseball
+D",0.057653613
+69,What holds a lit cigarette when no one is around?,ashtray,Because he was outstanding in his field,0.0020600986
+70,What's the nickname of the monster the beauty loved?,beast,Gaston.,0.26169407
+71,What does a person do at the end of the day?,come home,"To keep the head warm
+B: To show off a person's style
+C: To protect the neck from the sun
+D: To hide a person's identity
+E: To make a statement.
+Final Answer: C: To protect the neck from the sun.
+
+Q: Why do people wear h",0.08584678
+72,What is water to someone?,important,"to pump blood
+B",0.21457787
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"To swim
+B: To sunbathe
+C: To sur",0.20893158
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"London
+B: Paris
+C: Berlin
+D: Rome
+E: Madrid
+Final",0.15508513
+75,What is often true about secular holidays?,short term,"Decorating the tree
+B: Baking cookies
+C: Singing carols",0.06991777
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,"To avoid buying something they don't like
+B: To return something they have already bought
+C: To get a better price
+D: To avoid the hassle of returning something
+E: To get a free gift
+Final Answer: B: To return something they have",0.055773854
+77,"When not playing your mandolin, where would you store it?",instrument case,"To keep pencils organized
+B: To sharpen pencils
+C: To hold pencils in place
+D: To protect pencils from damage
+E: To create a pencil holder
+Final Answer: To sharpen pencils.
+
+Q: What is the main",0.13104704
+78,Where would you put tin after you buy it?,shopping bag,"To welcome new year
+B: To say goodbye to old year",0.15022627
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"To hide in a strawberry patch
+B: To scare away the",0.17458421
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,Exercise regularly,0.33695614
+81,Why do people start to play sports at the gym?,get in shape,"To relax
+B: To swim
+C: To sunbathe
+D: To",0.18218279
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"Mount Everest
+B: Mount",0.0011196081
+83,what is the end result of hiring a maid?,clean house,"A band
+B: A orchestra
+C: A choir
+D: A jazz band",0.052119795
+84,What are women expecting to begin procreating?,pregnancy,"To raise capital
+B: To",0.088972926
+85,Where is a master control likely to be in a technology company?,main office,"Earth
+B: Saturn
+C: Jupiter",0.14772952
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"Band
+B: Herd
+C:",0.15233555
+87,Where does a jellyfish always live?,underwater,"because it saw the salad dressing
+B: because it was embarrassed",0.13549271
+88,WHat could prevent someone from the ability to buy a house?,lose money,"bargain
+Final Answer: Lack of money.",0.40604952
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,Panic and run away,0.3007925
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,"A murder of crows.
+
+Q: What is the name of the largest planet in our solar system?",0.06530523
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,"A tsunami is caused by a volcanic eruption, while a tidal wave is caused by the moon.
+B: A tsunami is a series of waves caused by an earthquake, while a tidal wave is caused by the sun.
+C: A tsunami is a type of tide, while",0.020579845
+92,What happens soon after christmas?,easter,"Frogs have four legs, toads have three legs
+B: Frogs have a tail, toads do not have a tail
+C: Frogs are green, toads are blue
+D: Frogs live in the water, toads live on land
+E: Frogs have a long neck, toads do not have a long",0.06952556
+93,What does a person miss when a tree hits power lines?,electricity,"To improve health
+B:",0.052225802
+94,What is the result of having a lunch that is sizable?,feel full,"use a planner
+B: use a calendar
+C: use reminders on your phone",0.082544476
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"The Last Supper
+B: The Mona Lisa
+C: The Vitruvian Man
+D: The Lady with an Ermine
+E: The Lady with a Parrot
+Final Answer: B: The Mona Lisa.
+
+Q:",0.10016506
+96,When people drive they usually do what to ward off boredom?,listen to radio,"By watching
+B: By",0.2457516
+97,What could cause you to not be sleeping well?,nightmares,"Berlin
+B: Paris
+C: London
+D: Rome
+E: Madrid
+Final Answer: B: Paris.",0.04815438
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,"injury
+Final Answer: B: death.",0.30792063
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"peel it and eat it
+B: squeeze it and drink the juice
+C: cut it into pieces and eat it
+D: use it as a decoration
+E: throw it away
+Final Answer: C: cut it into pieces and eat it.
+
+Q: What is the best way to relax after",0.26465148

@@ -1,0 +1,491 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"Yes, we do
+B: No, we don't
+C",0.053548094
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,"Prophase 1, Metaphase 1, Anaphase 1, Telophase 1, Prophase 2, Metaphase 2, Anaphase 2, Telophase 2
+B: Prophase 1, Metaphase",-0.025466796
+2,Where is the best place to get furniture from?,store,Take over-the-counter cold medicine,0.033601474
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,"Gardener
+B: Landscaper
+C: Real estate agent
+D: Architect
+E: Engineer
+Final Answer: Real estate agent.
+
+Q: At the end of the",0.046678055
+4,Where might a person play an acoustic guitar at a birthday party?,house,keyboard,0.2644427
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,"""I Love the Hustle""
+B: ""The Hustle""
+C: ""The Hustle: The Album""
+D: ""Hustle""
+E: ""I Love the Hust",0.1482276
+6,What usually happens to work when taking a break?,delay,"A city council is elected by the people of the city, and a town council is appointed by the mayor.
+B: A city council is elected by the people of the city, and a town council is appointed by the governor.
+C: A city council is elected by the people of the city, and a town council is appointed by the mayor.
+D: A city council is appointed by the mayor, and a town council is elected by the people of the city.
+E: A city council is appointed by the mayor, and a town council is elected by the people of the city.
+Final Answer: A city council is elected by the people of the city, and a town council is appointed by the mayor.
+
+Q: What is the main purpose of the Declaration of Independence?
+Choices",0.010903422
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,"Fort Sumter
+B: Fort Sumpter
+C: Fort Sumner
+D: Fort Sumner
+The answer is: Fort Sumter
+
+Q: What is the name of the fort where",-0.004978558
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"Jupiter
+B: Saturn
+C: Uranus
+D: Neptune
+E: Mercury",0.043759443
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,C: a broom.,0.18977278
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,"The giant panda
+B: The elephant
+C: The hippopotamus
+D: The lion",0.13622084
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"Ostrich
+B: Emus
+C: Eagles
+D: Peacock
+E: Flamingo
+Final Answer: Ostrich
+
+Q: What is the most common color",-0.010492533
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,"beijing
+B: seoul
+C: shanghai
+D:",0.18784532
+13,What does the best horse in the world win?,triple crown,"Miami
+B: Jacksonville
+C: Orlando
+D: Tampa
+E: Tallahassee
+Final Answer: Tallahassee",0.181927
+14,How do you indicate that you agree wtih someone?,nodding,"to supervise
+B: to lead
+C: to control
+D: to command
+E: to order",0.14947185
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,Everest,0.11881574
+16,If you're drinking what body part does most of the work?,mouth,"I
+B: The
+C: A
+D: You
+E: And
+Final Answer: the.
+
+Q: What is the name of the first computer game?
+Cho",0.14879242
+17,What does someone do before they travel to work?,get ready,"Trains athletes
+B: Works in the office
+C: Cooks for the athletes
+D: Makes the gym
+E: Pl",0.18778895
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,Skin infl,0.22335285
+19,Where would you find only one churchyard?,village,"There is no difference.
+B: A city has less people than a country.
+C: A city is larger than a country.
+D: A country is larger than a city.
+E: A city has more people than a country.
+Final Answer: A city",0.0392138
+20,What does an actor in a musical do?,sing songs,"Washington, D.C.
+B: New York City
+C: Los Angeles
+D: Chicago
+E: Boston
+Final",0.019261893
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"that students are not all the same
+B: that it is important to pay attention in class
+C: that it is important to have fun in class
+D: that it is important to study hard
+E: that it is important to have a good",0.19176507
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,"protects the lens
+B: transmits light to the retina
+C: bends light to a focal point
+D: keeps the eye moist
+E: helps move the lens
+Final Answer: helps move the lens",0.082554124
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,Cornea,0.15659344
+24,Where could a bee get stuck easily?,soft drink,"skinny
+B: flared
+C: straight leg
+D: boot cut
+E: high waisted
+Final Answer: skinny",0.24336633
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"Listen to a lot of different things
+B: Listen to a lot of music",0.21895082
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,"A question that scientists want to answer.
+B: An experiment that scientists use to test a question.
+C: A conclusion that scientists use to prove",0.14824569
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,"water
+B: soap
+C: detergent
+D: alcohol",0.015523195
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"oak
+B: birch
+C: pine",0.17284694
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"Lithium-ion battery
+B: Sodium-ion battery
+C: Magnesium-",0.13430174
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"palm tree
+B: oak tree
+C: pine tree
+D: birch tree
+E: maple tree
+Answer: pine tree",0.07892938
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"sleep apnea
+B: insomnia
+C: narcolepsy
+D: restless leg syndrome
+E: snoring
+Final Answer: insomnia
+
+Q: Insomnia is a sleep disorder defined as the inability to fall asleep or stay asleep during the night.  What",0.07948823
+32,where do people go to view famous pictures?,art show,"because the Sun is shining through the cloud
+B: because the Sun is shining through the raindrops
+C: because the Sun is shining through the fog
+D: because the Sun is shining through the mist
+E: because the Sun is shining through the air
+Final Answer: because the Sun is shining through the raindrops.",0.07488863
+33,Why might someone think killing is justified?,punishment,Calcium,0.18863124
+34,What is the purpose of a basketball court?,use,"baseball
+B: football
+C: tennis
+D: volleyball
+E: chess
+D: volleyball
+Final Answer: Volleyball is not a sport.",0.0046203677
+35,Where would you look up what an anemone is?,dictionary,"President
+B: Senator
+C: Prime Minister
+D: Athletic
+E: Ambassador
+F: Olympic",0.17362931
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"Why did the woman go to the bar?
+Correct Answer: to meet her friends
+
+Q: The boy was walking on the street. He was carrying a ______.
+Choices",0.08971953
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"John is a person, but not a doctor.",-0.028630149
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,"The Doctor
+B: The Time Lord
+C: The Companion
+D: The Gallifreyan
+E: The Master
+Final Answer: The Doctor.
+
+Q:",0.12792507
+39,Where is a good place to store a saw?,toolbox,"North America
+B: South America
+C: Europe
+D: Asia
+E: Australia
+Final Answer: Asia",0.0813883
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"call the police
+B: call a paramedic
+C: call an ambulance
+D:",0.09410015
+41,What is not always found in a large volume?,collection of books,"make long
+B: make short
+C: make prolonged
+D: make shortened
+E: make inactive
+Final Answer: Make long
+
+Final Answer: C
+The correct answer is A.",0.03815785
+42,Where does someone obtain a frying pan?,department store,"Mars
+B: Jupiter
+C: Saturn
+D: Uranus
+E: Mercury
+Final Answer: Jupiter
+
+Q: What is the largest",-0.032816842
+43,What is the result of getting drunk?,hangover,"intoxication
+B: death
+C: erections
+D: hangover
+E: being sick
+F: all of the above
+G: none of the above
+H: none of the above except intoxication
+Final Answer: none of the above except intoxication
+
+Q: What is the result",0.49921066
+44,What could happen to garbage after it is put into a landfill?,composted,,0.27698672
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,the cowboy is a man and,-0.029823862
+46,Where would you be unable to read a newspaper?,jail,"wear a brace or cast
+B: wear a helmet
+C",0.12358691
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"Mount Everest
+B: Mount Kilimanjaro
+C: Mount",0.091933124
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,"man
+B: woman
+C: clerk
+D: shop
+E: cigarette
+Final Answer: man
+
+Q: Rita went",0.15676607
+49,Where would you likely find a spa alongside similar services?,health centre,"Chemical peel
+B: Microdermabrasion
+C: Facial massage
+D: All of the above
+E: None",0.1334241
+50,What is a common sign that someone is lying?,avoid eye contact,"They close in protection
+
+Q",0.059278347
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"To look good
+B: To look good
+C: To look good
+D: To hide tired eyes
+E: To look good
+Final Answer: To look good.
+
+Q:",0.094629124
+52,What might having a check up lead to for some people?,anxiety,"the badlands
+B: the barren lands
+C:",0.0371377
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,"I don’t know, but I think I need to figure it out.
+B: My purpose is to be a good person.
+C: My purpose is to be a good person and to take care of the people in my life.
+D: My purpose is to take care of the people in my life.
+E: My purpose is to take care of the people in my life and myself.
+
+Q: What is the most important thing in your life?
+Choices:",0.10519602
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,"To receive images
+B: To process images
+C: To focus images
+D: To send images to the brain
+E: To protect the eye
+Final Answer: The optic nerve, which is the nerve that connects the",0.19821742
+55,What is something someone driving a car needs even to begin?,sight,"by digging for it
+B: by getting it from a faucet
+C: by getting it from a well
+D: by getting it from a lake
+E: by getting",0.1486982
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"Danube
+B: Rhine
+C: Seine
+D: Lo",0.24706106
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"He is a famous actor
+B: He is a famous inventor
+C: He is a famous athlete
+D: He",0.0808792
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,"To protect eyes from sunlight and reduce glare.
+B:  godless",-0.073341936
+59,What can a concert hall also be used for?,theater,"Antarctic Desert
+B: Gobi Desert
+C: Arabian Desert
+D: Kalahari Desert
+E: Sahara Desert
+Final Answer: The Sahara",0.14290589
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,,0.2577337
+61,What is a portable light source called?,flashlight,"to protect from sunlight and glare
+B: to look fashionable
+C: to hide tired eyes
+D: to protect from wind and dust
+E: to protect from UV rays
+Final Answer: to protect from sunlight and glare.
+
+Q: What is an inductive battery?
+Choices:",0.35357642
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"what they were afraid of
+B: the what they were afraid of
+C: the what they were afraid of
+D: the what they were afraid of
+E: what they were afraid of
+D: the what they were afraid of
+
+Q: The man was so afraid of",0.0143263955
+63,What does a robot need to be able to be working?,energy,"Epithelial tissue
+B: Connective tissue
+C: Muscle tissue
+D: Nerve tissue
+E: Bone tissue
+Final Answer",0.10704368
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,"before work
+B: after lunch
+C: before dinner
+D: after dinner
+E: after a shower
+Final Answer: After lunch",0.049717918
+65,Where can a woman get birth control pills?,pharmacy,"swelling
+B: redness
+C: peeling
+D: headache
+E: fever
+Final Answer: swelling
+
+Q: Which of the following is a cause of a",0.09148955
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"city
+A city is the name of the main place where people live. A metropolis is a large city. A town is a place that is smaller than",0.026406884
+67,What is the base of a vase called?,vessel,"cheerful
+B: content
+C: excited
+D: joyful
+E: pleased
+Final Answer: cheerful",0.11186646
+68,Putting on a professional stage play requires what kind of effort?,serious,"reading books
+B: taking tests
+C: practicing
+D",0.13301423
+69,What holds a lit cigarette when no one is around?,ashtray,"1897
+B: 1909
+C: 1918
+D: 1932
+E: 1953
+Final Answer: 1918
+
+Q: What was the name of the first American musical to ever receive a Tony Award for Best Musical?
+Choices:",0.033197522
+70,What's the nickname of the monster the beauty loved?,beast,"beast
+
+B: ugly",0.69780815
+71,What does a person do at the end of the day?,come home,"The cooker
+B: The cook
+C: The cook person
+D: The cooker person
+E: The cook person
+Final Answer: The cook
+
+Q: What is the name of the person who drives a car?
+Choices",0.06453572
+72,What is water to someone?,important,"Indonesia Raya
+B: Salam Indonesia
+C: Pancasila
+D: Indonesia Mengg",0.18101172
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"186,000 miles per hour
+B: 1,860,000",-0.006703427
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"A letter that is short
+B: A letter that starts a word
+C: A letter that is sharp
+D: A letter that starts a syllable
+E: A letter that is round
+Final Answer: A letter that is sharp. To find",0.05386737
+75,What is often true about secular holidays?,short term,"Black
+B: Blonde
+C: Red
+D: Brown
+E: Gray
+Final Answer: Blonde
+
+Q: What is",0.11155359
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,"""I've never met anyone with such a weird sense of humor.""
+B: ""I've never met anyone with such a weird sense of humor,",0.15734464
+77,"When not playing your mandolin, where would you store it?",instrument case,"Atlantic
+B: Pacific
+C: Arctic
+D: Indian
+E: Antarctic
+B: Pacific
+
+Q: What is the most important lake in the world?",0.07056475
+78,Where would you put tin after you buy it?,shopping bag,"meet someone new
+B: meet someone interesting
+C: meet someone you want to be friends with
+D: meet someone you have something in common with
+E: meet someone you want to be around
+Final Answer: meet someone new
+
+Q: What is the best way to make a salad?
+Choices:
+A",0.23780507
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"they needed the money
+B: he was a good student
+C: he wanted to work
+D: he was in trouble with the law
+E: he was in trouble with the law
+E: he was in trouble with the law
+
+Q: Why did the student’s parents say",0.11641405
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,"Toni Stone
+B: Billie Jean King
+C: Dottie Cantrell
+D: Jackie Mitchell
+E: Wendy Mills
+Answer: Billie Jean King.
+
+Q: What is the name of the first woman to become a major league baseball umpire?
+Choices",-0.017289676
+81,Why do people start to play sports at the gym?,get in shape,"To have fun
+B: To play sports
+C",0.22639874
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"Airplanes are not birds and birds are.
+B: Airplanes are not flying machines and birds are.
+C: Airplanes are not carnivores and birds are.",0.09130992
+83,what is the end result of hiring a maid?,clean house,"20 hours
+B: 25 hours
+C: 30 hours
+D: 35 hours
+E: 40 hours
+C: 30 hours.
+
+Q: what is the",0.11501615
+84,What are women expecting to begin procreating?,pregnancy,"have a good job
+B: have a good house
+C: have a good marriage
+D: have a good family
+E:",0.12673369
+85,Where is a master control likely to be in a technology company?,main office,"to process data
+B: to store data
+C: to display data
+D: to control the operation of the computer
+E: to transfer data",0.11181228
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"choosing a product to sell
+B:",0.11194306
+87,Where does a jellyfish always live?,underwater,"to digest food
+B: to absorb nutrients
+C: to eliminate waste
+D: to produce hormones
+E: to",-0.014123372
+88,WHat could prevent someone from the ability to buy a house?,lose money,Exercise,0.24965294
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,"Climate in the North
+B: Climate in the North and the South
+C: Climate in the",0.09426324
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,To study the world around us to help us in the future to keep us safe to help make our lives easier and to help make us better citizens.,0.10235441
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,He wanted,0.1832853
+92,What happens soon after christmas?,easter,"camel
+
+Q: What is the name",0.13418391
+93,What does a person miss when a tree hits power lines?,electricity,"to store food and other items
+
+Q: What is the function of a chair?
+Cho",0.14596272
+94,What is the result of having a lunch that is sizable?,feel full,"To keep the feet safe
+B: To keep the feet warm
+C: To be used as",0.13952985
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"rock and roll
+B: blues
+C: jazz
+D: classical
+E: pop
+E: pop
+
+Q: What’s a dog’s favorite kind of music",0.15521187
+96,When people drive they usually do what to ward off boredom?,listen to radio,"start
+B: continue
+C: finish
+D: stop
+E: begin
+Answer: Stop.
+
+Q: What do",0.15797332
+97,What could cause you to not be sleeping well?,nightmares,"Store food in the fridge
+B: Store food in the free",0.026941955
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,"cancer
+B: heart disease
+C: accidents
+D: both A and B
+E: both B and C
+B: heart disease
+
+Q: What",0.10252687
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"Aorta
+
+Q: What is the name of the blood vessels that carry blood",0.024349932

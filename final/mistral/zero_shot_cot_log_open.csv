@@ -1,0 +1,349 @@
+index,question,ground_truth,prediction,similarity_score
+0,"I needed to send a piece of mail, where did I go?",post office,"First, I went to the post office.
+B: Next, I mailed the letter.
+Final Answer: B: post office.",0.6058907
+1,"Government, planned cities, workers, institutions, technology and record keeping are characteristics of what among human populations?",civilization,"Government refers to the political authority that exercises control over a defined territory and population.
+B: Planned cities refer to urban areas that have been designed and built with a specific purpose or goal in mind.
+C: Workers refer to individuals who are employed in a particular industry or sector.
+D: Institutions refer to organizations that have a specific purpose or goal in mind.
+Final Answer: Civilization.",0.34871218
+2,Where is the best place to get furniture from?,store,"Exercise
+B: Watch TV
+C: Read a book
+D: Listen to music",0.07989994
+3,"Johnny's behavior was a bigger problem.  Even if the original incident wasn't intentional, his actions afterward are completely what?",detestable,"It helps teams collaborate more effectively.
+B: It enables better time management.
+C: It facilitates better communication.
+D: It helps to reduce project complexity.
+E: It enables more accurate forecasting.
+Let'",-0.07474995
+4,Where might a person play an acoustic guitar at a birthday party?,house,"A person might play an acoustic guitar at a birthday party at a house.
+Final Answer: C: house.",0.44267976
+5,The mixer felt like he was a NASA engineer in the control room every time he worked with a band at his what?,recording studio,"Hotel California
+B: Stairway to Heaven
+C: Free Bird
+D: American Pie
+E: Bad Moon Rising",0.17888224
+6,What usually happens to work when taking a break?,delay,"when taking a break, usually relaxation happens.
+B: work is renewed.
+Final Answer: B: work is renewed.",0.16488111
+7,"Seeing old things made him what to explore more, it made him very what?",curiosity,"Seeing old things made him feel nostalgic.
+B: Seeing old things made him feel happy.
+C: Seeing old things made him feel reverent.
+Final Answer: B: Seeing old things made him feel happy.",0.18543842
+8,"The farmer wanted to grow cotton near Florida, where should he plant his cotton?",georgia,"Florida is not a good place to grow cotton. It is too warm and humid, which can lead to diseases.
+B: Fabric is not a place, it's a type of material.
+C: North Carolina is a good place to grow cotton. It has a temperate climate with mild winters and hot summers, which is suitable for cotton growth.
+D: Georgia is a good place to grow cotton. It has a mild",0.33839238
+9,"Where is it especially important to keep a dry, clean floor?",restaurant,"Bed - No, it is not especially important to keep a dry, clean floor in a bedroom.
+B: Restaurant - No, it is not especially important to keep a dry, clean floor in a restaurant.
+C: Synagogue - No, it is not especially important to keep a dry, clean floor in a synagogue.
+D: Wedding - No, it is not especially important to keep a dry, clean floor at a wedding.
+E",0.17145301
+10,"The book had deep meaning to the businessman, he always kept a copy of it beneath all his work in his what?",briefcase,"The book had deep meaning to the businessman, so he always kept a copy of it beneath all his work.
+B: He kept it in his briefcase.
+Final Answer: D: briefcase.",0.61112356
+11,"Hurting else is a crime, if convicted you could face what?",jail time,"Hurting someone is a crime.
+B: If convicted, you could face jail time.
+Final Answer: jail time.",0.6188073
+12,"The shark realized it was in northern california, where was it likely?",tomales bay,"A dolphin is a type of whale
+B: A whale is a type of dolphin
+C: Dolphins are smaller than whales
+D: Whales are smarter than dolphins
+E: Dolphins have a different type of teeth
+Let's think step-",0.03393146
+13,What does the best horse in the world win?,triple crown,"One bite at a time
+B: Two bites at a time
+C: Three bites at a time
+D: Four bites at a time",0.16729116
+14,How do you indicate that you agree wtih someone?,nodding,"Like more indicates that you agree with someone on social media.
+B: Nodding is a common way to indicate agreement.
+Final Answer: B: nodding.",0.6917607
+15,Artie Shaw became famous playing a clarinet in what outfit?,jazz band,"piano is not a traditional instrument in an Irish pub.
+Final Answer: E: drums",0.24601063
+16,If you're drinking what body part does most of the work?,mouth,"Drinking involves using the mouth to take in liquids.
+B: The throat is involved in swallowing.
+Final Answer: B: The throat is involved in swallowing.",0.3518679
+17,What does someone do before they travel to work?,get ready,"risk-taker
+B: adventurer
+Final Answer:",0.13445467
+18,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was what because he knew he had won?",excited,"The golfer was great at keeping a calm exterior as he finished up his final shots, but inside he was excited.
+Final Answer: C: excited.",0.4686203
+19,Where would you find only one churchyard?,village,Rio de Janeiro is a city in Brazil,0.042664908
+20,What does an actor in a musical do?,sing songs,"To measure temperature
+B: To tell time
+C: To measure distance
+D: To count money
+E: To tell jokes
+Let's think step-by-step.
+First, a thermometer measures temperature.
+Final Answer: A",0.004661515
+21,What will you need to do to decide whether to be seeing artifacts?,thinking,"To preserve memories
+B: To hide treasure
+C: To mark a special occasion
+D: To create a work",0.29275167
+22,"The man was sick of not attracting women and began to practice grooming, what was his goal?",looking good,"He smiled.
+B: He waved.",0.07607449
+23,"The turkey needed to be kept unspoiled, what is the full name of a useful impelement in this situation?",refrigerator,"The turkey needed to be kept unspoiled, so we need an implement that can keep it cool.
+B: A barrel is a container, but it's not suitable for keeping food cool.
+C: A refrigerator is a useful implement for keeping food cool.
+Final Answer: C: refrigerator.",0.4485371
+24,Where could a bee get stuck easily?,soft drink,"Soft drink is not a place where a bee could get stuck.
+B: In traffic, a bee could get stuck in a car's grill or windshield.
+C: The countryside is not a place where a bee could get stuck.
+D: Swarm is an action that bees take, not a place where they could get stuck.
+Final Answer: In traffic.
+
+Q: What is the purpose of a safety pin",0.330711
+25,John liked to listen to music while he read.  He felt it helped him do what?,understand,"John liked to listen to music while he read, so it helped him understand.
+Final Answer: understand.",0.3733282
+26,Starting a fire is a terrible idea because flames move in what pattern?,unpredictable,The largest planet in our solar,-0.028085105
+27,"The equipment manager was in charge of the sports equipment, when the team arrived for an away he took it off the bus and brought it where?",arena,"First, the equipment manager took the sports equipment off the bus.
+B: Second, he brought it to the arena.
+Final Answer: D: arena.",0.50850904
+28,"People often have to take medicine, they tend to keep it where?",bathroom,"People often keep medicine in a cabinet or a container.
+B: A doctor's office is where you go to get medicine prescribed.
+C: A hospital is where you go to get medical treatment.
+Final Answer: B: doctor's office.",0.34644273
+29,"The side chair was always kept dry, where was it located compared to the lawn chair?",building,"The side chair was always kept dry, so it was not located outside.
+B: A table is not a place where a chair would be located.
+C: A library is not a place where a chair would be located.
+D: Falling down is not a location where a chair would be located.
+E: A building is not a place where a chair would be located.
+Final Answer: The side chair was located inside.",0.18593559
+30,"If one wanted great bar service and maybe a room afterwards, where would be a good place to go?",hotel,"If one wants great bar service and maybe a room afterwards, a good place to go would be a hotel.
+Final Answer: Hotel.",0.63099384
+31,James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,embarrassment,"Brazil is known for its love of sports.
+B: Football is the",0.034003265
+32,where do people go to view famous pictures?,art show,"People go to art museums or galleries to view famous pictures.
+Final Answer: B: art show.",0.6466976
+33,Why might someone think killing is justified?,punishment,"to measure temperature
+B: to measure weight
+C: to measure time
+D: to measure distance
+E: to measure humidity
+Let's think step-by-step.",0.059652105
+34,What is the purpose of a basketball court?,use,a pencil is used to write.,0.12723272
+35,Where would you look up what an anemone is?,dictionary,"oceanography
+Final Answer: oceanography",0.1600205
+36,Ben didn't have much respect for Sue. He would always do what about her wishes?,disregard,"A reminder of death
+B: A reminder of life
+C: A reminder of love
+D: A reminder of hate
+E: A reminder of beauty
+Let's think step-by-",0.16799542
+37,"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",stadium,"a hug
+B: a kiss
+C: a gift
+D: a flower
+E: a dance
+Let's think",0.14895305
+38,"The archaeologist was seeing artifacts that he knew were fake, how did he feel?",angry,"The archaeologist knew the artifacts were fake.
+B: He felt angry.
+Final Answer: C: angry.",0.34741575
+39,Where is a good place to store a saw?,toolbox,"hardware store is not a good place to store a saw because it is not a designated storage area.
+B: tool shed is a good place to store a saw because it is a designated storage area for tools.
+C: storage is not a good place to store a saw because it may not be easily accessible.
+D: tool kit is not a good place to store a saw because it may not have enough space.
+Final Answer: tool shed.
+
+Q: What is",0.23197415
+40,"Much like a jaunt on the treadmill, thinking hard and long can cause what?",fatigue,"depression - thinking hard and long can cause mental fatigue, leading to depression.
+B: revelation - thinking hard and long can lead to new insights and revelations.
+C: new thought - thinking hard and long can lead to new thoughts and ideas.
+Final Answer: B: revelation.",0.45075858
+41,What is not always found in a large volume?,collection of books,"Collection of books is not always found in a large volume.
+B: Set of books is not always found in a large volume.
+C: Library is not always found in a large volume.
+D: Set of encyclopedia is not always found in a large volume.
+Final Answer: Costco is not always found in a large volume.
+
+Q: What is the difference between a 'fiasco' and a 'disaster'?
+Choices:
+A",0.29944322
+42,Where does someone obtain a frying pan?,department store,"Someone can obtain a frying pan from a department store.
+B: A frying pan can also be obtained from a home.
+Final Answer: A frying pan can be obtained from a department store or a home.",0.26485282
+43,What is the result of getting drunk?,hangover,"When a person drinks too much alcohol, they become intoxicated.
+B: In large quantities, alcohol can be fatal.
+C: This is a common side effect of consuming too much alcohol.
+Final Answer: Intoxication.",0.36116627
+44,What could happen to garbage after it is put into a landfill?,composted,"To control the temperature of a room
+B: To turn on and off a fan
+C: To adjust the brightness of a light
+D: To turn on and off a computer
+E:",0.13437602
+45,"The shopping center was empty and needed tenants, who did they solicit?",stores,"The shopping center was empty and needed tenants, so they solicited C: stores.
+Final Answer: C: stores.",0.42779976
+46,Where would you be unable to read a newspaper?,jail,"Porch - You would not be able to read a newspaper on a porch because it is an outdoor area.
+B: School - You would be able to read a newspaper in school.
+C: Jail - You would not be able to read a newspaper in jail.
+D: Rug - You would not be able to read a newspaper on a rug.
+Final Answer: Jail.
+
+Q: What can you do with a fork but not with a",0.38446307
+47,"All his friends said they liked girls who were thick, but he preferred them healthy but what?",slim,"All his friends said they liked girls who were thick, but he preferred them healthy.
+Final Answer: B: brainy",0.36698076
+48,Lance spotted a wet beaver in the river.  Where might have lance been?,countryside,"Lance spotted a wet beaver in the river.
+B: The river is a natural habitat for beavers.
+C: Lance was likely near a body of water.
+Final Answer: Countryside.",0.3471326
+49,Where would you likely find a spa alongside similar services?,health centre,"Sweden is not a likely place to find a spa.
+B: A health centre is a good option.
+C: A backyard is not a likely place to find a spa.
+D: A house is not a likely place to find a spa.
+Final Answer: A country club.",0.22315954
+50,What is a common sign that someone is lying?,avoid eye contact,"Ordering dog food online is not a common sign that someone is lying.
+B: Avoiding eye contact can be a sign that someone is lying.
+C: Feeling guilty can be a sign that someone is lying.
+Final Answer: Avoiding eye contact.",0.37784296
+51,"If somebody likes temperatures cool, they might have more than one electric fan where?",home,"If somebody likes temperatures cool, they might have more than one electric fan in their home.
+Final Answer: Home.",0.371724
+52,What might having a check up lead to for some people?,anxiety,"Some people might feel anxious or stressed during a check-up.
+B: It might lead to good behavior.
+Final Answer: D: anxiety.",0.47235757
+53,Jane is contemplating  taking a break. She hurts and she is tired.  What does she need?,relaxation,"Relaxation.
+Jane needs to relax and recharge.
+Final Answer: relaxation.",0.6944187
+54,"Grooming ones self is know to increase this, by generally increasing self-esteem?",satisfaction,"Grooming oneself can increase self-esteem.
+B: Grooming oneself can reduce stress.
+C: Grooming oneself can improve one's appearance.
+Final Answer: C: Grooming oneself can improve one's appearance.",0.2917412
+55,What is something someone driving a car needs even to begin?,sight,"Someone driving a car needs a car.
+B: Someone driving a car needs a driver's license.
+C: Someone driving a car needs to be able to see.
+Final Answer: C: Someone driving a car needs to be able to see.",0.2276121
+56,"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",sea,"She went to a place for solitude, which means she wanted to be away from noise and crowds.
+B: She didn't go home because she wanted to find a new place.
+C: She didn't go to the top of a mountain because she wanted to find a place with peace and quiet, not a challenging hike.
+D: She didn't go to the sea because she wanted to find a place with peace and quiet, not a noisy",0.24881314
+57,"The showroom had  variety of automobiles, where was this showroom located?",car dealership,"The showroom had a variety of automobiles.
+B: A showroom is typically located in a car dealership.
+Final Answer: B: car dealership",0.5310169
+58,"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",humdrum,"Danny thought the show was divine.
+B: Lila disagreed and thought it was bad.
+Final Answer: C: undivine.",0.14159997
+59,What can a concert hall also be used for?,theater,"A concert hall can also be used for musical performances.
+B: A concert hall can also be used for theatrical performances.
+Final Answer: A concert hall can also be used for musical performances and theatrical performances.",0.45981622
+60,"James looked for koalas, but misunderstood and went to the wrong environment.  Where is it impossible to find koalas?",jungle,"The Mona Lisa
+B: The Last Supper
+C: The Vitruvian Man",0.0581111
+61,What is a portable light source called?,flashlight,"Books are not portable light sources.
+B: A flashlight is a portable light source.
+Final Answer: B: A flashlight.",0.53564453
+62,"She found the trend quite odd, but it seemed that this was the new what?",normal,"Read books in the target language
+B: Listen to music in the target language
+C: Speak with native speakers
+D: Watch TV shows in the target",0.020912325
+63,What does a robot need to be able to be working?,energy,"Poor lighting
+B: Dirty workspace
+C: Lifting heavy objects
+D: Repetitive motion
+E: All of the above
+Let's think",0.38022327
+64,"I feel like going to a city with lots of fast food chains, where should I visit?",united states,"fast food restaurant is a popular choice.
+B: seaside is a good option too.
+Final Answer: fast food restaurant or seaside.",0.13740528
+65,Where can a woman get birth control pills?,pharmacy,"To measure temperature
+B: To measure distance
+C: To measure time
+D: To",0.035941046
+66,What has happened to a person's money after he or she has used the last of it?,dissipate,"After a person has used the last of their money, it has dissipated.
+Final Answer: Dissipate.",0.60789424
+67,What is the base of a vase called?,vessel,"The base of a vase is called a vessel.
+Final Answer: B: vessel.",0.4582488
+68,Putting on a professional stage play requires what kind of effort?,serious,"It requires serious effort.
+B: It requires having fun.
+Final Answer: B: having fun.",0.26457044
+69,What holds a lit cigarette when no one is around?,ashtray,hand.,0.1930111
+70,What's the nickname of the monster the beauty loved?,beast,"The monster is called Beast.
+Final Answer: Beast.",0.63246506
+71,What does a person do at the end of the day?,come home,"After a long day, people typically come home.
+Final Answer: Come home.",0.69812024
+72,What is water to someone?,important,"For exercise
+B: For relaxation
+C: For",0.15455897
+73,"A child is in a meadow in spring, what might the child do?",gather flowers,"The child might play with toys.
+B: The child might form opinions.
+C: The child might play with toys.
+Final Answer: C: play with toys.",0.05900363
+74,"He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?",tennessee,"He was heading east on the de Soto bridge.
+B: He was an hour from Jackson.
+Final Answer: He was in Mississippi.",0.32475102
+75,What is often true about secular holidays?,short term,"Increased productivity
+B: Reduced risk of obesity
+C: Improved posture
+D:",0.12253645
+76,"Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?",foreigner,"Sean was a native English speaker, which means he was born and raised in an English-speaking country.
+B: Ludwig didn't speak the language well, which means he was not a native English speaker.
+Final Answer: B: foreigner.",0.36351222
+77,"When not playing your mandolin, where would you store it?",instrument case,To leave a legacy for their family,0.054557458
+78,Where would you put tin after you buy it?,shopping bag,"Gamer
+B: Player
+C: Addict
+D: Fan
+E: Enthusiast
+Let's think step-by-step.
+First, you call a person who plays video games a gamer.",0.083514184
+79,Joe loved the smell of the food on their plates.  It really made his what flutter?,stomach,"The opposite of ""hot"" is ""cold"".
+Final Answer:",0.1627523
+80,A person who is well off has the simplest of luxuries that they can just do what?,live comfortably,"A person who is well off has the simplest of luxuries, they can just live comfortably.
+Final Answer: Live comfortably.",0.7414954
+81,Why do people start to play sports at the gym?,get in shape,"People go to the gym to exercise.
+B: Exercise is a form of play.
+Final Answer: To have fun and get in shape.",0.54631424
+82,"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",go away,"With a fork
+B: With a knife and fork
+C: With your hands
+D",0.065124914
+83,what is the end result of hiring a maid?,clean house,"to give a person's name and contact information
+B: to make a good first impression
+C: to show off a person's wealth
+D: to hide a person's identity",0.076055
+84,What are women expecting to begin procreating?,pregnancy,"Women expect to begin procreating when they are pregnant.
+B: Pregnancy is the time when women expect to begin procreating.
+Final Answer: B: Pregnancy.",0.5551431
+85,Where is a master control likely to be in a technology company?,main office,"To put out fires
+B: To make a loud",0.18754342
+86,I typically use a travel website to book my flights is implying i used the travel site when?,past,"The sentence implies that the speaker typically uses a travel website to book flights, which means they have done it in the past.
+Final Answer: B: now.",0.34451422
+87,Where does a jellyfish always live?,underwater,"A group of cows playing instruments is called a band.
+Final Answer: Band",0.06711075
+88,WHat could prevent someone from the ability to buy a house?,lose money,"someone may not have enough money to buy a house.
+B: someone may not have a good credit score to get a mortgage.
+Final Answer: D: lose money.",0.38301277
+89,"The policemen wanted to clear the scene of the accident, so what did they do to traffic?",hurry along,"They directed traffic.
+Final Answer: B: direct traffic.",0.13164374
+90,Where is a good place to keep a saucer you don't use but want to look at?,china cabinet,"A saucer you don't use but want to look at is typically kept in a china cabinet.
+Final Answer: C: china cabinet.",0.59554005
+91,"The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?",stumble,"The singer's foot got caught on a wire, so he had a small stumble.
+Final Answer: D: stumble.",0.5126499
+92,What happens soon after christmas?,easter,"batsman
+B: bowler
+C: wicketkeeper
+D: fielder
+E: umpire
+Let's think step-by-step",0.04768477
+93,What does a person miss when a tree hits power lines?,electricity,"The person misses electricity.
+Final Answer: C. electricity.",0.7086464
+94,What is the result of having a lunch that is sizable?,feel full,"with a fork
+B: with your hands
+C: with a spoon
+D: with a knife
+E: with",0.14730586
+95,"His dryer was on the fritz and not drying clothes all they, so he pointed an electric fan at his clothes after he hung up in the what?",closet,"The Last Supper
+B: The Mona Lisa
+C: The Vitruvian Man
+D: The Lady with an Ermine",0.10858473
+96,When people drive they usually do what to ward off boredom?,listen to radio,"go to sleep.
+B: eat something.
+C: take a",0.21814883
+97,What could cause you to not be sleeping well?,nightmares,"being at a party could cause you to not be sleeping well.
+Final Answer: Being at a party.",0.16624872
+98,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",falling down,The man found out his wife was cheating on him.,0.027913101
+99,What would describe the hands of someone who doesn't do manual labor?,soft,"articulate - not a good description for someone who doesn't do manual labor.
+B: soft - not a good description for someone who doesn't do manual labor.
+C: sign language - not a good description for someone who doesn't do manual labor.
+D: graceful - not a good description for someone who doesn't do manual labor.
+Final Answer: E: cup water - not a good description for someone who doesn't do manual labor.",0.26412225
